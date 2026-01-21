@@ -1,0 +1,1201 @@
+transaction_id,transaction_date,vendor_id,amount,transaction_type,payment_mode,reference_number,approved_by,approval_status,amount_zscore,duplicate_flag,approval_flag,amount_anomaly_flag,audit_risk_flag,vendor_name,vendor_risk_rating,month
+1,2025-05-17,47,262009,Payment,RTGS,b6b4b2ec-7911-43f6-a916-cf64f2478730,28,Approved,1.3228133035868268,False,False,False,False,Wong and Sons,Medium,2025-05
+2,2025-05-12,94,191240,Payment,NEFT,8202e1c9-db67-4544-b2d4-e1f157312c17,39,Approved,0.4867964592532185,False,False,False,False,Taylor-Ware,Low,2025-05
+3,2025-01-09,10,188675,Invoice,UPI,86969160-5de2-4bac-bd7d-e20fe7372888,28,Pending,0.4564952934077818,False,True,False,True,Young LLC,Low,2025-01
+4,2025-09-20,7,114575,Invoice,NEFT,453d6d9f-f2a2-42c4-b313-c50f19f07f3a,3,Approved,-0.4188717199048321,False,False,False,False,Ferguson LLC,Low,2025-09
+5,2025-10-17,59,68230,Invoice,RTGS,965bfbb6-d360-4a97-80f8-6cd5c0f359a7,47,Approved,-0.9663600361257916,False,False,False,False,Gonzalez LLC,Low,2025-10
+6,2025-05-31,51,160232,Payment,UPI,fb3affae-f467-40b6-9302-43d06e915ea6,8,Approved,0.12048903214394,False,False,False,False,Moore-George,High,2025-05
+7,2025-06-24,96,211111,Payment,RTGS,fcdb96fc-80e9-4f40-87e8-535c590aed32,43,Rejected,0.7215389413252151,False,True,False,True,"Wilson, Garza and Miller",Low,2025-06
+8,2025-02-19,37,126300,Payment,UPI,d611d957-f989-4a2a-ab58-dd64188206e7,48,Approved,-0.2803605426971344,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-02
+9,2025-07-25,74,259726,Invoice,UPI,fe32a996-7107-4c90-93cc-134befbc698f,21,Approved,1.2958434939863854,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-07
+10,2025-11-19,19,149931,Invoice,RTGS,6ae76fc2-61c2-4366-bea7-ab162b1778c8,2,Pending,-0.0011999773585327,False,True,False,True,Williams-Miller,Medium,2025-11
+11,2025-11-08,69,92955,Invoice,RTGS,7d980587-4e04-4a39-885a-91f2de42a9af,2,Approved,-0.6742756986878107,False,False,False,False,Bryant-Williams,Low,2025-11
+12,2025-02-19,12,19596,Invoice,RTGS,33d846f6-f297-43d4-a0e6-eb7274fb7e42,30,Approved,-1.5408890418672985,False,False,False,False,Moreno-Le,Medium,2025-02
+13,2025-07-08,53,143155,Invoice,RTGS,b8d0b6a6-3479-41b5-9b51-4a0b15d9c21c,22,Approved,-0.0812470337985634,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-07
+14,2025-06-30,81,261713,Payment,UPI,ce965652-ee00-47ab-aeeb-9064309ec940,46,Approved,1.319316560861583,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-06
+15,2025-08-02,96,187992,Payment,UPI,fd1db24d-ff27-41ee-a9c5-af064c8b64ad,17,Approved,0.4484267958356831,False,False,False,False,"Wilson, Garza and Miller",Low,2025-08
+16,2025-04-20,40,242804,Invoice,UPI,4d2054a0-5512-42a3-8b67-e97a9d312d69,9,Approved,1.0959384926466278,False,False,False,False,"Wyatt, Hunt and Smith",Medium,2025-04
+17,2025-01-01,4,243009,Invoice,NEFT,7d627f43-f9ac-47f6-b6c9-fb740ef2d44d,34,Approved,1.0983602232502592,False,False,False,False,Pierce PLC,Low,2025-01
+18,2025-06-30,75,193456,Payment,RTGS,e69c0675-8318-4512-b328-e25eccc63355,17,Approved,0.5129747764124729,False,False,False,False,"Bauer, Oconnell and Schmidt",High,2025-06
+19,2025-04-29,76,6622,Invoice,RTGS,e58ca562-b88b-4ef9-b146-92a4ae040174,22,Approved,-1.694155055777121,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-04
+20,2025-11-17,57,86182,Payment,UPI,5a2f65b9-d845-4016-bf7c-41b399d501dc,40,Approved,-0.7542873151677881,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-11
+21,2025-01-14,53,229137,Invoice,NEFT,c23648e9-a9d1-4389-9441-f78b8f698110,26,Approved,0.9344858479645292,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-01
+22,2024-12-21,62,172469,Payment,RTGS,6d3dcd30-074a-482e-85bb-80752af17db3,43,Approved,0.2650486292007074,False,False,False,False,Velasquez-Bartlett,Medium,2024-12
+23,2025-07-11,53,16555,Invoice,RTGS,7ce2fd33-34c4-4519-bbda-acd7ab7c1c10,29,Approved,-1.576813348041167,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-07
+24,2025-05-15,40,261010,Payment,NEFT,3df74537-d4ec-4e6b-9770-02f6e6357cd8,39,Approved,1.3110117968891304,False,False,False,False,"Wyatt, Hunt and Smith",Medium,2025-05
+25,2025-04-28,54,189374,Invoice,RTGS,34aae4f3-5ab7-448d-aeac-8a8d9b907692,22,Approved,0.464752804100164,False,False,False,False,Bishop-Chambers,Low,2025-04
+26,2025-11-03,33,64129,Payment,UPI,2813663b-b336-4080-b727-08da3189253c,20,Approved,-1.014806461518437,False,False,False,False,"Robertson, Washington and Walker",Low,2025-11
+27,2025-04-22,81,126789,Invoice,NEFT,4d7a230c-144a-4d73-8eb4-79e26ca02103,43,Approved,-0.2745838292084722,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-04
+28,2025-02-15,26,137596,Invoice,NEFT,a27e5572-6a0b-4267-9e07-41f54fd8de6f,40,Approved,-0.146917279777036,False,False,False,False,Brown-Salas,Low,2025-02
+29,2025-03-26,89,210738,Payment,RTGS,55a15e80-c8dc-42f3-817e-4eb533a67635,25,Approved,0.7171325729586078,False,False,False,False,Lawson-Mccoy,Low,2025-03
+30,2025-12-02,3,33145,Invoice,UPI,fb6d9125-bef9-41dd-a49b-b8f8515dfe3a,30,Approved,-1.3808303689472905,False,False,False,False,"Hale, Rush and Smith",Low,2025-12
+31,2025-09-28,12,56474,Invoice,UPI,b67ebdd6-3fe8-4d3c-bcd5-4385791774f3,49,Approved,-1.1052374262540383,False,False,False,False,Moreno-Le,Medium,2025-09
+32,2025-07-14,74,41408,Invoice,NEFT,bffe4bc3-c2b6-4f39-9e59-22ff6f685bd1,47,Approved,-1.2832169056409186,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-07
+33,2025-03-26,80,95327,Invoice,UPI,fe4641d7-54c7-48d6-8c21-30170dc8e07f,21,Approved,-0.6462545036057928,False,False,False,False,Barker and Sons,Medium,2025-03
+34,2025-01-10,80,151968,Payment,NEFT,8f46e853-3a35-4c76-bd63-a27624b1f93c,12,Approved,0.0228637555175508,False,False,False,False,Barker and Sons,Medium,2025-01
+35,2025-10-13,26,42641,Payment,UPI,2c9a5300-71aa-4d82-b94a-2e3a7af810f9,17,Approved,-1.2686510820590773,False,False,False,False,Brown-Salas,Low,2025-10
+36,2025-07-19,85,286685,Payment,UPI,0ae93673-e6ab-4bb1-80ec-bf19a9487282,14,Approved,1.6143187883439396,False,False,False,False,"Williams, Malone and Villa",Low,2025-07
+37,2025-07-26,7,209615,Payment,UPI,29ee2729-545b-422a-989f-c27209305a2a,23,Approved,0.7038662145787149,False,False,False,False,Ferguson LLC,Low,2025-07
+38,2025-03-10,95,292654,Invoice,RTGS,2a08644c-894f-4b1e-b327-9d92b85c73a4,42,Approved,1.684832495529675,False,False,False,False,Fox-Turner,High,2025-03
+39,2025-01-08,14,126826,Payment,NEFT,d7e6925b-c5fc-44f1-a47e-4833764a89e9,34,Pending,-0.2741467363678168,False,True,False,True,"Fields, Calhoun and Robertson",High,2025-01
+40,2025-06-29,43,139055,Payment,UPI,a88ab6a4-590f-4dc9-acf5-25234845b042,23,Approved,-0.1296816458711912,False,False,False,False,Stephenson-Collier,Low,2025-06
+41,2025-12-15,15,99071,Invoice,NEFT,86a64276-9aef-4613-be5a-f30c2319da05,22,Approved,-0.6020254334594712,False,False,False,False,Williams-Green,High,2025-12
+42,2025-06-10,82,118824,Payment,NEFT,c8d1486c-c253-4294-b222-18568b8bff8b,42,Pending,-0.3686769231495649,False,True,False,True,"Baker, White and Brown",High,2025-06
+43,2025-10-28,66,128618,Payment,RTGS,b48d3141-aa1e-432a-b569-09e64bd1440c,30,Approved,-0.2529772668960731,False,False,False,False,Moore-Fitzgerald,Low,2025-10
+44,2025-09-24,13,32788,Payment,UPI,9eeafc04-3cad-4646-89c9-218bb9e79dfa,39,Approved,-1.385047724193614,False,False,False,False,"Cox, Perry and Garcia",Low,2025-09
+45,2025-12-05,29,187256,Invoice,RTGS,366ddcd9-b178-454d-bc5f-cfe04309e6f8,44,Approved,0.4397321923026455,False,False,False,False,"Navarro, Lewis and Rogers",Medium,2025-12
+46,2025-09-12,56,110373,Invoice,UPI,b423024d-dbc3-4e8f-9931-45707cc8a3ca,39,Approved,-0.4685112906192666,False,False,False,False,"Reynolds, Smith and Anderson",High,2025-09
+47,2025-04-09,65,37733,Invoice,UPI,891e7634-1f6b-4582-a276-8719ec2d6b8f,45,Approved,-1.326630856706018,False,False,False,False,Jones Group,Medium,2025-04
+48,2025-08-31,30,170873,Payment,RTGS,01b64386-c041-43d3-981b-d854ad0e3f11,37,Approved,0.2461945704524356,False,False,False,False,Owens LLC,High,2025-08
+49,2025-12-11,65,266044,Payment,UPI,4168154b-bd3f-407d-b66c-c41027288b1e,9,Approved,1.3704800498583032,False,False,False,False,Jones Group,Medium,2025-12
+50,2025-11-06,88,210763,Payment,UPI,dccaf115-6306-44db-b8f6-cdb9bc0d6f7f,37,Approved,0.7174279059590506,False,False,False,False,Moon and Sons,Low,2025-11
+51,2025-03-13,43,233731,Payment,UPI,29997a2a-6f56-49c1-a2a3-893a3c6119cf,46,Approved,0.9887562401259078,False,False,False,False,Stephenson-Collier,Low,2025-03
+52,2025-09-15,62,39636,Payment,NEFT,e2e2cad6-f0f2-4948-abd8-b9fab6879fc9,7,Rejected,-1.304150108712308,False,True,False,True,Velasquez-Bartlett,Medium,2025-09
+53,2025-07-10,59,250596,Invoice,RTGS,c3bb0ee4-265d-4105-9434-e8ac14cb5a34,45,Approved,1.187987882224656,False,False,False,False,Gonzalez LLC,Low,2025-07
+54,2025-05-04,98,251584,Payment,NEFT,3b0f72c8-87b1-4698-a00f-869320fdaaa2,49,Rejected,1.1996594424021574,False,True,False,True,Pope-Cuevas,Low,2025-05
+55,2025-05-02,6,78781,Invoice,UPI,4300d2aa-1a97-4fd1-aef9-bddd657e2985,49,Approved,-0.8417176966188901,False,False,False,False,Johnson Ltd,Low,2025-05
+56,2025-12-13,20,154369,Invoice,NEFT,8ae64d9b-8b16-4f1c-8d2d-971597630885,42,Approved,0.0512275368800823,False,False,False,False,"Miller, Torres and Mendez",Low,2025-12
+57,2025-06-19,82,164903,Invoice,RTGS,df20d039-f1ec-476a-bae8-334b7656a1e2,13,Approved,0.1756690499466825,False,False,False,False,"Baker, White and Brown",High,2025-06
+58,2024-12-19,89,195792,Payment,RTGS,6731a1f1-934e-4980-9688-a52fc2c3317f,37,Approved,0.540570691973853,False,False,False,False,Lawson-Mccoy,Low,2024-12
+59,2025-08-30,56,48642,Payment,NEFT,e3262d49-1b24-43be-84d5-330d4a82a1b3,9,Approved,-1.197759348632775,False,False,False,False,"Reynolds, Smith and Anderson",High,2025-08
+60,2025-07-15,98,293075,Payment,NEFT,6abb610e-c046-4e43-ab32-b0d0ffe4822f,15,Approved,1.6898059032571326,False,False,False,False,Pope-Cuevas,Low,2025-07
+61,2025-11-16,5,86121,Payment,UPI,7f431bc9-0c4d-4a0c-9e04-83bdce883c81,38,Approved,-0.7550079276888687,False,False,False,False,Williams-Jackson,Low,2025-11
+62,2025-06-27,5,117217,Payment,RTGS,034efdbd-c1ee-481d-ba68-57a8df271b5f,37,Approved,-0.3876609284180314,False,False,False,False,Williams-Jackson,Low,2025-06
+63,2025-11-19,77,91988,Invoice,RTGS,5d0905ae-9440-400a-8a1e-79de701af74e,40,Pending,-0.6856991791449402,False,True,False,True,Franco-Singleton,Low,2025-11
+64,2025-04-27,62,7396,Invoice,RTGS,7064da5c-0c93-4bc5-8cb3-f54a115be236,3,Approved,-1.6850115460834103,False,False,False,False,Velasquez-Bartlett,Medium,2025-04
+65,2025-04-09,98,254690,Invoice,NEFT,1c60a4f0-1cd0-4281-a5ec-f6a6bb408038,33,Pending,1.236351614377177,False,True,False,True,Pope-Cuevas,Low,2025-04
+66,2025-10-21,19,24623,Payment,NEFT,71b5f683-2f3c-4d0d-af7a-4e0719a5d1d3,48,Approved,-1.4815034821382496,False,False,False,False,Williams-Miller,Medium,2025-10
+67,2025-07-29,45,162364,Payment,UPI,fe7b6bb2-f9ac-4fd1-be56-c735fcbf07ac,27,Approved,0.1456750304217065,False,False,False,False,Maddox-Green,High,2025-07
+68,2024-12-30,7,199692,Invoice,NEFT,b0e88a4d-0cef-43bc-8e32-abc0dded5cc3,31,Pending,0.586642640042938,False,True,False,True,Ferguson LLC,Low,2024-12
+69,2025-09-24,10,7719,Invoice,NEFT,ef1f1450-2c2e-495d-b3d6-5d0c3489b898,30,Pending,-1.6811958437176886,False,True,False,True,Young LLC,Low,2025-09
+70,2025-02-16,82,131209,Payment,NEFT,34199b12-a9f0-4cb5-beed-30bbffa4fa81,29,Approved,-0.2223689547301759,False,False,False,False,"Baker, White and Brown",High,2025-02
+71,2025-10-18,66,223335,Invoice,RTGS,bf19b533-f4fe-48fa-99d7-cbecbe4af8ff,27,Rejected,0.8659449652217521,False,True,False,True,Moore-Fitzgerald,Low,2025-10
+72,2025-04-17,17,168038,Payment,NEFT,0de761fb-c353-43cf-82e2-77a4856e2e02,35,Approved,0.2127038082022162,False,False,False,False,Lewis-Sullivan,Medium,2025-04
+73,2025-04-23,83,183589,Invoice,RTGS,60b64365-f150-4551-a125-4c51259b115c,41,Rejected,0.396412747797688,False,True,False,True,Mcmahon Group,High,2025-04
+74,2025-09-22,63,268579,Payment,UPI,99d948f5-2d06-40d2-8235-3694bc6e092c,30,Approved,1.4004268161032083,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-09
+75,2025-05-26,22,208667,Payment,RTGS,a09825af-dc8c-4ecb-8360-65faa3f7b127,4,Approved,0.6926671872019219,False,False,False,False,"Wilson, Lopez and Welch",Medium,2025-05
+76,2025-03-23,17,78609,Payment,NEFT,0f699a16-a7dd-4bab-b9e8-51623ce0a9b7,22,Approved,-0.843749587661937,False,False,False,False,Lewis-Sullivan,Medium,2025-03
+77,2025-06-02,82,159893,Payment,UPI,46fd6f7f-af5d-401a-bb3a-857ead8ba57e,29,Approved,0.1164843166579349,False,False,False,False,"Baker, White and Brown",High,2025-06
+78,2025-11-25,99,157499,Invoice,UPI,987c52af-3b7c-4e04-a26b-3b31fd746149,29,Approved,0.0882032285355274,False,False,False,False,Wheeler Inc,Medium,2025-11
+79,2025-10-06,6,36598,Invoice,UPI,2cfb9f4c-06e9-45c1-a150-1edc17d3c01d,11,Approved,-1.3400389749261234,False,False,False,False,Johnson Ltd,Low,2025-10
+80,2025-03-26,26,16745,Payment,RTGS,f8ab9e23-783c-44da-b81f-60a7abbe2fac,29,Pending,-1.5745688172378012,False,True,False,True,Brown-Salas,Low,2025-03
+81,2025-06-05,99,218030,Invoice,UPI,4874cfda-53a7-4813-b9db-8914c9b37290,29,Approved,0.8032753025277789,False,False,False,False,Wheeler Inc,Medium,2025-06
+82,2025-06-01,32,289186,Invoice,NEFT,c7278596-32ef-4e3d-918f-47d163520121,44,Approved,1.6438639017082426,False,False,False,False,Nelson Ltd,High,2025-06
+83,2025-07-02,93,58268,Invoice,NEFT,9baf8e5a-f9fe-439c-9760-f653fe0aebc9,20,Approved,-1.084044330142259,False,False,False,False,Parker-Singh,Low,2025-07
+84,2025-10-31,57,168268,Invoice,UPI,5fb31d65-7d9e-4d9f-9e22-b611e291d021,1,Approved,0.2154208718062904,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-10
+85,2025-02-08,38,184362,Payment,NEFT,38df49b0-5cc3-4809-82ba-8f8d7d8b2384,25,Approved,0.4055444441713809,False,False,False,False,"Mason, Hopkins and May",Low,2025-02
+86,2025-04-27,18,285783,Invoice,RTGS,cdd9ec42-cdeb-4311-8847-23a858042f87,25,Pending,1.6036631736879614,False,True,False,True,"Gonzalez, Maynard and Pham",Medium,2025-04
+87,2025-12-01,53,210390,Invoice,RTGS,be706706-e357-4d7f-abd7-61307129aaaa,50,Approved,0.7130215375924432,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-12
+88,2025-06-10,3,197860,Payment,NEFT,f458358e-a8ba-465c-8bb8-6ca170b6a973,24,Pending,0.5650006377704857,False,True,False,True,"Hale, Rush and Smith",Low,2025-06
+89,2025-09-16,3,151323,Payment,UPI,b20a6eed-cd12-4236-bcbd-bf9f68ae9bdd,25,Approved,0.0152441641061252,False,False,False,False,"Hale, Rush and Smith",Low,2025-09
+90,2025-09-24,71,278680,Payment,NEFT,358c8e05-5d10-4259-951a-544e1e1a1c39,38,Approved,1.5197531616021382,False,False,False,False,Jones Ltd,Medium,2025-09
+91,2025-01-30,60,134749,Payment,NEFT,4d3c0e53-16d5-4291-a2b4-b01462891c07,2,Approved,-0.180549801867468,False,False,False,False,Thompson PLC,Low,2025-01
+92,2025-05-11,11,90708,Invoice,NEFT,b9eeaad0-a672-421b-bd06-5acd24a4321c,18,Approved,-0.7008202287676142,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-05
+93,2025-09-04,82,198118,Payment,UPI,42c34853-5fb6-45f7-abdb-0bc9ad5928cb,45,Approved,0.568048474335056,False,False,False,False,"Baker, White and Brown",High,2025-09
+94,2025-07-12,41,297231,Invoice,RTGS,d9d332a0-5756-4d72-b310-e3e259c4ab69,24,Approved,1.7389020612507524,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-07
+95,2025-02-22,76,174631,Invoice,RTGS,a4f00a05-d9ea-4776-893d-9f50208683f1,22,Approved,0.2905890270790052,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-02
+96,2025-12-11,33,210735,Payment,RTGS,00e85f9f-e720-440d-b273-ad56773f7dda,33,Approved,0.7170971329985546,False,False,False,False,"Robertson, Washington and Walker",Low,2025-12
+97,2025-01-21,33,181076,Payment,NEFT,dba417eb-ce18-4f39-9b20-30c617ecc104,13,Approved,0.3667258745931725,False,False,False,False,"Robertson, Washington and Walker",Low,2025-01
+98,2025-05-23,22,113737,Payment,UPI,ddfd1f6a-cfe9-437e-b0a0-8f587104c400,26,Approved,-0.4287712820796764,False,False,False,False,"Wilson, Lopez and Welch",Medium,2025-05
+99,2025-05-16,15,201713,Invoice,NEFT,0089eaaa-783f-4da6-bc58-43c77898d99e,40,Approved,0.6105173597987381,False,False,False,False,Williams-Green,High,2025-05
+100,2025-04-05,67,220048,Payment,NEFT,d4f4244b-8d02-491b-96bd-b80f528c86fa,39,Approved,0.827114582323526,False,False,False,False,Hays-Wolf,Medium,2025-04
+101,2025-11-29,41,95827,Payment,RTGS,fe325376-bbe5-4e81-b298-dfa9be31565c,28,Pending,-0.6403478435969358,False,True,False,True,"Ellison, Kim and Reyes",Medium,2025-11
+102,2025-05-12,62,29826,Invoice,UPI,336c6655-6db7-4abc-ae4a-3ccce583c200,11,Pending,-1.4200387780860833,False,True,False,True,Velasquez-Bartlett,Medium,2025-05
+103,2025-05-11,4,278797,Payment,RTGS,477e10e9-43e9-4d06-ae1b-9cb1f40062c6,26,Approved,1.5211353200442108,False,False,False,False,Pierce PLC,Low,2025-05
+104,2025-08-30,41,258627,Payment,RTGS,0b4cd9d9-79f0-4c3d-bb1c-c8301dc3fcd1,11,Approved,1.2828606552869175,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-08
+105,2024-12-21,12,146398,Payment,NEFT,1c75be95-8434-48f3-a1c8-4c452d6c2f7c,25,Pending,-0.0429364369811166,False,True,False,True,Moreno-Le,Medium,2024-12
+106,2024-12-26,19,156094,Payment,NEFT,eb8aec41-bf25-4a33-807d-8dc1cf5ceaa3,8,Pending,0.0716055139106391,False,True,False,True,Williams-Miller,Medium,2024-12
+107,2025-10-13,53,75326,Payment,UPI,7be015f2-80b8-40ba-9e4a-9640aef485f7,44,Approved,-0.8825327172800923,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-10
+108,2025-04-24,18,283226,Payment,NEFT,ac5940be-3345-4f9a-8cb4-25a798df47f2,32,Approved,1.5734565144026669,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-04
+109,2025-09-26,59,250378,Payment,RTGS,ade43263-93fb-41a1-a958-1ad3ff4c931a,35,Approved,1.1854125784607945,False,False,False,False,Gonzalez LLC,Low,2025-09
+110,2025-08-22,54,60230,Invoice,NEFT,a22e98c8-8f0b-4c88-850b-1fb7b9a17078,7,Approved,-1.060866596267504,False,False,False,False,Bishop-Chambers,Low,2025-08
+111,2025-09-26,94,64321,Invoice,NEFT,6f7c24f6-1457-4352-9508-a435c70d94fb,4,Approved,-1.0125383040750358,False,False,False,False,Taylor-Ware,Low,2025-09
+112,2025-02-25,20,271847,Invoice,RTGS,745a5a0f-9f38-4a04-b21e-4739e42093f2,34,Approved,1.439032745921098,False,False,False,False,"Miller, Torres and Mendez",Low,2025-02
+113,2025-03-02,66,294102,Payment,RTGS,aa5b4227-b046-411a-afa9-18a456350e6f,39,Approved,1.701938182915325,False,False,False,False,Moore-Fitzgerald,Low,2025-03
+114,2024-12-22,58,47229,Invoice,UPI,a41ef0ba-8248-47a3-9c9c-ff325fd62aed,45,Approved,-1.214451569817805,False,False,False,False,Frye-Walker,Low,2024-12
+115,2025-04-30,21,24975,Payment,RTGS,1894d4b9-0d1c-4275-bb84-9b1938a070fe,23,Approved,-1.4773451934920143,False,False,False,False,Marshall PLC,Low,2025-04
+116,2025-11-27,14,185225,Invoice,NEFT,6f2479ba-4480-4af9-9228-1fcf5c6c5908,5,Approved,0.4157393393466682,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-11
+117,2025-04-18,41,171205,Payment,NEFT,cf1ba7ab-e595-4333-b478-8216596f83e8,47,Approved,0.2501165926983167,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-04
+118,2024-12-20,89,106459,Payment,UPI,b2c02af8-4c8d-4c72-9e86-ab28ac266462,6,Approved,-0.5147486251685995,False,False,False,False,Lawson-Mccoy,Low,2024-12
+119,2025-08-27,89,228224,Payment,RTGS,9977ad93-5840-4ca8-9c8f-09f758d0c265,35,Approved,0.9237002867883564,False,False,False,False,Lawson-Mccoy,Low,2025-08
+120,2025-10-16,65,157999,Payment,NEFT,23d731c0-7eb9-4cd4-8eed-5cd551ed3dfc,23,Approved,0.0941098885443845,False,False,False,False,Jones Group,Medium,2025-10
+121,2025-01-16,11,188305,Invoice,RTGS,76817c5c-c135-47e7-8c2a-f27b258954aa,14,Approved,0.4521243650012276,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-01
+122,2025-10-10,93,116453,Invoice,NEFT,ed0fca9b-c437-4fad-9e4f-961ae4dae70e,5,Approved,-0.396686304911565,False,False,False,False,Parker-Singh,Low,2025-10
+123,2025-07-29,43,218567,Payment,NEFT,f84c288c-74d8-4346-8755-dd539a424d94,43,Approved,0.8096190553772914,False,False,False,False,Stephenson-Collier,Low,2025-07
+124,2025-04-23,76,97324,Invoice,NEFT,ed0d5568-f955-4db7-b0f1-8f242ca49571,44,Approved,-0.6226633035304178,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-04
+125,2025-06-08,79,154381,Payment,UPI,8d229286-c565-4c2e-9976-659921c33ca3,20,Approved,0.0513692967202949,False,False,False,False,Williams LLC,High,2025-06
+126,2025-09-19,2,202576,Invoice,NEFT,598d7587-e52f-4719-9b4e-ad1ae32d5cad,20,Approved,0.6207122549740254,False,False,False,False,Adams Ltd,High,2025-09
+127,2025-10-02,1,175102,Invoice,RTGS,0e627cb8-972b-4e20-ba24-1018eae58f3c,37,Pending,0.2961531008073485,False,True,False,True,Clarke-Carlson,Medium,2025-10
+128,2025-05-15,69,165928,Invoice,UPI,d4fb3e21-0bf0-49aa-89ef-31fd454abffa,14,Approved,0.1877777029648395,False,False,False,False,Bryant-Williams,Low,2025-05
+129,2025-02-01,20,253500,Payment,UPI,d47bd880-a48b-4452-993a-55d6fa78ee76,43,Approved,1.2222937635560975,False,False,False,False,"Miller, Torres and Mendez",Low,2025-02
+130,2025-02-03,89,151470,Invoice,UPI,84cdf589-2b56-4d3f-a516-72975dd598b7,43,Approved,0.0169807221487292,False,False,False,False,Lawson-Mccoy,Low,2025-02
+131,2025-03-13,44,84141,Payment,UPI,6a2d379b-e003-4f32-98ef-26218705421b,45,Approved,-0.7783983013239426,False,False,False,False,Dorsey Inc,Low,2025-03
+132,2025-03-05,50,126863,Payment,NEFT,1d57dbe7-868d-43d5-8711-7b317a65eb31,1,Approved,-0.2737096435271613,False,False,False,False,Hoffman Group,High,2025-03
+133,2025-07-12,29,110823,Payment,NEFT,b97e7ecc-ab24-4924-be25-2cc93d74b0d7,47,Approved,-0.4631952966112953,False,False,False,False,"Navarro, Lewis and Rogers",Medium,2025-07
+134,2025-05-19,34,53320,Invoice,UPI,6e1e6934-c1a6-49e9-bff4-28db84180fda,26,Approved,-1.1424966375899086,False,False,False,False,"Yu, Nelson and Martinez",High,2025-05
+135,2025-05-16,30,33625,Invoice,RTGS,fa497e0c-cf8b-4f9a-b265-546685ca06ad,8,Pending,-1.3751599753387875,False,True,False,True,Owens LLC,High,2025-05
+136,2025-07-03,76,178895,Invoice,RTGS,d94afddb-a30a-4449-bfb7-d928d34c7235,4,Approved,0.340961023634538,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-07
+137,2025-10-06,19,248341,Invoice,NEFT,d284e6df-8b47-4c70-a63f-8239509a24d3,41,Approved,1.1613488455847103,False,False,False,False,Williams-Miller,Medium,2025-10
+138,2025-12-13,92,108409,Payment,RTGS,33abaada-1421-4069-a467-c221fdf60c13,9,Pending,-0.4917126511340571,False,True,False,True,Jackson Group,Low,2025-12
+139,2025-09-04,89,116279,Invoice,NEFT,039b0601-4637-4c3b-ba9b-6dd2ca8d546f,13,Approved,-0.3987418225946472,False,False,False,False,Lawson-Mccoy,Low,2025-09
+140,2025-04-29,75,237549,Payment,RTGS,c9a6fd97-38cf-4ddc-8a4f-7d7de7d0727a,19,Pending,1.03385949595354,False,True,False,True,"Bauer, Oconnell and Schmidt",High,2025-04
+141,2025-01-27,82,250014,Invoice,NEFT,0dcee675-15bb-42e1-b506-40f0cf162093,11,Approved,1.1811125299743463,False,False,False,False,"Baker, White and Brown",High,2025-01
+142,2025-05-06,54,120142,Invoice,NEFT,4e15862a-1034-4a88-a292-d3d93682b431,15,Approved,-0.3531069673662177,False,False,False,False,Bishop-Chambers,Low,2025-05
+143,2025-08-14,71,145180,Invoice,NEFT,f4b6d7fb-7b4c-4861-a8fd-9792482ce0a3,25,Approved,-0.0573250607626923,False,False,False,False,Jones Ltd,Medium,2025-08
+144,2025-02-26,96,84973,Payment,UPI,b66646af-fbd4-4d98-b8b4-9319dbf848b4,35,Approved,-0.7685696190692045,False,False,False,False,"Wilson, Garza and Miller",Low,2025-02
+145,2024-12-25,78,292681,Payment,NEFT,8b51cf15-dcbc-4c70-ac84-5cc6042db10e,3,Approved,1.6851514551701532,False,False,False,False,Williams-Hopkins,Low,2024-12
+146,2025-03-07,72,171703,Payment,RTGS,e14270be-b2b8-4586-99d8-1a978c4b1640,28,Approved,0.2559996260671384,False,False,False,False,Baker-Maldonado,Low,2025-03
+147,2025-11-04,26,140832,Payment,NEFT,2934616b-ebd0-4579-98c2-23cdc23b80b2,34,Approved,-0.1086893761997132,False,False,False,False,Brown-Salas,Low,2025-11
+148,2025-09-17,79,147635,Payment,UPI,33b5bccb-3dde-4b98-b98e-acefb31687d7,43,Approved,-0.0283233601192043,False,False,False,False,Williams LLC,High,2025-09
+149,2025-09-05,70,217781,Payment,UPI,114cf03f-3320-4d89-b908-dcd37d5eb311,43,Approved,0.8003337858433681,False,False,False,False,Gaines-Marshall,Low,2025-09
+150,2025-10-15,23,64182,Invoice,UPI,616d28ea-f62d-4092-9bc2-67126c940347,25,Approved,-1.014180355557498,False,False,False,False,Adams-Patel,Medium,2025-10
+151,2024-12-29,51,50379,Invoice,NEFT,a7a38f30-87bb-422e-9787-bab3f589f7e8,22,Approved,-1.1772396117620056,False,False,False,False,Moore-George,High,2024-12
+152,2025-08-17,78,142084,Payment,NEFT,90b71e45-457a-4376-823e-a9339eb54c5c,46,Approved,-0.0938990995375352,False,False,False,False,Williams-Hopkins,Low,2025-08
+153,2025-10-01,28,126999,Payment,RTGS,99c45782-5bbb-4842-8bcd-5a091a9cb3ae,18,Approved,-0.2721030320047522,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-10
+154,2025-10-14,77,236513,Invoice,RTGS,80569da9-d183-4bf4-8f28-07d85f1d9953,11,Approved,1.0216208964151885,False,False,False,False,Franco-Singleton,Low,2025-10
+155,2025-12-05,74,77588,Invoice,UPI,84df5cb7-733f-48ce-8d55-4d801b01a4cb,49,Approved,-0.855810987400023,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-12
+156,2025-04-12,42,124735,Payment,RTGS,80e7e94d-a6d2-49c5-aec8-ae4cb886f192,7,Pending,-0.2988483885248569,False,True,False,True,Dickerson-Reed,Low,2025-04
+157,2025-01-18,44,47668,Payment,UPI,156a2f87-787a-49a8-898d-a592a8315d77,13,Approved,-1.2092655223300286,False,False,False,False,Dorsey Inc,Low,2025-01
+158,2025-11-24,21,224861,Payment,NEFT,c7fc9189-b319-4c22-bf4b-c0f3fb24cdf4,26,Approved,0.8839720915687839,False,False,False,False,Marshall PLC,Low,2025-11
+159,2025-11-01,10,81153,Invoice,NEFT,345c7d37-6d89-4e56-b0f7-313afa16fcdf,42,Pending,-0.8136965015368723,False,True,False,True,Young LLC,Low,2025-11
+160,2025-03-01,80,237601,Invoice,NEFT,2e69388b-58d0-4336-91e9-9fc5e4fa49b7,4,Approved,1.0344737885944613,False,False,False,False,Barker and Sons,Medium,2025-03
+161,2025-03-03,19,143299,Invoice,RTGS,a57033a1-7a70-47c0-9bcd-6388c0c0fabf,25,Approved,-0.0795459157160125,False,False,False,False,Williams-Miller,Medium,2025-03
+162,2025-12-02,36,201553,Invoice,UPI,69a41ce0-12a9-4d5f-befe-955582912903,50,Approved,0.6086272285959039,False,False,False,False,Evans-Todd,Low,2025-12
+163,2025-10-17,49,251242,Payment,RTGS,3bd3d44c-2ff5-47e8-a3cb-f057c36c70ec,33,Approved,1.195619286956099,False,False,False,False,"Wilson, Hale and Allen",High,2025-10
+164,2025-03-02,81,73388,Invoice,UPI,80032c4a-8594-427c-817e-ae19d94e8dc1,28,Approved,-0.9054269314744222,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-03
+165,2025-10-30,11,62993,Invoice,RTGS,dda4e4fa-c1d6-45fb-83e1-7af3b44b60ba,13,Approved,-1.0282263930585602,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-10
+166,2025-07-25,25,22727,Invoice,UPI,6700c762-bff1-4f2a-bc7a-dca045f7e599,21,Approved,-1.5039015368918356,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-07
+167,2025-07-05,42,299054,Invoice,NEFT,1250e5b9-c993-408c-8fab-8c118a41bf50,11,Rejected,1.7604377436430452,False,True,False,True,Dickerson-Reed,Low,2025-07
+168,2025-05-09,60,81329,Payment,UPI,8bb5d46f-3fa5-44f2-9c83-033dd0af771c,45,Approved,-0.8116173572137546,False,False,False,False,Thompson PLC,Low,2025-05
+169,2025-05-26,97,209451,Invoice,NEFT,00d81f4a-741c-492a-8318-88dd5db19887,8,Approved,0.7019288300958098,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-05
+170,2025-10-15,70,73008,Invoice,NEFT,739cc54c-685a-4cea-94de-3af8f0cd4a08,49,Pending,-0.9099159930811536,False,True,False,True,Gaines-Marshall,Low,2025-10
+171,2025-04-21,60,277900,Payment,UPI,e17a07d2-2243-4022-860d-a4e329e37e72,32,Approved,1.5105387719883214,False,False,False,False,Thompson PLC,Low,2025-04
+172,2025-04-18,72,79069,Payment,RTGS,d0b4655d-7747-423e-8b3a-8d7c70b2750d,23,Approved,-0.8383154604537885,False,False,False,False,Baker-Maldonado,Low,2025-04
+173,2025-09-12,81,261353,Invoice,RTGS,9021e8d3-480a-4196-89fc-acc754976bc6,8,Approved,1.3150637656552062,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-09
+174,2025-09-16,58,47828,Invoice,UPI,8cc217ed-7d91-4314-b5f0-35065f1ebaff,47,Approved,-1.2073753911271945,False,False,False,False,Frye-Walker,Low,2025-09
+175,2025-11-20,80,237041,Payment,RTGS,f28632e8-f10c-4666-bafd-a4593721ee5b,16,Approved,1.0278583293845414,False,False,False,False,Barker and Sons,Medium,2025-11
+176,2025-03-03,16,156175,Payment,UPI,3cbad9e7-0bb5-4bdc-afb0-8e5ad25caf08,16,Approved,0.072562392832074,False,False,False,False,Campbell LLC,Low,2025-03
+177,2025-03-26,23,107747,Invoice,RTGS,1dc6388b-e069-4b2b-80f8-1e272de5b41d,5,Approved,-0.4995330689857838,False,False,False,False,Adams-Patel,Medium,2025-03
+178,2025-03-18,65,218277,Invoice,RTGS,d67a9efc-5f6f-48db-ae8e-bd39b9390f01,22,Approved,0.8061931925721543,False,False,False,False,Jones Group,Medium,2025-03
+179,2025-03-15,32,124968,Invoice,RTGS,6eeda6a7-061f-4ea0-8f07-09ed7ee048d1,34,Approved,-0.2960958849607295,False,False,False,False,Nelson Ltd,High,2025-03
+180,2025-02-14,36,124264,Invoice,RTGS,ec132122-58c0-4cfa-b979-61f06e634356,45,Approved,-0.3044124622532002,False,False,False,False,Evans-Todd,Low,2025-02
+181,2025-03-01,85,40585,Invoice,NEFT,ef0fa94c-951d-4da2-a9b0-aa8998c04f6e,9,Approved,-1.2929392680154974,False,False,False,False,"Williams, Malone and Villa",Low,2025-03
+182,2025-11-06,67,43067,Payment,UPI,7c759d36-786d-48ba-9528-b88f6d3ddae4,26,Approved,-1.263618607731531,False,False,False,False,Hays-Wolf,Medium,2025-11
+183,2025-12-12,55,95373,Invoice,RTGS,36022ef7-7113-4707-9ba1-12eb854aadb5,43,Approved,-0.6457110908849779,False,False,False,False,Strickland-Lam,Medium,2025-12
+184,2025-06-29,60,226427,Payment,UPI,018d69d5-5774-42cb-8a86-d2cbd07a8702,49,Approved,0.902471750716524,False,False,False,False,Thompson PLC,Low,2025-06
+185,2025-11-23,82,92468,Invoice,RTGS,b70a6327-ece2-46ba-bcca-4307a4336470,24,Approved,-0.6800287855364374,False,False,False,False,"Baker, White and Brown",High,2025-11
+186,2025-11-06,78,78861,Invoice,UPI,21414285-6774-4156-bde6-1a92db9d1cf6,14,Approved,-0.840772631017473,False,False,False,False,Williams-Hopkins,Low,2025-11
+187,2025-08-29,21,291370,Payment,UPI,9a8c36b8-6970-4176-833e-bbc823b63cf1,2,Approved,1.66966419262693,False,False,False,False,Marshall PLC,Low,2025-08
+188,2025-07-08,78,109211,Payment,RTGS,b6116960-9594-4be0-ad12-589b4a5fd647,25,Approved,-0.4822383684798504,False,False,False,False,Williams-Hopkins,Low,2025-07
+189,2025-11-23,54,34984,Payment,UPI,10bb17ce-16a8-4155-8d68-678d92fcbe26,14,Approved,-1.359105673434714,False,False,False,False,Bishop-Chambers,Low,2025-11
+190,2025-04-22,80,173757,Payment,NEFT,3b75a296-2a15-4a73-be4d-b011232d5f63,3,Rejected,0.2802641853835231,False,True,False,True,Barker and Sons,Medium,2025-04
+191,2025-05-15,6,55200,Invoice,NEFT,951e1d14-7af4-4be9-96d4-39403483b257,34,Approved,-1.120287595956606,False,False,False,False,Johnson Ltd,Low,2025-05
+192,2025-05-12,98,22347,Invoice,UPI,0cd601d2-efc4-4487-ac6b-0c72a5d92800,4,Approved,-1.5083905984985668,False,False,False,False,Pope-Cuevas,Low,2025-05
+193,2025-11-20,12,12967,Payment,NEFT,382275ce-af85-42d5-a55c-077bc82121a5,31,Approved,-1.619199540264725,False,False,False,False,Moreno-Le,Medium,2025-11
+194,2025-01-14,18,188260,Payment,UPI,17e1bf16-bc6b-4115-b95d-bcac2b09b589,6,Approved,0.4515927656004305,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-01
+195,2025-09-14,43,65545,Payment,UPI,2bfa7bb3-88f5-408a-ae62-5b240a315ae6,19,Approved,-0.9980788003733536,False,False,False,False,Stephenson-Collier,Low,2025-09
+196,2025-04-18,5,47913,Payment,NEFT,143bd8f3-c92b-4fb5-a72b-613f1ca8f52b,2,Approved,-1.2063712589256883,False,False,False,False,Williams-Jackson,Low,2025-04
+197,2025-05-20,50,182404,Invoice,UPI,830de7cf-7ab5-4cd5-b034-2122742c87ce,9,Approved,0.3824139635766968,False,False,False,False,Hoffman Group,High,2025-05
+198,2025-07-23,9,165866,Invoice,NEFT,a46a10d6-4e9d-4a1d-90a4-d314c825fb24,28,Approved,0.1870452771237412,False,False,False,False,Howell Inc,Low,2025-07
+199,2025-10-02,7,102359,Payment,NEFT,87e3e07f-47c5-4741-8ea5-b689cd7adf07,4,Approved,-0.5631832372412273,False,False,False,False,Ferguson LLC,Low,2025-10
+200,2025-12-08,40,28312,Invoice,UPI,9a85c0ca-652e-4418-bfd3-af97a20fb42d,29,Approved,-1.4379241445929023,False,False,False,False,"Wyatt, Hunt and Smith",Medium,2025-12
+201,2025-01-26,38,254062,Payment,UPI,2c73783b-2821-4188-a37f-a9626f19f19e,37,Pending,1.228932849406053,False,True,False,True,"Mason, Hopkins and May",Low,2025-01
+202,2025-03-11,62,104071,Invoice,UPI,2cb4d354-a9f2-4725-ac64-d9dca9689bb4,7,Approved,-0.5429588333709008,False,False,False,False,Velasquez-Bartlett,Medium,2025-03
+203,2025-12-13,86,104853,Invoice,NEFT,e6b374a6-d331-4ee8-95b6-2a5e431fc3d3,22,Rejected,-0.5337208171170484,False,True,False,True,Hutchinson-Holland,Medium,2025-12
+204,2025-03-10,55,75017,Payment,UPI,3e68316b-a1d3-417a-88a3-0e9b60fb2807,21,Approved,-0.8861830331655659,False,False,False,False,Strickland-Lam,Medium,2025-03
+205,2024-12-25,79,159249,Invoice,RTGS,df7b9a66-bb7c-4440-ad8d-f392c2b27ceb,39,Approved,0.1088765385665271,False,False,False,False,Williams LLC,High,2024-12
+206,2025-11-25,13,158812,Payment,RTGS,3ed3bb6f-e2ee-4550-b0fd-e94f72d02fbc,45,Rejected,0.103714117718786,False,True,False,True,"Cox, Perry and Garcia",Low,2025-11
+207,2025-07-08,82,183148,Invoice,NEFT,ea11a6dc-a91f-4ad7-b9f1-62c70f789cbf,35,Approved,0.3912030736698761,False,False,False,False,"Baker, White and Brown",High,2025-07
+208,2025-05-25,11,140870,Invoice,UPI,547f8c13-7b06-43c6-9780-eab456cb2686,26,Approved,-0.1082404700390401,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-05
+209,2025-02-05,34,230019,Payment,UPI,0432c99d-5d7e-4a02-8071-5dfd12727595,41,Approved,0.9449051962201532,False,False,False,False,"Yu, Nelson and Martinez",High,2025-02
+210,2025-09-19,29,261553,Invoice,RTGS,8bbb14d4-dc8c-4192-b7e9-f2c98dbfc6c5,13,Approved,1.3174264296587492,False,False,False,False,"Navarro, Lewis and Rogers",Medium,2025-09
+211,2025-11-08,64,168856,Payment,NEFT,4f2e4935-335d-4ee7-b4c1-db6effb6ee60,41,Approved,0.2223671039767063,False,False,False,False,English and Sons,Low,2025-11
+212,2025-11-11,60,8631,Invoice,NEFT,22d8c115-1ae2-49b6-8414-9a12e74530ce,10,Pending,-1.6704220958615337,False,True,False,True,Thompson PLC,Low,2025-11
+213,2024-12-16,60,187503,Invoice,UPI,f0b7bc05-bc8b-4a4e-940c-ae18cac05164,34,Approved,0.4426500823470209,False,False,False,False,Thompson PLC,Low,2024-12
+214,2025-07-20,86,159544,Invoice,NEFT,4fcbfb0e-d4b8-476e-8e5f-d45fa1b5bc03,23,Approved,0.1123614679717527,False,False,False,False,Hutchinson-Holland,Medium,2025-07
+215,2025-10-10,83,35111,Payment,NEFT,cb4bd904-e4c7-4a9b-b921-596cd4174323,23,Approved,-1.3576053817924645,False,False,False,False,Mcmahon Group,High,2025-10
+216,2025-01-29,77,254031,Invoice,UPI,4829cf9a-70c1-4615-a54a-c3816b5d73a2,43,Approved,1.2285666364855037,False,False,False,False,Franco-Singleton,Low,2025-01
+217,2025-06-02,51,94570,Payment,NEFT,f2cbf53b-0a37-42c6-a6d0-9b9ee6839cc3,5,Approved,-0.6551971868592024,False,False,False,False,Moore-George,High,2025-06
+218,2024-12-17,58,146214,Payment,UPI,707accfa-0883-4d65-b3c0-5b64a6d7ebc9,15,Pending,-0.045110087864376,False,True,False,True,Frye-Walker,Low,2024-12
+219,2025-05-11,28,164210,Payment,NEFT,a9d80417-446e-441a-8aa2-7e52d623a930,5,Approved,0.1674824191744067,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-05
+220,2025-11-17,96,141511,Payment,RTGS,6dddaf88-56c6-4e2f-a7fd-8fe4705708db,47,Approved,-0.1006681319076853,False,False,False,False,"Wilson, Garza and Miller",Low,2025-11
+221,2025-05-23,92,153702,Payment,NEFT,36e2a678-2593-4203-af18-892266cecac2,9,Approved,0.043348052428267,False,False,False,False,Jackson Group,Low,2025-05
+222,2025-10-10,50,227146,Invoice,RTGS,a9522ecf-b77f-49d4-b511-65e3f0d429e7,4,Approved,0.9109655278092604,False,False,False,False,Hoffman Group,High,2025-10
+223,2025-03-25,41,128257,Invoice,RTGS,48270828-1548-4249-a904-fbdcc13e25fd,50,Approved,-0.2572418754224679,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-03
+224,2025-09-14,36,284297,Payment,NEFT,6524037a-ff74-4038-919c-76545f866cdb,32,Approved,1.5861085801416384,False,False,False,False,Evans-Todd,Low,2025-09
+225,2025-04-28,32,196775,Payment,RTGS,c47e2799-b8ea-4bfc-a48a-a1f2e176f697,11,Approved,0.552183185551266,False,False,False,False,Nelson Ltd,High,2025-04
+226,2024-12-27,17,94489,Invoice,NEFT,cf1e80f6-fa1b-4c78-87d0-480da633d046,25,Approved,-0.6561540657806372,False,False,False,False,Lewis-Sullivan,Medium,2024-12
+227,2025-10-15,78,110432,Payment,RTGS,3ef45f2d-6bec-4ceb-a19e-a9859de7081f,30,Pending,-0.4678143047382215,False,True,False,True,Williams-Hopkins,Low,2025-10
+228,2025-01-06,44,89080,Payment,NEFT,58e5d095-e11a-4255-8fc5-c96068e0a75c,35,Approved,-0.7200523137564527,False,False,False,False,Dorsey Inc,Low,2025-01
+229,2025-12-14,94,184830,Invoice,NEFT,a2232251-5fcb-4197-891b-7e5f71536700,12,Pending,0.4110730779396712,False,True,False,True,Taylor-Ware,Low,2025-12
+230,2025-10-28,18,164116,Payment,NEFT,8ed5b678-6f76-4179-bab8-054e9824d388,8,Approved,0.1663719670927415,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-10
+231,2025-02-22,7,230942,Payment,UPI,fb9ae3c5-3284-4478-bd29-9995dea3b418,22,Approved,0.9558088905965032,False,False,False,False,Ferguson LLC,Low,2025-02
+232,2025-01-07,89,48541,Payment,NEFT,5a4b3b0c-ef85-449b-a435-95d4ba94a9d1,13,Approved,-1.1989524939545642,False,False,False,False,Lawson-Mccoy,Low,2025-01
+233,2025-07-24,29,124246,Payment,UPI,40c2fa7b-aae3-4c68-881e-b048fdd949fe,50,Approved,-0.3046251020135191,False,False,False,False,"Navarro, Lewis and Rogers",Medium,2025-07
+234,2025-02-24,23,25567,Payment,NEFT,1803d07f-ecb8-4c92-a2e6-436b9d51be57,22,Approved,-1.4703517080415276,False,False,False,False,Adams-Patel,Medium,2025-02
+235,2025-09-12,61,71912,Payment,UPI,c5b4e8e9-957f-46f2-b844-d42842bb9a80,19,Approved,-0.9228633918205682,False,False,False,False,Hartman LLC,Medium,2025-09
+236,2024-12-27,30,141998,Payment,UPI,fa0e7367-c471-4c63-af78-aaf11c68b445,25,Approved,-0.0949150450590586,False,False,False,False,Owens LLC,High,2024-12
+237,2025-06-08,8,46321,Payment,NEFT,3c6b1bdd-5006-495e-ad53-71a421fe5d40,44,Approved,-1.2251780643938894,False,False,False,False,Hammond-Turner,Low,2025-06
+238,2025-04-22,65,249839,Invoice,RTGS,e9ba6e15-26b9-4e7f-a297-8d5e51e033a7,34,Approved,1.1790451989712465,False,False,False,False,Jones Group,Medium,2025-04
+239,2025-11-02,10,170268,Payment,RTGS,5986358d-1e40-485a-acca-348ba9082449,39,Approved,0.2390475118417186,False,False,False,False,Young LLC,Low,2025-11
+240,2025-04-13,66,167728,Payment,NEFT,0efa243e-bbd4-48c7-8749-7df223c0645f,9,Approved,0.2090416789967248,False,False,False,False,Moore-Fitzgerald,Low,2025-04
+241,2025-12-10,86,113777,Payment,RTGS,14785659-a612-44a8-99f5-c127d063020d,12,Approved,-0.4282987492789679,False,False,False,False,Hutchinson-Holland,Medium,2025-12
+242,2025-08-15,14,150016,Payment,NEFT,523926b0-ed4e-404e-8ee8-de2e0f9400fc,20,Approved,-0.000195845157027,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-08
+243,2025-10-09,95,272254,Payment,UPI,b44356d4-bc1b-48b3-91af-681e2862dee9,37,Approved,1.4438407671683076,False,False,False,False,Fox-Turner,High,2025-10
+244,2025-01-08,4,112539,Payment,RTGS,0d00c03f-44ee-4826-8ceb-743ffba6a172,35,Approved,-0.4429236394608979,False,False,False,False,Pierce PLC,Low,2025-01
+245,2025-09-26,85,214717,Payment,UPI,d19d23c3-97e4-4510-b6d9-2d4bba1407be,21,Approved,0.7641377733090922,False,False,False,False,"Williams, Malone and Villa",Low,2025-09
+246,2025-07-16,46,109195,Payment,NEFT,26175f88-29bc-4047-8f82-1ecd250568ec,45,Approved,-0.4824273816001338,False,False,False,False,"Moran, Wright and Tucker",Low,2025-07
+247,2025-10-20,71,73099,Invoice,RTGS,86e53376-a8d3-46f5-a689-e90ffd77b7e1,3,Approved,-0.9088409809595416,False,False,False,False,Jones Ltd,Medium,2025-10
+248,2025-03-18,80,273787,Payment,RTGS,71d647c3-ab24-46de-862b-e7dcb1a93982,24,Approved,1.4619505867554632,False,False,False,False,Barker and Sons,Medium,2025-03
+249,2024-12-16,82,199718,Payment,UPI,e5d26674-75c9-4ae8-af2a-3468144d3e46,49,Approved,0.5869497863633986,False,False,False,False,"Baker, White and Brown",High,2024-12
+250,2025-07-17,83,47092,Payment,RTGS,21959ae5-0d22-4722-a83c-2ac208df16e9,38,Approved,-1.2160699946602318,False,False,False,False,Mcmahon Group,High,2025-07
+251,2025-05-16,100,250439,Invoice,NEFT,725fad96-1f52-4676-9854-82e5cfe03650,36,Approved,1.1861331909818749,False,False,False,False,"Freeman, Washington and Gallegos",Low,2025-05
+252,2025-12-09,55,81256,Payment,UPI,677f733f-827c-4ac1-a66b-16fba45fed29,49,Approved,-0.8124797295750478,False,False,False,False,Strickland-Lam,Medium,2025-12
+253,2025-02-24,47,247634,Invoice,RTGS,8d95d1ea-c655-4e44-827d-deed65e59f44,45,Approved,1.1529968283321868,False,False,False,False,Wong and Sons,Medium,2025-02
+254,2025-04-04,70,35447,Invoice,UPI,8a8234de-a3b5-47bd-99ab-342e885d1632,15,Approved,-1.3536361062665123,False,False,False,False,Gaines-Marshall,Low,2025-04
+255,2025-10-15,78,121859,Invoice,UPI,73bcaabf-2949-4bf8-84b7-8b27c5c1ab30,9,Rejected,-0.3328234968958026,False,True,False,True,Williams-Hopkins,Low,2025-10
+256,2025-09-15,69,125312,Payment,NEFT,407e99c0-3afa-4d80-92c6-6637e8db25c8,10,Approved,-0.2920321028746359,False,False,False,False,Bryant-Williams,Low,2025-09
+257,2025-07-04,77,248306,Invoice,RTGS,b8410cb4-d75f-4565-9b35-d1aa5c23eb32,45,Approved,1.1609353793840906,False,False,False,False,Franco-Singleton,Low,2025-07
+258,2025-08-04,51,28284,Invoice,RTGS,f9588fda-de1d-4a6d-917a-9ac33c7cbcfb,35,Approved,-1.4382549175533983,False,False,False,False,Moore-George,High,2025-08
+259,2025-07-30,69,67812,Payment,NEFT,7ffe0345-f2e9-4bc5-acff-5823b8189f09,20,Pending,-0.971298003893196,False,True,False,True,Bryant-Williams,Low,2025-07
+260,2025-09-26,74,257164,Payment,RTGS,6c7e9683-decf-44fc-9ff8-cbf5da98d89b,26,Approved,1.265577768101002,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-09
+261,2025-11-12,39,10105,Invoice,NEFT,41cb0b62-2f00-4d50-bb73-dc90c98da03e,24,Approved,-1.6530092621554229,False,False,False,False,Larson Inc,Low,2025-11
+262,2025-12-13,70,130736,Payment,RTGS,8cba1915-7f9b-4b4c-9bcb-45801d7796b2,44,Approved,-0.2279566550985546,False,False,False,False,Gaines-Marshall,Low,2025-12
+263,2025-12-06,31,72155,Payment,NEFT,2863fd0a-57e7-46b2-bb96-80187c89244b,36,Approved,-0.9199927550562635,False,False,False,False,Baker-Murray,Low,2025-12
+264,2025-03-25,24,210675,Payment,RTGS,d6d4a723-858d-49ea-895b-7706b1b9305e,22,Approved,0.7163883337974918,False,False,False,False,Cherry Ltd,Low,2025-03
+265,2025-05-06,35,24675,Payment,RTGS,a8101c05-0335-4018-9d07-9ccd53e2f1c5,16,Approved,-1.4808891894973286,False,False,False,False,Collins-Salazar,Low,2025-05
+266,2025-06-09,95,145905,Invoice,NEFT,773206e2-e772-4ef2-8093-8c34f8ca5663,6,Approved,-0.0487604037498496,False,False,False,False,Fox-Turner,High,2025-06
+267,2025-02-20,45,272491,Payment,UPI,59996844-3257-403a-8240-56e721fa79c5,20,Approved,1.4466405240125058,False,False,False,False,Maddox-Green,High,2025-02
+268,2024-12-27,57,22073,Invoice,UPI,0337137a-8994-4d48-8a84-84ad05419bdd,7,Approved,-1.5116274481834209,False,False,False,False,"Fox, Soto and Robertson",Medium,2024-12
+269,2025-02-14,15,120359,Payment,UPI,dea1733a-4d84-41a7-bc2d-0c7c74d41cbf,20,Approved,-0.3505434769223737,False,False,False,False,Williams-Green,High,2025-02
+270,2025-07-10,48,240718,Invoice,RTGS,b03ebd97-6752-4d46-9a80-7d9e53639cb2,26,Approved,1.071295907089676,False,False,False,False,"Mills, Gallegos and Ibarra",Low,2025-07
+271,2025-10-21,14,256924,Payment,NEFT,39aa62b7-be63-4ef0-9601-09ac959e32fa,3,Approved,1.2627425712967506,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-10
+272,2025-05-17,37,102239,Invoice,UPI,e5c16080-646b-4a73-8de4-32aaccc8a8f2,25,Pending,-0.5646008356433531,False,True,False,True,"Miller, Robinson and Curtis",Medium,2025-05
+273,2025-12-06,12,86912,Invoice,NEFT,09bb63ec-b3d8-4ade-86c2-630077c153cc,33,Approved,-0.7456635915548568,False,False,False,False,Moreno-Le,Medium,2025-12
+274,2025-11-19,68,96006,Payment,NEFT,d2b8401a-5534-4f0d-b43f-b13a4df648e0,7,Approved,-0.638233259313765,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-11
+275,2025-01-06,33,211487,Invoice,NEFT,d642f63a-cd1d-49d4-b758-e18f5fa22528,34,Approved,0.7259807496518756,False,False,False,False,"Robertson, Washington and Walker",Low,2025-01
+276,2025-10-23,43,182832,Invoice,RTGS,60de8f83-d1e2-4f8e-8e46-b73eefbf5a0c,49,Approved,0.3874700645442784,False,False,False,False,Stephenson-Collier,Low,2025-10
+277,2025-07-10,70,214093,Payment,NEFT,92fbe98a-2ee1-4b38-ad64-111c398b7363,10,Approved,0.7567662616180385,False,False,False,False,Gaines-Marshall,Low,2025-07
+278,2025-06-01,2,19357,Payment,NEFT,abc97335-f573-48d4-a747-ef0ff1951cdc,2,Approved,-1.543712425351532,False,False,False,False,Adams Ltd,High,2025-06
+279,2025-05-09,16,101111,Invoice,NEFT,cd24a054-6857-482f-a844-45330ca9892a,39,Approved,-0.5779262606233345,False,False,False,False,Campbell LLC,Low,2025-05
+280,2025-11-28,88,226095,Payment,UPI,84394ee0-e786-4133-8e00-c060d2641f34,10,Rejected,0.8985497284706431,False,True,False,True,Moon and Sons,Low,2025-11
+281,2025-05-11,63,277944,Payment,UPI,d0d8a0ee-0554-4147-bdf8-b41b8e5793f3,21,Approved,1.5110585580691007,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-05
+282,2025-02-23,68,166645,Payment,RTGS,e418ab00-d68a-46f4-95ac-2cf5bcc8f525,15,Approved,0.1962478534175405,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-02
+283,2025-10-10,85,285277,Payment,RTGS,d1b4bf3d-d6fc-422f-9522-ba9f719f0252,27,Pending,1.5976856337589982,False,True,False,True,"Williams, Malone and Villa",Low,2025-10
+284,2025-11-05,40,23489,Payment,RTGS,aa8ce031-dd27-4ca0-b662-a3e487324e67,49,Approved,-1.4948997870383374,False,False,False,False,"Wyatt, Hunt and Smith",Medium,2025-11
+285,2025-07-06,25,158335,Payment,UPI,6c96a462-9abb-4f89-93dd-cd4721932a64,8,Approved,0.0980791640703364,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-07
+286,2025-02-28,42,46971,Invoice,RTGS,82290929-b4f4-4473-b8bc-a057d5f5c6e1,39,Approved,-1.2174994063823752,False,False,False,False,Dickerson-Reed,Low,2025-02
+287,2025-07-26,89,187650,Payment,UPI,0739b978-f8f6-4549-9a21-47f4f648f224,19,Approved,0.4443866403896249,False,False,False,False,Lawson-Mccoy,Low,2025-07
+288,2025-01-05,11,138623,Payment,RTGS,d9ad9ebd-d7df-4cf6-ba29-3e5ebc3b2d7e,8,Approved,-0.1347850001188436,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-01
+289,2025-09-19,92,157872,Payment,NEFT,74901392-50fe-411c-90d8-2d1dffda3af0,21,Approved,0.0926095969021348,False,False,False,False,Jackson Group,Low,2025-09
+290,2025-07-26,9,176918,Payment,RTGS,2fe33009-0c12-4f75-b56d-c37c3b8f2d46,40,Approved,0.3176060899595173,False,False,False,False,Howell Inc,Low,2025-07
+291,2025-06-14,60,213139,Payment,UPI,89818479-b624-4c02-99a8-56a5deeaa5a9,16,Pending,0.7454963543211393,False,True,False,True,Thompson PLC,Low,2025-06
+292,2025-06-09,3,215545,Invoice,RTGS,a4a27459-0c4d-4278-8b2f-1f8079bbf646,33,Approved,0.7739192022837594,False,False,False,False,"Hale, Rush and Smith",Low,2025-06
+293,2025-01-08,8,284215,Invoice,NEFT,4ab2c846-4c20-4e95-9750-e9c1db7a4cec,4,Approved,1.585139887900186,False,False,False,False,Hammond-Turner,Low,2025-01
+294,2025-11-02,19,67987,Invoice,RTGS,f0732189-6137-4d68-9a6c-7649b25cba6d,16,Rejected,-0.969230672890096,False,True,False,True,Williams-Miller,Medium,2025-11
+295,2025-12-02,21,124052,Payment,RTGS,ace1efbb-d7fa-453e-a23a-4983678bcfa4,31,Approved,-0.3069168860969556,False,False,False,False,Marshall PLC,Low,2025-12
+296,2025-06-22,27,276896,Invoice,NEFT,a0579f92-9f28-43df-b20f-d462ff2f3ff2,4,Approved,1.4986781986905364,False,False,False,False,Mcdonald LLC,Low,2025-06
+297,2025-05-26,34,160289,Payment,RTGS,bf4ff9e4-4762-48fa-ad39-b9ae728c7416,5,Rejected,0.1211623913849497,False,True,False,True,"Yu, Nelson and Martinez",High,2025-05
+298,2025-09-14,92,102756,Invoice,RTGS,8f344f88-ee5c-4a5b-9299-f28bb478996a,50,Approved,-0.5584933491941948,False,False,False,False,Jackson Group,Low,2025-09
+299,2025-10-30,60,86835,Invoice,UPI,b9d7930f-b593-42cb-a000-7740bec3b82e,2,Pending,-0.7465732171962208,False,True,False,True,Thompson PLC,Low,2025-10
+300,2025-10-23,73,48732,Payment,RTGS,a4a7543b-a30e-4046-8069-41fd2025a606,22,Pending,-1.1966961498311808,False,True,False,True,"Mathews, Gutierrez and Miller",Low,2025-10
+301,2025-11-24,92,195237,Payment,NEFT,6e092238-c012-4818-8d9b-44e6907a43aa,28,Pending,0.5340142993640217,False,True,False,True,Jackson Group,Low,2025-11
+302,2025-06-27,62,30556,Invoice,RTGS,72cc406b-ff45-4063-b530-371955a34155,41,Approved,-1.411415054473152,False,False,False,False,Velasquez-Bartlett,Medium,2025-06
+303,2025-07-05,82,207041,Invoice,NEFT,37e1306c-fe31-4485-bd0e-18b272b21953,23,Approved,0.6734587288531187,False,False,False,False,"Baker, White and Brown",High,2025-07
+304,2025-06-15,22,142488,Invoice,UPI,6fd80731-509e-479f-a6da-5d08d43643b1,30,Rejected,-0.0891265182503787,False,True,False,True,"Wilson, Lopez and Welch",Medium,2025-06
+305,2025-08-22,35,194139,Invoice,RTGS,1cbb290b-127c-4f14-9229-541a9e1b9c3c,2,Approved,0.5210432739845716,False,False,False,False,Collins-Salazar,Low,2025-08
+306,2025-03-12,28,128950,Invoice,RTGS,c1ff95cd-d372-486a-a3fa-a921414e9a32,9,Approved,-0.249055244650192,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-03
+307,2025-08-09,1,26447,Invoice,UPI,7a54fc76-07fb-4add-8af0-efa1b413218c,3,Approved,-1.4599559864259393,False,False,False,False,Clarke-Carlson,Medium,2025-08
+308,2025-08-06,25,60077,Invoice,UPI,d498abfe-cdf7-4e45-9cb3-dcbb9b63c2ef,21,Approved,-1.0626740342302143,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-08
+309,2025-07-21,53,191339,Payment,NEFT,24ed5fff-8811-4acc-9206-b30264e17df2,39,Pending,0.4879659779349722,False,True,False,True,"Lambert, Schwartz and Newman",Medium,2025-07
+310,2025-09-06,77,192598,Payment,UPI,2fe29eca-87a6-49d3-ad43-60ce227bef3d,33,Pending,0.5028389478372742,False,True,False,True,Franco-Singleton,Low,2025-09
+311,2025-06-06,91,72990,Invoice,UPI,8f9b1449-3f48-4045-b74b-b543cacd4441,34,Approved,-0.9101286328414724,False,False,False,False,Davis PLC,High,2025-06
+312,2025-08-16,38,201749,Payment,NEFT,8260c500-8000-4f03-ac90-65e1ec1920b5,8,Approved,0.6109426393193759,False,False,False,False,"Mason, Hopkins and May",Low,2025-08
+313,2025-09-10,19,17109,Invoice,NEFT,fe8e1806-41c5-47b5-a874-36f2ae0cba34,25,Approved,-1.5702687687513532,False,False,False,False,Williams-Miller,Medium,2025-09
+314,2025-03-13,14,249325,Invoice,RTGS,466fee93-be91-4098-a9b8-1b22c7fe3688,48,Approved,1.1729731524821412,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-03
+315,2025-01-28,51,244017,Invoice,NEFT,cb3dc560-5ca0-4fd9-8bc2-651d72c692cd,28,Approved,1.110268049828115,False,False,False,False,Moore-George,High,2025-01
+316,2025-05-06,71,33365,Invoice,NEFT,472d079f-aed8-41e6-8b57-b20332481b30,19,Pending,-1.3782314385433931,False,True,False,True,Jones Ltd,Medium,2025-05
+317,2024-12-21,14,260095,Payment,NEFT,065ae262-7f60-4bae-9417-7f8a3c4c2f12,36,Approved,1.300202609072922,False,False,False,False,"Fields, Calhoun and Robertson",High,2024-12
+318,2025-03-15,30,142888,Payment,NEFT,c7048976-2870-438c-abc5-6a2efe37534b,14,Approved,-0.084401190243293,False,False,False,False,Owens LLC,High,2025-03
+319,2025-06-07,99,147312,Invoice,RTGS,d986cbe6-c1e1-4e11-a28b-f0644d690253,30,Approved,-0.0321390624849259,False,False,False,False,Wheeler Inc,Medium,2025-06
+320,2025-03-23,68,186211,Payment,RTGS,b0a867dd-e7c5-4282-9288-1e2cda9025b4,41,Approved,0.4273872728841343,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-03
+321,2025-08-09,86,68095,Invoice,UPI,233d50e3-7492-48d4-8a5d-bbbff9b87a83,16,Approved,-0.9679548343281827,False,False,False,False,Hutchinson-Holland,Medium,2025-08
+322,2025-07-20,48,14885,Payment,UPI,886d0905-b438-4560-b636-b95dbdc70ae9,11,Rejected,-1.5965415924707496,False,True,False,True,"Mills, Gallegos and Ibarra",Low,2025-07
+323,2025-07-20,50,54812,Invoice,NEFT,2a8caa24-3715-4aae-97f0-8a794a359449,3,Approved,-1.124871164123479,False,False,False,False,Hoffman Group,High,2025-07
+324,2025-02-09,73,232208,Payment,UPI,c21c8a3c-b861-4eec-b749-0810073c473c,17,Approved,0.9707645537389292,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-02
+325,2025-08-06,96,37174,Payment,RTGS,5ff2319e-0f77-446b-8c8d-e6d9feb35c39,12,Approved,-1.3332345025959202,False,False,False,False,"Wilson, Garza and Miller",Low,2025-08
+326,2025-05-08,15,293793,Payment,NEFT,93eb3015-805a-4de2-ba35-9e14017ce8a6,22,Approved,1.6982878670298514,False,False,False,False,Williams-Green,High,2025-05
+327,2025-08-12,51,244141,Payment,NEFT,98f7c21b-0960-40a0-af78-e8a9dbaccb78,29,Approved,1.1117329015103117,False,False,False,False,Moore-George,High,2025-08
+328,2025-04-15,55,153934,Payment,RTGS,307b70db-3ff3-4be1-ba01-2412f186acd5,12,Approved,0.0460887426723767,False,False,False,False,Strickland-Lam,Medium,2025-04
+329,2025-01-10,86,284713,Invoice,UPI,feaad7c9-48a1-4318-8586-e6b5c538aadd,41,Approved,1.5910229212690077,False,False,False,False,Hutchinson-Holland,Medium,2025-01
+330,2025-11-02,87,45197,Payment,NEFT,da0de03f-9684-4bd6-a98d-415465fea17b,18,Approved,-1.2384562360938,False,False,False,False,Owens Group,Low,2025-11
+331,2024-12-24,12,296077,Payment,UPI,0aa93cca-d062-487c-ac8d-5963fdaed86f,8,Approved,1.7252694899503105,False,False,False,False,Moreno-Le,Medium,2024-12
+332,2025-06-10,65,116032,Invoice,NEFT,e763308a-4a14-4056-820a-8c41ea43ad3e,49,Approved,-0.4016597126390226,False,False,False,False,Jones Group,Medium,2025-06
+333,2025-06-24,14,272554,Payment,NEFT,aab22781-145a-48db-99ea-586fb188ece5,20,Approved,1.447384763173622,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-06
+334,2025-11-14,13,91716,Payment,NEFT,6cc27c7f-0c65-48a9-9fee-16ef0b224279,46,Approved,-0.6889124021897584,False,False,False,False,"Cox, Perry and Garcia",Low,2025-11
+335,2025-01-23,8,230683,Payment,NEFT,c6597032-9a74-47b0-9510-c6a1edc6d4b6,26,Approved,0.9527492407119152,False,False,False,False,Hammond-Turner,Low,2025-01
+336,2025-05-30,49,22087,Payment,RTGS,8a617823-8218-4b39-867c-9bb186688131,43,Approved,-1.5114620617031729,False,False,False,False,"Wilson, Hale and Allen",High,2025-05
+337,2025-08-26,9,141535,Invoice,NEFT,72447a10-c216-42d7-8e5f-2bc4c0e69807,41,Pending,-0.1003846122272602,False,True,False,True,Howell Inc,Low,2025-08
+338,2024-12-24,21,40634,Invoice,UPI,4cf3ff32-d972-4f9e-ae98-52eacda0634a,41,Approved,-1.2923604153346293,False,False,False,False,Marshall PLC,Low,2024-12
+339,2025-10-05,64,235893,Invoice,UPI,a04ea89f-cd0a-4746-9565-f50cbf8c96f2,13,Pending,1.0142966380042056,False,True,False,True,English and Sons,Low,2025-10
+340,2025-04-27,45,197512,Payment,UPI,42a8f2cf-83f6-4a14-b461-7d73f1466de3,12,Pending,0.5608896024043213,False,True,False,True,Maddox-Green,High,2025-04
+341,2025-03-18,61,191356,Invoice,NEFT,c056e347-87b4-4764-9f36-6a738aa7e47c,48,Approved,0.4881668043752733,False,False,False,False,Hartman LLC,Medium,2025-03
+342,2025-12-12,90,235363,Payment,NEFT,aabb8b22-cb7e-43e2-b37b-d81f6151a470,8,Pending,1.0080355783948172,False,True,False,True,"Solomon, Charles and Tyler",Low,2025-12
+343,2025-02-07,46,188965,Invoice,UPI,2bd5e302-c4cf-4333-8f40-9f3cc17655e2,23,Approved,0.4599211562129189,False,False,False,False,"Moran, Wright and Tucker",Low,2025-02
+344,2024-12-26,84,290521,Payment,RTGS,8bd93fe9-7c98-45bb-9405-7bbf66c4ccdb,4,Approved,1.6596346839318907,False,False,False,False,Clark-Romero,Low,2024-12
+345,2025-08-01,36,153049,Invoice,UPI,b9122030-f012-43be-802e-c8494ec66479,47,Approved,0.0356339544566997,False,False,False,False,Evans-Todd,Low,2025-08
+346,2025-02-06,84,231416,Invoice,RTGS,41b758f0-4b3e-41a3-bbb8-09e6630f704f,15,Approved,0.9614084042848996,False,False,False,False,Clark-Romero,Low,2025-02
+347,2025-05-13,2,146130,Invoice,RTGS,c8910e55-62bc-4b9b-9678-6225789691ff,14,Approved,-0.046102406745864,False,False,False,False,Adams Ltd,High,2025-05
+348,2025-10-21,73,110848,Invoice,UPI,077efc62-c8d3-4046-abae-0ec923efa34e,20,Approved,-0.4628999636108524,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-10
+349,2025-05-07,2,166445,Invoice,RTGS,3e6cd23e-2b63-4e6d-af85-9d670b1e5c47,40,Pending,0.1938851894139976,False,True,False,True,Adams Ltd,High,2025-05
+350,2025-01-13,41,164741,Payment,UPI,5dcf7ada-47e8-4bfe-b3f0-0b10a588fbe1,43,Approved,0.1737552921038128,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-01
+351,2025-09-30,45,167777,Invoice,NEFT,c11781e3-6d8b-4bcb-aab3-556ccd7195a6,49,Approved,0.2096205316775928,False,False,False,False,Maddox-Green,High,2025-09
+352,2025-09-04,25,209054,Payment,NEFT,0cbc3798-8dba-4234-b3c3-0f08e7956f36,38,Pending,0.6972389420487772,False,True,False,True,"Lewis, Cook and Johnson",Medium,2025-09
+353,2025-07-03,54,153586,Payment,UPI,eac6582a-fcce-4008-b349-64a568a5ff80,45,Approved,0.0419777073062122,False,False,False,False,Bishop-Chambers,Low,2025-07
+354,2025-06-19,53,211821,Payment,RTGS,9d3ee6ea-1b6a-4bfb-bf66-5e78787e886d,44,Approved,0.7299263985377922,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-06
+355,2025-03-20,67,220234,Payment,UPI,94d1c36a-eb5f-44e2-b38b-1c7e246aea64,41,Approved,0.8293118598468208,False,False,False,False,Hays-Wolf,Medium,2025-03
+356,2025-07-15,75,200119,Payment,RTGS,8562395d-04c2-4dc8-9291-a72bb80d689c,36,Approved,0.5916869276905019,False,False,False,False,"Bauer, Oconnell and Schmidt",High,2025-07
+357,2025-07-05,24,181806,Payment,NEFT,2add96c2-7570-401f-81fb-69f39b29d017,7,Approved,0.3753495982061038,False,False,False,False,Cherry Ltd,Low,2025-07
+358,2025-08-23,56,288456,Invoice,UPI,965a7d13-867b-4f96-944b-2be0b884e58a,20,Approved,1.6352401780953112,False,False,False,False,"Reynolds, Smith and Anderson",High,2025-08
+359,2025-04-27,74,22297,Payment,UPI,5e8dd735-847f-45d2-bdf7-a4440ea35bcb,43,Approved,-1.5089812644994527,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-04
+360,2025-08-08,91,183570,Invoice,NEFT,8e6dff46-9246-4e93-a2ba-713ce9aa11fd,38,Pending,0.3961882947173514,False,True,False,True,Davis PLC,High,2025-08
+361,2025-02-05,8,213559,Payment,RTGS,a4b11a0d-dee8-43c2-9c1b-4eca9d81a073,1,Approved,0.7504579487285792,False,False,False,False,Hammond-Turner,Low,2025-02
+362,2025-01-23,50,155871,Invoice,UPI,d2b97d21-b263-4dbc-bfde-3d915b8c63fb,11,Approved,0.0689711435466889,False,False,False,False,Hoffman Group,High,2025-01
+363,2025-12-02,26,243746,Payment,RTGS,94ca499b-0a11-48ec-bc69-a4ee1f61e94d,43,Approved,1.1070666401033145,False,False,False,False,Brown-Salas,Low,2025-12
+364,2025-12-15,51,162489,Payment,UPI,d11b598e-6001-4000-ad0d-73a9f9c25633,15,Approved,0.1471516954239207,False,False,False,False,Moore-George,High,2025-12
+365,2025-09-02,42,257388,Payment,NEFT,30d8eeee-b820-421c-aec0-9bdaf5360c00,37,Rejected,1.26822395178497,False,True,False,True,Dickerson-Reed,Low,2025-09
+366,2024-12-29,35,159245,Payment,RTGS,35e851bc-6d22-4ee7-b544-9b7eeed77a4d,9,Rejected,0.1088292852864562,False,True,False,True,Collins-Salazar,Low,2024-12
+367,2025-07-23,77,287682,Invoice,RTGS,11585ba3-5d63-4ef5-9b19-6b297f0019a1,17,Approved,1.6260966684016005,False,False,False,False,Franco-Singleton,Low,2025-07
+368,2025-04-02,22,115659,Invoice,NEFT,88084a66-20a3-4ff0-8767-f8cb7730d181,41,Approved,-0.4060660810056299,False,False,False,False,"Wilson, Lopez and Welch",Medium,2025-04
+369,2025-08-21,34,13556,Payment,NEFT,52e792a9-4bed-4fe1-ba92-bd461169abbf,23,Approved,-1.6122414947742916,False,False,False,False,"Yu, Nelson and Martinez",High,2025-08
+370,2025-07-09,42,145641,Payment,NEFT,c55d032b-bbe4-4c5d-8b78-94efc753acea,49,Approved,-0.0518791202345262,False,False,False,False,Dickerson-Reed,Low,2025-07
+371,2025-01-23,21,5138,Invoice,UPI,bea82191-d529-473e-b1b5-7bb9e913a5ec,1,Approved,-1.7116860226834087,False,False,False,False,Marshall PLC,Low,2025-01
+372,2025-04-22,24,42772,Invoice,RTGS,7145e3c8-b025-42f8-a429-f8c8339be853,11,Approved,-1.2671035371367567,False,False,False,False,Cherry Ltd,Low,2025-04
+373,2025-01-15,17,287363,Payment,RTGS,da699ddc-7f64-4304-8960-389b52b8f262,24,Approved,1.6223282193159498,False,False,False,False,Lewis-Sullivan,Medium,2025-01
+374,2025-03-15,37,155023,Payment,NEFT,33525c70-952b-4c43-8fcf-8c88d3008dea,17,Approved,0.0589534481716673,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-03
+375,2025-02-08,19,211846,Payment,UPI,5ac1aa1c-3b9a-44c5-9a17-40753291bc3b,34,Approved,0.730221731538235,False,False,False,False,Williams-Miller,Medium,2025-02
+376,2025-06-24,45,81021,Invoice,RTGS,fd65a03b-0d31-4308-9ab2-cef3dae67c62,11,Approved,-0.8152558597792106,False,False,False,False,Maddox-Green,High,2025-06
+377,2025-09-25,5,96088,Payment,NEFT,6102c804-1858-43c7-9221-f05a70e641c2,46,Approved,-0.6372645670723124,False,False,False,False,Williams-Jackson,Low,2025-09
+378,2025-03-31,70,71418,Invoice,RTGS,9215711a-e480-432e-9a04-871d59aaaa88,48,Approved,-0.9286991719093188,False,False,False,False,Gaines-Marshall,Low,2025-03
+379,2025-11-04,52,100071,Payment,UPI,1ff17577-c80c-453b-9ea9-a43c2c09ff88,36,Approved,-0.5902121134417572,False,False,False,False,Williams PLC,Medium,2025-11
+380,2025-10-17,33,269598,Invoice,UPI,17d59c98-3c73-4a42-ae63-1832675b0809,11,Pending,1.412464589201259,False,True,False,True,"Robertson, Washington and Walker",Low,2025-10
+381,2025-05-18,81,191292,Payment,UPI,84787eb4-3db7-4ecb-8c1c-707bc9fa35cf,18,Approved,0.4874107518941396,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-05
+382,2025-10-29,47,11142,Invoice,UPI,28cb6833-3785-483a-af4d-d6de757d0553,45,Approved,-1.6407588492970533,False,False,False,False,Wong and Sons,Medium,2025-10
+383,2025-05-20,73,105167,Payment,NEFT,11382d4f-a7c0-47ff-bded-fbd6fefc6fd4,17,Approved,-0.5300114346314861,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-05
+384,2025-01-14,97,107239,Payment,UPI,9d73b16e-aaf4-4dad-b2ac-48dfcd80874b,38,Approved,-0.5055342355547826,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-01
+385,2025-01-20,69,247700,Invoice,RTGS,c36b45b1-5efe-402e-8774-fa51c3966ec4,31,Approved,1.153776507453356,False,False,False,False,Bryant-Williams,Low,2025-01
+386,2025-10-04,96,254877,Invoice,RTGS,181540c9-e713-4dc7-9bc6-f271196421a7,43,Pending,1.23856070522049,False,True,False,True,"Wilson, Garza and Miller",Low,2025-10
+387,2025-11-11,10,158385,Payment,RTGS,23cf7c3b-0c9f-4918-85a9-b9f11944ae5b,21,Approved,0.0986698300712221,False,False,False,False,Young LLC,Low,2025-11
+388,2025-01-20,66,148016,Payment,UPI,dbbcf4c4-4418-43bd-9cfd-2a41e0408419,30,Rejected,-0.0238224851924552,False,True,False,True,Moore-Fitzgerald,Low,2025-01
+389,2025-08-15,47,294954,Invoice,RTGS,5958c0ca-a4a6-4d39-9def-d1e4595dcd94,8,Rejected,1.7120031315704174,False,True,False,True,Wong and Sons,Medium,2025-08
+390,2025-10-25,71,146958,Invoice,NEFT,a3ac8c61-d274-4ab3-b413-51a8b8e2f615,36,Pending,-0.0363209777711967,False,True,False,True,Jones Ltd,Medium,2025-10
+391,2025-01-09,1,261910,Invoice,NEFT,628cf73c-0d3c-43d9-b3c1-a0763cdf828d,40,Pending,1.321643784905073,False,True,False,True,Clarke-Carlson,Medium,2025-01
+392,2025-08-11,60,16390,Invoice,UPI,50b4632d-9b90-4aa3-9f3a-683f71a862f4,2,Approved,-1.5787625458440897,False,False,False,False,Thompson PLC,Low,2025-08
+393,2025-10-20,23,26281,Payment,RTGS,f3742cd3-0144-4732-9362-10e027bef554,4,Approved,-1.4619169975488795,False,False,False,False,Adams-Patel,Medium,2025-10
+394,2025-11-07,75,286954,Payment,UPI,10613e32-de26-437f-9c91-2ce6b36d2d93,14,Pending,1.6174965714287046,False,True,False,True,"Bauer, Oconnell and Schmidt",High,2025-11
+395,2025-01-03,45,15207,Payment,NEFT,32860045-d738-434c-ae9e-43bfc84df1e3,19,Approved,-1.5927377034250456,False,False,False,False,Maddox-Green,High,2025-01
+396,2025-11-12,16,76312,Invoice,RTGS,f0d9026b-8a1f-4dbd-91b5-90c3d5f8a38a,42,Approved,-0.8708847837426262,False,False,False,False,Campbell LLC,Low,2025-11
+397,2025-09-04,60,240841,Payment,RTGS,af533254-2e72-4be9-975a-e3724bad9bd8,13,Approved,1.072748945451855,False,False,False,False,Thompson PLC,Low,2025-09
+398,2025-03-04,31,266570,Payment,UPI,6e5165d7-d5e4-4a56-b22f-574538b1b5d7,14,Approved,1.3766938561876207,False,False,False,False,Baker-Murray,Low,2025-03
+399,2025-07-06,55,238077,Invoice,UPI,452d2cf5-c60d-4dd9-88c4-f54eb8c3ae23,39,Approved,1.0400969289228932,False,False,False,False,Strickland-Lam,Medium,2025-07
+400,2025-11-25,30,127258,Invoice,UPI,d8e3ecbb-6f2e-482f-be13-624064075774,25,Approved,-0.2690433821201642,False,False,False,False,Owens LLC,High,2025-11
+401,2025-03-19,81,283710,Invoice,RTGS,20c8eea6-6b29-4aab-a9f5-df5b47f3afc0,10,Approved,1.5791741612912402,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-03
+402,2025-06-01,72,30235,Payment,RTGS,e1dce23c-ba95-4998-a5be-ee1416e5604b,14,Approved,-1.4152071301988385,False,False,False,False,Baker-Maldonado,Low,2025-06
+403,2025-12-10,53,19743,Invoice,RTGS,4caf41a9-22f6-4424-9794-93e4b425bbfb,30,Approved,-1.5391524838246944,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-12
+404,2025-02-15,77,192450,Invoice,RTGS,b71b3d1b-8e36-4598-9231-d0c5bdf59187,12,Approved,0.5010905764746525,False,False,False,False,Franco-Singleton,Low,2025-02
+405,2024-12-30,78,151721,Payment,RTGS,f3da8258-21d9-4d3f-9730-d73938089a5c,11,Approved,0.0199458654731754,False,False,False,False,Williams-Hopkins,Low,2024-12
+406,2025-07-25,49,59238,Invoice,RTGS,1a4866ca-4c70-4c58-a458-33ae5cd2e0f4,29,Approved,-1.0725854097250764,False,False,False,False,"Wilson, Hale and Allen",High,2025-07
+407,2025-08-08,96,294061,Invoice,UPI,7116ea20-8328-4f5f-9f4a-50d503b108aa,24,Pending,1.7014538367945986,False,True,False,True,"Wilson, Garza and Miller",Low,2025-08
+408,2025-08-21,41,171277,Invoice,NEFT,84eaf7a5-2f3d-4f42-a9ac-d5ba047243d6,29,Pending,0.2509671517395921,False,True,False,True,"Ellison, Kim and Reyes",Medium,2025-08
+409,2025-11-12,65,207346,Invoice,NEFT,74cd78e7-83ca-4ead-aa58-729dd3f2506c,27,Pending,0.6770617914585216,False,True,False,True,Jones Group,Medium,2025-11
+410,2025-05-24,68,118550,Invoice,NEFT,d8d81a10-a6fa-4fb2-be4e-d3535690b0f5,19,Pending,-0.3719137728344185,False,True,False,True,"Morris, Dennis and Ramirez",Low,2025-05
+411,2025-10-16,56,246060,Invoice,RTGS,56d40e49-b3b8-401d-8cbb-b305067fbec0,23,Approved,1.134402662624305,False,False,False,False,"Reynolds, Smith and Anderson",High,2025-10
+412,2025-06-18,33,97122,Invoice,UPI,e6e97df8-a709-4842-a1e6-00443b05bd1c,10,Approved,-0.625049594173996,False,False,False,False,"Robertson, Washington and Walker",Low,2025-06
+413,2025-07-05,85,148252,Invoice,NEFT,b73fa78a-28e0-4814-8191-c1a4cdc2b6d1,37,Rejected,-0.0210345416682747,False,True,False,True,"Williams, Malone and Villa",Low,2025-07
+414,2025-08-18,11,116022,Invoice,RTGS,eb3d529b-99a3-420b-938e-e8e72784adf4,9,Approved,-0.4017778458391998,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-08
+415,2025-10-25,83,272986,Payment,NEFT,0fa5e23e-8d78-4d6f-b052-b72fac824ba4,42,Approved,1.4524881174212745,False,False,False,False,Mcmahon Group,High,2025-10
+416,2025-03-12,48,155043,Payment,NEFT,5873d337-62e9-4bf2-83d2-7ec1d33b6f00,35,Approved,0.0591897145720216,False,False,False,False,"Mills, Gallegos and Ibarra",Low,2025-03
+417,2025-06-29,18,111239,Payment,UPI,a254c8f5-b5cc-4c8f-aac6-1417a8db1e25,44,Approved,-0.4582809554839262,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-06
+418,2025-05-26,71,7257,Invoice,NEFT,c85bd478-989c-424c-8753-adbebb24b5ef,36,Pending,-1.6866535975658723,False,True,False,True,Jones Ltd,Medium,2025-05
+419,2025-01-11,16,296464,Invoice,RTGS,bb7f7213-2361-473c-b361-73081a7cd438,11,Approved,1.7298412447971656,False,False,False,False,Campbell LLC,Low,2025-01
+420,2025-10-17,86,187240,Payment,NEFT,c970b48e-52d9-4e97-8083-7a5737f1abce,23,Approved,0.4395431791823621,False,False,False,False,Hutchinson-Holland,Medium,2025-10
+421,2025-11-07,34,23135,Payment,UPI,c16ada83-9f55-4297-9ea8-b08c5d95c6dc,36,Approved,-1.499081702324608,False,False,False,False,"Yu, Nelson and Martinez",High,2025-11
+422,2025-04-14,28,250739,Payment,NEFT,5c8466a5-aa18-4dc1-b35d-cb3bc494fea9,28,Approved,1.189677186987189,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-04
+423,2025-03-18,54,65948,Payment,UPI,270661db-823d-469e-b492-786abdaf76bc,35,Approved,-0.993318032406215,False,False,False,False,Bishop-Chambers,Low,2025-03
+424,2025-09-24,49,271357,Payment,RTGS,c9da1dfe-141e-4edf-8376-a7b8c8980df7,44,Approved,1.4332442191124182,False,False,False,False,"Wilson, Hale and Allen",High,2025-09
+425,2025-10-31,74,198069,Invoice,NEFT,c0d1783d-6104-47ec-a8bf-a279e0a4f252,38,Approved,0.567469621654188,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-10
+426,2025-10-10,86,144088,Payment,RTGS,7ff5102e-cfed-4a02-9b20-059a71ef635e,10,Approved,-0.0702252062220361,False,False,False,False,Hutchinson-Holland,Medium,2025-10
+427,2025-10-06,3,187885,Invoice,RTGS,ed533a3e-14e7-4502-8bf5-0c8b890a683a,24,Approved,0.4471627705937877,False,False,False,False,"Hale, Rush and Smith",Low,2025-10
+428,2025-05-06,25,137473,Payment,RTGS,ed274704-16b6-44d1-9905-f3e9200e885e,38,Approved,-0.1483703181392148,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-05
+429,2025-08-30,28,179863,Invoice,NEFT,f056acb3-5698-43dd-b604-d59ce5d7403c,40,Approved,0.3523963174116853,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-08
+430,2025-07-02,76,271010,Payment,NEFT,c0757aa1-84c8-4959-a6eb-0e4b0e13b8ed,42,Approved,1.4291449970662713,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-07
+431,2025-10-24,94,253552,Payment,NEFT,e3879bea-3d2a-40c6-b5d3-265e5749eabd,6,Approved,1.2229080561970187,False,False,False,False,Taylor-Ware,Low,2025-10
+432,2025-01-29,96,34336,Invoice,UPI,eb066601-af14-4ce4-8676-99bf43c090ad,7,Approved,-1.3667607048061927,False,False,False,False,"Wilson, Garza and Miller",Low,2025-01
+433,2024-12-25,12,51607,Payment,UPI,92e15d50-afbe-4e3d-a04b-7a0e4777fff3,36,Approved,-1.162732854780253,False,False,False,False,Moreno-Le,Medium,2024-12
+434,2025-09-04,100,69110,Invoice,NEFT,6ea7367b-e0ad-4ae7-834f-dab4e1c30cf8,32,Pending,-0.955964314510203,False,True,False,True,"Freeman, Washington and Gallegos",Low,2025-09
+435,2025-03-30,97,294750,Invoice,NEFT,2b826859-81ef-41ea-85a1-6a08ca2748e9,22,Approved,1.7095932142868038,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-03
+436,2025-05-29,67,230180,Invoice,NEFT,4a713db3-3ea6-4e4d-9b90-63edb12ffa5f,34,Approved,0.9468071407430052,False,False,False,False,Hays-Wolf,Medium,2025-05
+437,2025-03-01,77,38870,Payment,UPI,44e907b1-7078-4120-bc9b-9430d1bfe41a,44,Approved,-1.313199111845877,False,False,False,False,Franco-Singleton,Low,2025-03
+438,2025-11-20,90,103934,Invoice,RTGS,e345b759-198c-44d0-8a39-53b89cad9104,11,Rejected,-0.5445772582133277,False,True,False,True,"Solomon, Charles and Tyler",Low,2025-11
+439,2025-01-09,28,113048,Invoice,RTGS,09cf94bf-ef8b-464e-b6b5-877198f304d6,44,Approved,-0.4369106595718814,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-01
+440,2025-04-29,57,118688,Payment,UPI,e086d55a-82f0-45f6-a690-53dcb5d4c79f,45,Approved,-0.370283534671974,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-04
+441,2025-04-01,77,191823,Payment,UPI,facf26d5-a3e1-4909-8d4d-e8bb481c7328,31,Approved,0.4936836248235458,False,False,False,False,Franco-Singleton,Low,2025-04
+442,2025-07-26,65,37430,Payment,RTGS,15e3c528-488e-4781-96fd-8f80570fc95a,24,Approved,-1.3302102926713852,False,False,False,False,Jones Group,Medium,2025-07
+443,2025-11-16,57,23990,Invoice,NEFT,cba748e4-454a-4b21-8cd3-00dc3b6b289c,46,Approved,-1.4889813137094627,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-11
+444,2025-05-26,5,273083,Invoice,UPI,1ba7b701-bb6f-40d4-b009-a4cc7d21c301,33,Rejected,1.4536340094629925,False,True,False,True,Williams-Jackson,Low,2025-05
+445,2025-08-27,27,89703,Invoice,RTGS,c0869d4e-ec3b-4973-9f36-6f08ca4c899b,21,Rejected,-0.7126926153854168,False,True,False,True,Mcdonald LLC,Low,2025-08
+446,2025-09-10,6,200877,Payment,RTGS,b58c7a7c-a585-49c9-afd2-8517ef61f9d5,18,Approved,0.6006414242639292,False,False,False,False,Johnson Ltd,Low,2025-09
+447,2025-05-20,46,48527,Payment,NEFT,e703675f-7e88-45e5-b66a-00805e074dca,43,Approved,-1.1991178804348122,False,False,False,False,"Moran, Wright and Tucker",Low,2025-05
+448,2025-04-28,81,228564,Payment,UPI,4b099eb8-5e88-4d60-8509-cc7765c97b0a,31,Approved,0.9277168155943792,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-04
+449,2025-07-19,70,33328,Payment,UPI,4f9845c5-cb03-4a66-b12f-2c0eea55ec53,48,Approved,-1.3786685313840483,False,False,False,False,Gaines-Marshall,Low,2025-07
+450,2025-11-04,59,282593,Payment,NEFT,cecfa3c7-2a7d-4aaa-8ce9-c5b4c1174b5b,12,Approved,1.5659786828314537,False,False,False,False,Gonzalez LLC,Low,2025-11
+451,2025-08-27,89,241562,Invoice,UPI,d7c6fa8b-5e2c-4781-ae26-a0f88d136497,38,Approved,1.0812663491846268,False,False,False,False,Lawson-Mccoy,Low,2025-08
+452,2025-03-05,26,133389,Payment,UPI,1fa1bd7c-cd5c-485a-849b-8582acfcff39,29,Pending,-0.1966159170915592,False,True,False,True,Brown-Salas,Low,2025-03
+453,2025-08-23,98,230898,Invoice,NEFT,d776f055-a608-4ff4-8f25-34436e260441,16,Rejected,0.9552891045157238,False,True,False,True,Pope-Cuevas,Low,2025-08
+454,2025-07-10,8,221204,Payment,RTGS,8c0c14ae-6668-40f7-ad06-da6a529442b7,32,Approved,0.8407707802640034,False,False,False,False,Hammond-Turner,Low,2025-07
+455,2025-02-21,94,98783,Payment,RTGS,aa851c84-8628-40e3-9cc0-29897ae3afec,29,Approved,-0.605427669624573,False,False,False,False,Taylor-Ware,Low,2025-02
+456,2025-04-03,9,27601,Payment,NEFT,847a923b-241d-4e8a-9192-6c3813f4d853,28,Pending,-1.4463234151254971,False,True,False,True,Howell Inc,Low,2025-04
+457,2025-04-13,42,286854,Invoice,NEFT,34a96ecd-3155-48f9-bde8-34643f4256e6,24,Pending,1.6163152394269331,False,True,False,True,Dickerson-Reed,Low,2025-04
+458,2025-02-07,66,156094,Payment,UPI,7be51507-70b2-4c3a-875b-a4c507af7dd4,22,Approved,0.0716055139106391,False,False,False,False,Moore-Fitzgerald,Low,2025-02
+459,2025-10-01,93,241994,Payment,NEFT,0ae51747-c24a-41c0-bbd1-ee769254ac56,45,Approved,1.0863697034322792,False,False,False,False,Parker-Singh,Low,2025-10
+460,2025-12-07,9,45695,Invoice,UPI,13f54c85-0a8d-4c31-8dec-165ff606e6cf,34,Rejected,-1.2325732027249785,False,True,False,True,Howell Inc,Low,2025-12
+461,2025-03-13,32,112096,Invoice,UPI,f6f10f10-0505-4321-9a12-f05ee1bb4331,49,Approved,-0.4481569402287452,False,False,False,False,Nelson Ltd,High,2025-03
+462,2025-03-30,20,113125,Invoice,UPI,b4eaac1c-4fd8-4908-a551-ea98592b1a91,49,Approved,-0.4360010339305175,False,False,False,False,"Miller, Torres and Mendez",Low,2025-03
+463,2025-04-29,90,286293,Invoice,RTGS,03b17bb9-86d5-48ea-b62b-39157463c267,45,Approved,1.6096879668969957,False,False,False,False,"Solomon, Charles and Tyler",Low,2025-04
+464,2025-05-31,84,253922,Payment,NEFT,8c3797a1-36b3-494c-9d15-23ca14ba21a3,50,Pending,1.227278984603573,False,True,False,True,Clark-Romero,Low,2025-05
+465,2025-03-10,26,117492,Payment,UPI,d923d415-97cb-4a0d-9d39-4a505e7a66be,10,Pending,-0.38441226541316,False,True,False,True,Brown-Salas,Low,2025-03
+466,2025-10-18,41,248588,Payment,NEFT,a4d76ad7-8235-4986-ab8c-0ffa7b4c653c,17,Approved,1.164266735629086,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-10
+467,2025-02-14,41,89700,Payment,NEFT,55a85ae8-aefc-49bf-9038-493d251121b4,11,Approved,-0.71272805534547,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-02
+468,2025-09-08,21,196051,Payment,UPI,089fa54e-c4ca-447e-b6e8-c11c2864182a,19,Approved,0.543630341858441,False,False,False,False,Marshall PLC,Low,2025-09
+469,2025-06-20,71,225462,Invoice,UPI,54214ec7-d928-4524-b1aa-f88b32b4a63a,26,Pending,0.89107189689943,False,True,False,True,Jones Ltd,Medium,2025-06
+470,2025-10-20,21,206165,Payment,UPI,82525d41-24dc-45fb-a27b-78b1908d5af4,42,Pending,0.6631102605176012,False,True,False,True,Marshall PLC,Low,2025-10
+471,2025-12-14,93,262927,Invoice,UPI,f5c52716-d532-4eee-87f0-5c483e5e69b5,48,Pending,1.3336579313630883,False,True,False,True,Parker-Singh,Low,2025-12
+472,2025-08-05,28,246133,Invoice,UPI,b9cac9db-f06e-483e-bb06-5b33062c0b53,4,Approved,1.135265034985598,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-08
+473,2025-01-07,99,183048,Invoice,UPI,6ed5f34b-05eb-4e92-a7f2-e056f8c7dc9a,24,Pending,0.3900217416681046,False,True,False,True,Wheeler Inc,Medium,2025-01
+474,2025-04-05,63,166980,Payment,RTGS,e9a9590b-b55d-4f36-8379-48d73124b2e0,29,Approved,0.2002053156234747,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-04
+475,2025-09-28,4,152745,Invoice,NEFT,5e76c9c2-dffb-480e-97e2-4e2458465884,23,Approved,0.0320427051713146,False,False,False,False,Pierce PLC,Low,2025-09
+476,2025-04-22,23,259205,Invoice,RTGS,bc6d87a0-ac22-4440-9cc5-da0fbb359d10,41,Approved,1.2896887542571565,False,False,False,False,Adams-Patel,Medium,2025-04
+477,2025-07-07,60,216509,Payment,NEFT,957bb548-841a-4fb5-92d6-1f0eb55410d1,10,Approved,0.7853072427808357,False,False,False,False,Thompson PLC,Low,2025-07
+478,2025-07-17,38,193799,Invoice,RTGS,0a074996-183c-403b-abdc-5ff81998884f,47,Approved,0.5170267451785489,False,False,False,False,"Mason, Hopkins and May",Low,2025-07
+479,2025-07-30,76,221101,Invoice,UPI,8f010282-1e39-4f90-8b10-28033b070b93,36,Approved,0.8395540083021789,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-07
+480,2025-11-05,69,158484,Invoice,RTGS,ecbbcc2a-20b4-47f2-b229-bb282ec4fbf9,50,Pending,0.0998393487529758,False,True,False,True,Bryant-Williams,Low,2025-11
+481,2025-02-14,25,30711,Invoice,UPI,2ce3f680-ba3f-4bc0-a030-94ea0207828c,14,Approved,-1.4095839898704063,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-02
+482,2025-10-21,47,232189,Payment,UPI,53daf87e-dce6-4429-a0ec-058790aaa153,16,Approved,0.9705401006585926,False,False,False,False,Wong and Sons,Medium,2025-10
+483,2025-10-08,85,269852,Payment,NEFT,0330966f-42ad-4e44-85ad-e8f613f80049,16,Approved,1.4154651724857583,False,False,False,False,"Williams, Malone and Villa",Low,2025-10
+484,2025-11-05,31,200497,Payment,UPI,0ef0cf0e-9976-4610-af5c-a2e2f6722435,34,Approved,0.5961523626571978,False,False,False,False,Baker-Murray,Low,2025-11
+485,2025-07-08,9,210776,Invoice,RTGS,d65f398f-16f3-486c-b340-c9d47dbf51cc,22,Approved,0.7175814791192809,False,False,False,False,Howell Inc,Low,2025-07
+486,2025-05-24,68,224571,Invoice,NEFT,9097a15d-ddbb-4f2c-b53e-52aa34d0aea1,21,Approved,0.8805462287636467,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-05
+487,2025-04-13,65,82603,Invoice,NEFT,7c8b5c68-df83-4071-86a1-12ee9968ed2c,24,Approved,-0.7965671875111868,False,False,False,False,Jones Group,Medium,2025-04
+488,2025-05-30,15,203522,Payment,NEFT,60ae3353-533e-4b19-8822-7d173f638273,47,Approved,0.6318876557107829,False,False,False,False,Williams-Green,High,2025-05
+489,2025-03-03,39,38276,Payment,NEFT,67bd8bbd-e2c0-40c4-8267-143cbb71c505,17,Approved,-1.3202162239363993,False,False,False,False,Larson Inc,Low,2025-03
+490,2024-12-16,41,220516,Invoice,NEFT,80245a0d-566d-42ec-9977-4219dda867ad,6,Approved,0.8326432160918161,False,False,False,False,"Ellison, Kim and Reyes",Medium,2024-12
+491,2025-05-22,52,30675,Payment,UPI,33b8d817-a20e-46df-a1dd-2c6d8e050b52,45,Pending,-1.410009269391044,False,True,False,True,Williams PLC,Medium,2025-05
+492,2025-10-07,65,110410,Payment,UPI,7087fd46-b2c9-4184-a74b-750c2a38c2c4,36,Approved,-0.4680741977786112,False,False,False,False,Jones Group,Medium,2025-10
+493,2025-05-04,68,206554,Invoice,UPI,904707f7-ae46-4a83-8e24-bddc4735ccc0,40,Approved,0.667705642004492,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-05
+494,2025-02-07,33,186517,Payment,NEFT,ea2aa92c-9647-4195-a2e3-55ef1292795a,4,Approved,0.4310021488095548,False,False,False,False,"Robertson, Washington and Walker",Low,2025-02
+495,2025-01-27,29,75533,Invoice,NEFT,25fcbfaf-d9d1-4688-9b7e-284c4f733824,49,Approved,-0.8800873600364255,False,False,False,False,"Navarro, Lewis and Rogers",Medium,2025-01
+496,2025-09-30,65,247188,Payment,RTGS,601dea97-d781-40ba-b203-50fb8999693f,35,Rejected,1.1477280876042864,False,True,False,True,Jones Group,Medium,2025-09
+497,2025-03-18,80,9986,Invoice,RTGS,4b28e8cf-e55d-4348-b007-019596a19e6e,25,Approved,-1.6544150472375307,False,False,False,False,Barker and Sons,Medium,2025-03
+498,2025-08-08,68,130355,Invoice,RTGS,aec62dc3-c1be-486e-937b-94d09d59a70f,22,Approved,-0.2324575300253037,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-08
+499,2025-04-22,72,291479,Invoice,UPI,52ce2dc1-fc3b-496b-a587-9b5f7dba712c,18,Approved,1.670951844508861,False,False,False,False,Baker-Maldonado,Low,2025-04
+500,2025-07-05,72,111464,Invoice,RTGS,8814f938-3dcc-4aff-809b-f21b514e29d6,11,Approved,-0.4556229584799405,False,False,False,False,Baker-Maldonado,Low,2025-07
+501,2025-05-02,12,253709,Invoice,NEFT,fc00ea37-963d-43b6-9781-05666ff2405e,28,Approved,1.2247627474397995,False,False,False,False,Moreno-Le,Medium,2025-05
+502,2025-01-15,59,90024,Payment,RTGS,76bf96fa-29b0-4a9f-b21c-6525df373d28,48,Approved,-0.7089005396597307,False,False,False,False,Gonzalez LLC,Low,2025-01
+503,2025-01-11,86,257100,Invoice,RTGS,e7ce78f1-5a1a-4efa-a4b9-24582f2ce960,30,Approved,1.2648217156198682,False,False,False,False,Hutchinson-Holland,Medium,2025-01
+504,2025-06-18,68,51220,Payment,RTGS,0cd29fae-bccf-4661-ae4a-8939b8f65f7d,7,Approved,-1.167304609627108,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-06
+505,2025-11-27,14,127332,Payment,NEFT,a37032b0-e0eb-4e0a-8e08-4eef75e7178e,24,Approved,-0.2681691964388534,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-11
+506,2025-02-24,74,255216,Invoice,RTGS,bb0217f9-622c-496c-81dd-f955f77d49e0,29,Rejected,1.242565420706495,False,True,False,True,"Johnson, Kirk and Allen",Low,2025-02
+507,2025-12-13,66,242113,Invoice,RTGS,876a0215-8b3c-4d26-bb83-3b1c383b7de9,41,Approved,1.087775488514387,False,False,False,False,Moore-Fitzgerald,Low,2025-12
+508,2025-05-20,90,133467,Invoice,NEFT,b5da5786-79df-406b-a82c-954937f5e469,27,Approved,-0.1956944781301775,False,False,False,False,"Solomon, Charles and Tyler",Low,2025-05
+509,2025-10-18,71,64778,Payment,RTGS,4cf91aa5-8bcd-4d27-86ff-02c6c5d1b250,25,Approved,-1.0071396168269404,False,False,False,False,Jones Ltd,Medium,2025-10
+510,2025-06-11,2,201375,Payment,RTGS,1b82e29a-5246-42cb-8fd6-f9179abb642c,22,Approved,0.6065244576327508,False,False,False,False,Adams Ltd,High,2025-06
+511,2025-10-30,55,99876,Invoice,RTGS,1f58b35c-2238-4ce2-89f5-efbfbbeeae26,20,Approved,-0.5925157108452114,False,False,False,False,Strickland-Lam,Medium,2025-10
+512,2025-01-22,54,200691,Invoice,UPI,628f2df0-87db-464c-93c5-588cbb68ca3e,47,Approved,0.5984441467406343,False,False,False,False,Bishop-Chambers,Low,2025-01
+513,2025-09-20,53,249629,Invoice,RTGS,1a0e9af9-9514-4ea3-83a5-2df2d1a0e95f,15,Approved,1.1765644017675263,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-09
+514,2025-06-05,73,258279,Payment,RTGS,5667939a-5f0c-45a1-b603-a411a569e051,41,Approved,1.2787496199207533,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-06
+515,2025-07-28,59,56707,Payment,NEFT,f1acb01d-39df-4f30-ad1c-26e53ca40540,4,Pending,-1.102484922689911,False,True,False,True,Gonzalez LLC,Low,2025-07
+516,2025-09-19,26,191633,Invoice,UPI,e9474b99-ad8b-49f5-9748-e3c42df533d9,22,Pending,0.4914390940201801,False,True,False,True,Brown-Salas,Low,2025-09
+517,2025-07-01,21,268957,Payment,RTGS,fcd07b66-b3ae-4c06-9f5f-726b36d45035,30,Approved,1.4048922510699042,False,False,False,False,Marshall PLC,Low,2025-07
+518,2025-09-10,28,198984,Invoice,NEFT,65903717-fba2-4444-8a61-60f1bdb6111b,4,Pending,0.5782788094703963,False,True,False,True,"Williamson, Mendez and Morgan",Low,2025-09
+519,2025-01-31,9,258091,Invoice,NEFT,d442d695-903b-4a4a-a99e-097defef7ece,10,Approved,1.276528715757423,False,False,False,False,Howell Inc,Low,2025-01
+520,2025-12-06,46,280049,Payment,RTGS,0c4cba59-f0f0-4581-9e55-f294cfc2e8d5,48,Approved,1.535925596706389,False,False,False,False,"Moran, Wright and Tucker",Low,2025-12
+521,2025-06-07,74,87289,Invoice,RTGS,dc43d862-3123-42fa-8c0a-97a519531df1,50,Approved,-0.7412099699081787,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-06
+522,2025-10-02,85,264480,Payment,UPI,0558fe23-0b1b-41f4-966c-666f0ba4cd1b,15,Pending,1.3520040173505985,False,True,False,True,"Williams, Malone and Villa",Low,2025-10
+523,2025-05-31,73,135970,Payment,UPI,0651d6d8-e9a7-4856-8e46-c9576c86958d,28,Approved,-0.1661257381258391,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-05
+524,2025-08-29,41,271161,Payment,NEFT,ab219d8b-468a-4543-8768-56d21302d9e7,40,Approved,1.4309288083889462,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-08
+525,2025-07-09,23,100667,Invoice,UPI,81bf241b-eb78-42d6-ad5b-afc59810abef,33,Approved,-0.5831713747111996,False,False,False,False,Adams-Patel,Medium,2025-07
+526,2025-08-14,69,10039,Payment,UPI,6db2e9d3-954d-453b-ae2e-e43f265afad0,50,Approved,-1.6537889412765918,False,False,False,False,Bryant-Williams,Low,2025-08
+527,2025-07-03,58,219176,Invoice,RTGS,b42a83a0-003e-4b47-a3eb-6f715a4152ad,30,Rejected,0.8168133672680793,False,True,False,True,Frye-Walker,Low,2025-07
+528,2025-10-30,10,162221,Invoice,UPI,9aa13ed9-1bfc-4a6d-a4cc-5d7425207b9d,36,Pending,0.1439857256591734,False,True,False,True,Young LLC,Low,2025-10
+529,2025-06-14,77,118143,Payment,UPI,68ea4d7c-f5c2-4305-83fb-f2ee53fbe8a6,10,Approved,-0.3767217940816282,False,False,False,False,Franco-Singleton,Low,2025-06
+530,2025-10-10,91,87409,Invoice,NEFT,537d3c17-3a1d-4d20-8263-83435f9f9874,6,Approved,-0.7397923715060529,False,False,False,False,Davis PLC,High,2025-10
+531,2025-02-24,39,239864,Payment,NEFT,1fbbb3cb-65d4-4adf-8f10-7dbab3ecd258,37,Approved,1.0612073317945483,False,False,False,False,Larson Inc,Low,2025-02
+532,2025-09-17,56,90178,Invoice,RTGS,0758e7aa-62bf-44ff-871e-f52bf87a8003,43,Approved,-0.7070812883770027,False,False,False,False,"Reynolds, Smith and Anderson",High,2025-09
+533,2025-11-27,40,179499,Payment,UPI,8a56d6df-91a9-4dbb-9d94-a734e0d54442,37,Approved,0.3480962689252374,False,False,False,False,"Wyatt, Hunt and Smith",Medium,2025-11
+534,2025-08-21,18,160489,Invoice,RTGS,fbf61619-5531-4bca-9c8f-b0ed6c977c77,11,Approved,0.1235250553884925,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-08
+535,2025-06-10,77,93835,Payment,UPI,ab0be96c-9307-4b4c-8796-e285f0f0c4d6,43,Approved,-0.6638799770722222,False,False,False,False,Franco-Singleton,Low,2025-06
+536,2025-02-04,68,298851,Invoice,NEFT,124001d0-5e6e-4e3d-9259-e7635b23cd0b,3,Approved,1.758039639679449,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-02
+537,2025-08-22,1,298925,Invoice,NEFT,699fec69-8231-4653-b92a-29378123ce95,5,Approved,1.75891382536076,False,False,False,False,Clarke-Carlson,Medium,2025-08
+538,2025-05-11,92,154524,Payment,UPI,b4c8abff-cd5b-4c55-b06c-5e5aa34231d6,3,Pending,0.053058601482828,False,True,False,True,Jackson Group,Low,2025-05
+539,2025-04-07,84,152026,Invoice,NEFT,a1f3318f-a084-40c8-b012-ae40d3ec9562,1,Approved,0.0235489280785782,False,False,False,False,Clark-Romero,Low,2025-04
+540,2025-01-01,60,157297,Invoice,NEFT,0d7908f7-353a-404c-b479-f01705ca9443,21,Approved,0.0858169378919492,False,False,False,False,Thompson PLC,Low,2025-01
+541,2025-06-30,52,247998,Payment,UPI,3f5ec2b9-f310-4e22-8148-aa9c0af798be,32,Approved,1.1572968768186347,False,False,False,False,Williams PLC,Medium,2025-06
+542,2025-08-27,49,86257,Payment,UPI,f5ab8d40-ff71-4678-ae06-28b436510388,16,Pending,-0.7534013161664596,False,True,False,True,"Wilson, Hale and Allen",High,2025-08
+543,2025-07-01,85,136208,Payment,UPI,04227093-d147-4c49-80fd-10ca2052829d,45,Approved,-0.1633141679616231,False,False,False,False,"Williams, Malone and Villa",Low,2025-07
+544,2025-12-07,22,228861,Invoice,RTGS,a6ed71e5-3c6e-4e16-88ba-b2033564c787,23,Pending,0.93122537163964,False,True,False,True,"Wilson, Lopez and Welch",Medium,2025-12
+545,2025-04-09,87,226135,Invoice,RTGS,b3e87b4c-6016-4aa3-833c-4004560f2ec0,22,Approved,0.8990222612713515,False,False,False,False,Owens Group,Low,2025-04
+546,2025-08-22,37,237076,Payment,RTGS,43179224-4ec2-4343-be98-a39ed81955a7,47,Approved,1.0282717955851617,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-08
+547,2025-09-18,45,10520,Invoice,NEFT,8420d0e2-867f-4847-8031-3913e61e42d7,2,Approved,-1.6481067343480715,False,False,False,False,Maddox-Green,High,2025-09
+548,2025-02-02,18,149989,Payment,RTGS,a079f290-4cc8-41ef-b435-c193c98d76e8,33,Approved,-0.0005148047975053,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-02
+549,2025-08-02,32,157185,Payment,UPI,f0a4fc94-8c0a-4724-b113-183f42a9819a,36,Approved,0.0844938460499652,False,False,False,False,Nelson Ltd,High,2025-08
+550,2025-08-05,28,266798,Invoice,UPI,18dacd65-6de7-4dc8-b956-12deae84aab9,19,Approved,1.3793872931516595,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-08
+551,2025-09-04,28,59935,Payment,UPI,1566fe6f-50dc-40b0-9231-faf667f860fb,9,Approved,-1.0643515256727298,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-09
+552,2025-01-20,62,41320,Invoice,UPI,1210889e-fa90-4cb8-979b-08bbf9ae62d9,10,Approved,-1.2842564778024776,False,False,False,False,Velasquez-Bartlett,Medium,2025-01
+553,2025-04-15,65,236324,Payment,RTGS,ba047e2f-fa58-4971-8f46-3c71e76a9c69,13,Pending,1.0193881789318404,False,True,False,True,Jones Group,Medium,2025-04
+554,2025-09-11,34,205796,Payment,UPI,0f7b3f13-ef5d-4640-b7fb-24ec62dce6db,13,Approved,0.6587511454310647,False,False,False,False,"Yu, Nelson and Martinez",High,2025-09
+555,2025-08-15,64,98500,Invoice,UPI,2d6600f1-e4a3-4332-9463-6ddb1c07b972,24,Approved,-0.608770839189586,False,False,False,False,English and Sons,Low,2025-08
+556,2025-11-01,71,125076,Invoice,RTGS,aacce03f-589d-4310-a69c-2eebe8d2beb1,49,Approved,-0.2948200463988164,False,False,False,False,Jones Ltd,Medium,2025-11
+557,2025-02-11,58,116718,Invoice,NEFT,84e3ff94-4276-454e-9705-5c9382b3d5f2,49,Approved,-0.3935557751068707,False,False,False,False,Frye-Walker,Low,2025-02
+558,2025-06-07,43,128130,Invoice,UPI,3d0d15dc-8961-44a2-9041-78ca7cf5f2f3,15,Pending,-0.2587421670647176,False,True,False,True,Stephenson-Collier,Low,2025-06
+559,2025-09-21,32,183969,Payment,NEFT,57ce025d-7ef0-46c0-aa56-57bf453647cb,28,Approved,0.4009018094044194,False,False,False,False,Nelson Ltd,High,2025-09
+560,2025-01-24,56,254664,Invoice,NEFT,cae2afe2-6054-479e-ab6f-6c66f7917acf,22,Pending,1.2360444680567169,False,True,False,True,"Reynolds, Smith and Anderson",High,2025-01
+561,2025-04-12,51,238192,Invoice,RTGS,ab1ea19e-03ac-40f1-86e2-f2377ebcca10,29,Approved,1.0414554607249304,False,False,False,False,Moore-George,High,2025-04
+562,2025-01-04,66,123696,Invoice,UPI,99a036a5-3fd8-457d-9c09-dd687291b14a,3,Approved,-0.3111224280232618,False,False,False,False,Moore-Fitzgerald,Low,2025-01
+563,2025-04-01,46,42405,Invoice,RTGS,499a479c-ba07-4e50-96f6-b8b8ac7ff91c,48,Approved,-1.2714390255832575,False,False,False,False,"Moran, Wright and Tucker",Low,2025-04
+564,2025-03-12,8,138653,Payment,UPI,e9e492dd-3797-4612-bacd-345800d415bd,40,Rejected,-0.1344306005183122,False,True,False,True,Hammond-Turner,Low,2025-03
+565,2025-01-07,92,232443,Invoice,NEFT,c7350d08-bd43-45e1-8e22-5b5461450248,45,Approved,0.973540683943092,False,False,False,False,Jackson Group,Low,2025-01
+566,2025-08-12,77,7382,Payment,NEFT,24af5783-13fa-414e-8b73-c02843ee78ec,42,Approved,-1.6851769325636583,False,False,False,False,Franco-Singleton,Low,2025-08
+567,2025-11-25,83,250762,Payment,RTGS,f29a80f4-43c7-4971-88cf-74bc74af5551,40,Approved,1.1899488933475963,False,False,False,False,Mcmahon Group,High,2025-11
+568,2025-01-22,62,27010,Payment,UPI,9c9db3fc-d532-4e48-ae1f-66cfc15183a5,31,Approved,-1.453305087255966,False,False,False,False,Velasquez-Bartlett,Medium,2025-01
+569,2025-10-13,91,73842,Payment,RTGS,f8f6ea03-27ae-4d32-9496-5ac22b3568d8,49,Approved,-0.9000636841863799,False,False,False,False,Davis PLC,High,2025-10
+570,2025-06-08,31,225283,Payment,NEFT,108ee200-b188-42c1-a699-5e68dd448721,15,Approved,0.8889573126162592,False,False,False,False,Baker-Murray,Low,2025-06
+571,2025-02-01,36,157711,Invoice,RTGS,6dbcca84-a4e0-4626-8430-fe904c20915d,37,Approved,0.0907076523792828,False,False,False,False,Evans-Todd,Low,2025-02
+572,2025-11-16,62,106158,Payment,RTGS,750fa637-705e-4192-8b2d-8f1b4f89c1ba,17,Approved,-0.5183044344939315,False,False,False,False,Velasquez-Bartlett,Medium,2025-11
+573,2025-04-24,83,287140,Invoice,UPI,1fc0520c-31dd-4373-9fa9-4b0bb0ffdd22,28,Approved,1.6196938489519994,False,False,False,False,Mcmahon Group,High,2025-04
+574,2025-02-08,92,39693,Invoice,RTGS,68dc2113-0c95-43db-b3d7-e9bdaeadd93e,17,Approved,-1.3034767494712984,False,False,False,False,Jackson Group,Low,2025-02
+575,2025-04-18,95,252572,Payment,RTGS,e64e2877-b8a1-4da1-acd2-60d9b5794f0a,36,Pending,1.2113310025796589,False,True,False,True,Fox-Turner,High,2025-04
+576,2025-01-18,86,89811,Payment,NEFT,89e218ff-60df-4c13-beef-ded5d0711cd9,13,Approved,-0.7114167768235037,False,False,False,False,Hutchinson-Holland,Medium,2025-01
+577,2025-11-20,16,21999,Invoice,NEFT,d2273f7d-92c3-4f0b-9a90-386260960c76,40,Approved,-1.5125016338647317,False,False,False,False,Campbell LLC,Low,2025-11
+578,2024-12-15,2,203237,Payment,RTGS,825dc433-0373-4d78-b36d-42111d376aa1,44,Approved,0.6285208595057344,False,False,False,False,Adams Ltd,High,2024-12
+579,2025-07-15,80,294360,Payment,RTGS,c8a725ab-2c48-4b52-adbd-153b7e8032e8,50,Approved,1.7049860194798951,False,False,False,False,Barker and Sons,Medium,2025-07
+580,2025-03-07,90,12485,Payment,NEFT,3bdac8bd-77c5-48c0-ad2a-bcf48b1d62f1,38,Approved,-1.6248935605132633,False,False,False,False,"Solomon, Charles and Tyler",Low,2025-03
+581,2025-08-21,67,279370,Payment,NEFT,2045a6fc-bc2f-41c3-b07c-788f24e5af47,1,Approved,1.527904352414361,False,False,False,False,Hays-Wolf,Medium,2025-08
+582,2025-02-05,96,42019,Invoice,RTGS,5b71680a-6377-4482-a936-3bed9c5c990a,46,Approved,-1.2759989671100953,False,False,False,False,"Wilson, Garza and Miller",Low,2025-02
+583,2025-04-12,100,163598,Payment,RTGS,fa00ba74-23b7-4780-89b7-6552277ca057,39,Approved,0.1602526673235657,False,False,False,False,"Freeman, Washington and Gallegos",Low,2025-04
+584,2025-07-24,79,130814,Payment,RTGS,65e9e191-93ba-4d4b-bd16-5e9c0e403b70,37,Approved,-0.2270352161371729,False,False,False,False,Williams LLC,High,2025-07
+585,2025-10-25,33,296207,Invoice,NEFT,62dacce4-9d7a-40ad-b006-74b5bdd04a9b,22,Approved,1.726805221552613,False,False,False,False,"Robertson, Washington and Walker",Low,2025-10
+586,2025-02-02,21,161255,Invoice,UPI,8eb3ae4f-0b81-4764-a5aa-cfaae7b824af,5,Approved,0.1325740585220615,False,False,False,False,Marshall PLC,Low,2025-02
+587,2025-08-26,46,130829,Invoice,RTGS,a4f877f6-d1be-425a-8e27-fd1452edbc09,40,Approved,-0.2268580163369072,False,False,False,False,"Moran, Wright and Tucker",Low,2025-08
+588,2025-08-13,71,279535,Invoice,RTGS,7eeb355b-8589-41de-a25d-b2b022a1161b,18,Pending,1.529853550217284,False,True,False,True,Jones Ltd,Medium,2025-08
+589,2025-06-26,75,186429,Invoice,RTGS,6b5e3a2c-4b66-43f6-8e16-cecdedff30d7,48,Pending,0.429962576647996,False,True,False,True,"Bauer, Oconnell and Schmidt",High,2025-06
+590,2025-01-10,12,69286,Invoice,NEFT,bafb96b1-3a5e-4e60-98df-a8d83c66258b,10,Approved,-0.9538851701870854,False,False,False,False,Moreno-Le,Medium,2025-01
+591,2025-11-29,91,182826,Invoice,UPI,d2ff078e-90a2-4a66-91c3-7ea7e8b9c315,16,Approved,0.3873991846241721,False,False,False,False,Davis PLC,High,2025-11
+592,2025-01-07,35,253724,Invoice,RTGS,739fc4c0-bc83-4f96-99dc-375fda5327f4,11,Approved,1.2249399472400655,False,False,False,False,Collins-Salazar,Low,2025-01
+593,2025-07-28,48,273788,Invoice,RTGS,a19804ad-3c5e-4660-91df-42c61371d180,38,Approved,1.461962400075481,False,False,False,False,"Mills, Gallegos and Ibarra",Low,2025-07
+594,2025-10-01,24,172679,Invoice,RTGS,56162992-9024-4195-a078-513404e1169b,35,Pending,0.2675294264044273,False,True,False,True,Cherry Ltd,Low,2025-10
+595,2025-03-27,69,234204,Invoice,RTGS,307d811c-f605-45ed-8ee8-3c63887c3837,19,Approved,0.9943439404942864,False,False,False,False,Bryant-Williams,Low,2025-03
+596,2025-10-21,61,76196,Invoice,UPI,89d4c5f5-9634-43b7-af95-14837bd44b2c,43,Approved,-0.872255128864681,False,False,False,False,Hartman LLC,Medium,2025-10
+597,2025-02-25,61,118711,Invoice,UPI,44db4f93-0a1d-4eaa-a687-3c1e6cc2f327,24,Approved,-0.3700118283115666,False,False,False,False,Hartman LLC,Medium,2025-02
+598,2025-06-25,98,73798,Invoice,NEFT,6213b0c5-a5a2-4879-aca3-1b3cead254de,21,Rejected,-0.9005834702671595,False,True,False,True,Pope-Cuevas,Low,2025-06
+599,2025-08-13,4,57691,Payment,NEFT,b578021d-fa2d-4b81-bfd7-d40a61c15d03,14,Approved,-1.0908606157924805,False,False,False,False,Pierce PLC,Low,2025-08
+600,2025-02-23,11,298052,Payment,UPI,37e8dec7-026c-4243-bb37-c8de5482e24e,18,Approved,1.7486007969852957,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-02
+601,2025-01-31,75,227123,Invoice,UPI,e76f1134-af59-4eaa-b397-0db3737dcb1d,41,Approved,0.9106938214488532,False,False,False,False,"Bauer, Oconnell and Schmidt",High,2025-01
+602,2025-01-29,89,89425,Payment,UPI,67230745-af8a-4af7-9f71-a76470fc3f48,1,Approved,-0.7159767183503414,False,False,False,False,Lawson-Mccoy,Low,2025-01
+603,2025-12-14,4,44104,Invoice,RTGS,f7e19de5-0ad3-4b28-a79a-2b241738556d,22,Approved,-1.2513681948731614,False,False,False,False,Pierce PLC,Low,2025-12
+604,2025-08-20,81,64821,Payment,RTGS,c1a66052-e5b9-4e3c-af15-311c3e1b6c0f,20,Approved,-1.0066316440661789,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-08
+605,2024-12-23,33,208834,Invoice,UPI,c31a2e91-152c-4201-88b1-f2062ee7a727,12,Approved,0.6946400116448802,False,False,False,False,"Robertson, Washington and Walker",Low,2024-12
+606,2025-01-07,20,248877,Invoice,RTGS,cf682e61-face-467b-8506-6aa5dbb481a5,30,Pending,1.1676807851142057,False,True,False,True,"Miller, Torres and Mendez",Low,2025-01
+607,2025-05-29,66,227128,Payment,RTGS,3f227651-7509-421f-abf2-d111cb0f043a,36,Approved,0.9107528880489416,False,False,False,False,Moore-Fitzgerald,Low,2025-05
+608,2025-02-14,75,291663,Payment,UPI,a4e78bdf-b73b-4a38-b46f-1a6bd1f05fb2,22,Approved,1.6731254953921204,False,False,False,False,"Bauer, Oconnell and Schmidt",High,2025-02
+609,2025-04-12,29,103000,Payment,UPI,53b70b3c-8903-4458-a817-501a3c76960d,16,Approved,-0.5556108991098726,False,False,False,False,"Navarro, Lewis and Rogers",Medium,2025-04
+610,2025-12-02,7,110686,Payment,UPI,640ac9d3-38d6-45a1-895f-85032e5cc1ad,9,Rejected,-0.4648137214537221,False,True,False,True,Ferguson LLC,Low,2025-12
+611,2025-05-15,84,178860,Payment,NEFT,cb1ec3e9-7ab4-47e8-9e33-e7139d301d14,47,Approved,0.340547557433918,False,False,False,False,Clark-Romero,Low,2025-05
+612,2025-01-02,57,192655,Invoice,UPI,5df8675e-bf75-4bf4-a2a0-7f1dcaa22c89,30,Approved,0.5035123070782839,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-01
+613,2025-02-13,53,10750,Payment,NEFT,b318fdf3-b803-4390-8959-37297faa0cc9,17,Pending,-1.6453896707439972,False,True,False,True,"Lambert, Schwartz and Newman",Medium,2025-02
+614,2025-03-29,94,96036,Invoice,RTGS,47b23b52-e836-480f-8f99-1858eea3078b,11,Approved,-0.6378788597132335,False,False,False,False,Taylor-Ware,Low,2025-03
+615,2025-09-03,71,122305,Payment,UPI,d11371e7-e1b3-4275-9d8b-dadaf7443cb9,20,Approved,-0.3275547561679021,False,False,False,False,Jones Ltd,Medium,2025-09
+616,2025-09-14,88,116497,Payment,UPI,b60afde7-add4-43de-85c5-7c05d4895578,37,Approved,-0.3961665188307856,False,False,False,False,Moon and Sons,Low,2025-09
+617,2025-11-20,37,70149,Invoice,UPI,301bcb39-2b4e-47db-911a-9979fe771c3a,40,Approved,-0.943690275011798,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-11
+618,2025-11-29,64,292623,Invoice,RTGS,ddf4157a-b5bc-47a7-ac2d-bb89bc8423ac,10,Approved,1.684466282609126,False,False,False,False,English and Sons,Low,2025-11
+619,2025-01-06,49,258347,Invoice,NEFT,d972bbac-9041-4599-ae50-ee9de9524057,32,Rejected,1.2795529256819578,False,True,False,True,"Wilson, Hale and Allen",High,2025-01
+620,2025-01-15,26,278493,Payment,UPI,830657e7-6a26-4e64-b700-09a25a1d76c4,18,Approved,1.5175440707588257,False,False,False,False,Brown-Salas,Low,2025-01
+621,2025-12-10,88,82694,Payment,UPI,a4792c64-d4b6-44dc-a3a7-162e2c1c8bed,22,Approved,-0.7954921753895748,False,False,False,False,Moon and Sons,Low,2025-12
+622,2025-07-10,11,236387,Payment,RTGS,bec8cef4-5d32-481e-923c-4040a8e5bd1d,5,Approved,1.0201324180929563,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-07
+623,2025-03-02,10,71983,Payment,RTGS,a6b0215a-3b7b-4d35-b6a2-facae40c95b0,24,Approved,-0.9220246460993105,False,False,False,False,Young LLC,Low,2025-03
+624,2025-07-23,60,182597,Invoice,NEFT,cb5bc239-84b1-4bdb-b112-39d3c96ec691,1,Approved,0.3846939343401156,False,False,False,False,Thompson PLC,Low,2025-07
+625,2025-02-05,95,257084,Payment,RTGS,fdf1513a-339a-4186-b166-ceabeca1aa48,9,Approved,1.264632702499585,False,False,False,False,Fox-Turner,High,2025-02
+626,2025-02-25,89,78616,Invoice,RTGS,adcf4526-c823-415c-a168-1ac019ab4ed0,15,Approved,-0.843666894421813,False,False,False,False,Lawson-Mccoy,Low,2025-02
+627,2025-05-28,39,242068,Invoice,NEFT,1d4a1759-f60a-45db-a9c8-a48dad0553c2,40,Approved,1.08724388911359,False,False,False,False,Larson Inc,Low,2025-05
+628,2025-06-20,91,241500,Payment,NEFT,752cba35-9c45-4ad1-a246-8634d4b0e5b7,16,Approved,1.0805339233435285,False,False,False,False,Davis PLC,High,2025-06
+629,2025-01-06,76,119091,Payment,UPI,3ce891b4-bc31-4d05-a3b6-f135f12e31ff,7,Approved,-0.3655227667048352,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-01
+630,2025-11-23,48,290713,Payment,UPI,f973b673-acb5-44e5-9831-c8e9a3961f25,39,Approved,1.661902841375292,False,False,False,False,"Mills, Gallegos and Ibarra",Low,2025-11
+631,2025-11-28,89,248935,Payment,NEFT,6731654f-4ce5-442d-8050-779f90eb653d,45,Rejected,1.1683659576752328,False,True,False,True,Lawson-Mccoy,Low,2025-11
+632,2025-07-29,6,149972,Invoice,RTGS,70ab281e-1c7e-48e5-a4bb-d79090361cfe,14,Approved,-0.0007156312378064,False,False,False,False,Johnson Ltd,Low,2025-07
+633,2025-08-01,4,93059,Invoice,NEFT,648b186a-f91f-4b8c-b5c2-78657ce92b37,13,Approved,-0.6730471134059683,False,False,False,False,Pierce PLC,Low,2025-08
+634,2025-05-11,63,86972,Payment,UPI,9e544509-4ec9-428d-ba92-4ef38384f0ec,28,Approved,-0.744954792353794,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-05
+635,2025-06-07,98,275741,Payment,NEFT,47efee6a-79c7-4f86-84a8-174c9e5133ba,38,Rejected,1.4850338140700767,False,True,False,True,Pope-Cuevas,Low,2025-06
+636,2025-07-17,72,248896,Payment,RTGS,b182e934-63a2-4e34-a8a2-6f3b2dccf8f8,32,Approved,1.1679052381945418,False,False,False,False,Baker-Maldonado,Low,2025-07
+637,2025-05-10,3,281223,Invoice,NEFT,b4d03c8b-ab03-4e6c-af14-9eb5f79fb90a,31,Approved,1.5497944344071852,False,False,False,False,"Hale, Rush and Smith",Low,2025-05
+638,2025-06-20,69,155872,Invoice,NEFT,7648419e-54fc-49f3-ac56-eccd6bf7ac3d,31,Approved,0.0689829568667066,False,False,False,False,Bryant-Williams,Low,2025-06
+639,2025-04-16,84,156014,Invoice,RTGS,e7a22f62-7e4d-469b-88e3-c505dc4c81b0,4,Approved,0.070660448309222,False,False,False,False,Clark-Romero,Low,2025-04
+640,2025-10-01,42,209720,Payment,NEFT,af571ba7-ed5a-4c33-a136-e4cbfca27bc7,17,Approved,0.7051066131805749,False,False,False,False,Dickerson-Reed,Low,2025-10
+641,2025-08-28,97,74504,Invoice,NEFT,54a98455-2273-4647-9519-2b00d9b0ca2d,17,Approved,-0.8922432663346532,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-08
+642,2025-07-13,72,76386,Invoice,UPI,5ec66e6b-8c80-4129-8484-d4fe95fb407f,46,Approved,-0.8700105980613153,False,False,False,False,Baker-Maldonado,Low,2025-07
+643,2025-01-10,59,202742,Invoice,NEFT,61b474bd-d327-4551-93e8-461b568d5cf5,39,Approved,0.6226732660969659,False,False,False,False,Gonzalez LLC,Low,2025-01
+644,2025-06-16,28,87806,Payment,RTGS,25f38ebb-6ff0-425d-bbb7-ecd11f5d5b80,18,Approved,-0.7351024834590205,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-06
+645,2025-02-25,30,202478,Invoice,RTGS,c61898c3-0a81-498a-8d9e-f213ae612be9,29,Approved,0.6195545496122894,False,False,False,False,Owens LLC,High,2025-02
+646,2025-10-13,82,237204,Invoice,NEFT,f3188c86-97e0-43be-8c4a-bca4627a5406,30,Approved,1.0297839005474287,False,False,False,False,"Baker, White and Brown",High,2025-10
+647,2025-01-16,55,248154,Payment,UPI,1b17b518-060e-4363-b0ec-0b9dda4f1818,9,Approved,1.1591397547413982,False,False,False,False,Strickland-Lam,Medium,2025-01
+648,2025-01-05,95,126757,Invoice,NEFT,963e776e-e8fa-4006-bb86-ce93f549c1e1,9,Pending,-0.274961855449039,False,True,False,True,Fox-Turner,High,2025-01
+649,2025-09-10,1,280553,Payment,NEFT,db801efb-b901-4654-bcd0-2a9a53ebccfb,32,Approved,1.5418795099953169,False,False,False,False,Clarke-Carlson,Medium,2025-09
+650,2025-12-15,97,286836,Payment,NEFT,ade9e851-93a3-4326-9d29-32d20d7573e5,8,Approved,1.6161025996666143,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-12
+651,2025-02-14,62,297107,Invoice,UPI,84d78629-c4b9-40ef-a3d8-da25eb4463d3,40,Approved,1.7374372095685555,False,False,False,False,Velasquez-Bartlett,Medium,2025-02
+652,2025-06-07,11,118502,Invoice,NEFT,2b518d46-d1f9-454e-9f07-77780af6050c,32,Approved,-0.3724808121952688,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-06
+653,2025-10-15,85,295198,Payment,RTGS,a643e87e-2fbb-4660-a797-17f51e3da2e9,22,Approved,1.7148855816547397,False,False,False,False,"Williams, Malone and Villa",Low,2025-10
+654,2025-01-22,37,161140,Payment,UPI,cb4f0f78-1542-4d03-bc78-6b6a5764e54a,8,Approved,0.1312155267200244,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-01
+655,2025-06-20,99,18682,Invoice,NEFT,c9d56a11-5289-428f-8acf-64a01dffc84c,21,Rejected,-1.5516864163634891,False,True,False,True,Wheeler Inc,Medium,2025-06
+656,2024-12-24,63,46830,Payment,UPI,d974655a-a33f-4853-abd4-660031113011,17,Approved,-1.219165084504873,False,False,False,False,"Williams, Smith and Hardy",Medium,2024-12
+657,2025-02-22,56,197485,Payment,RTGS,312a1085-a907-48de-b833-ee1bb4069994,38,Pending,0.5605706427638429,False,True,False,True,"Reynolds, Smith and Anderson",High,2025-02
+658,2025-02-20,68,213547,Payment,NEFT,28374040-127f-40d4-a28e-409cbdcba359,32,Approved,0.7503161888883666,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-02
+659,2025-10-04,100,43134,Payment,RTGS,7a14708a-8fd5-45fa-978b-0d1188058f56,19,Approved,-1.262827115290344,False,False,False,False,"Freeman, Washington and Gallegos",Low,2025-10
+660,2025-02-16,99,191093,Payment,UPI,72fb60aa-32e3-41e1-8e09-b60a392db16f,28,Approved,0.4850599012106145,False,False,False,False,Wheeler Inc,Medium,2025-02
+661,2025-04-21,82,261446,Payment,RTGS,c0df5bb2-9fee-4891-a3a2-d81119f85174,4,Approved,1.3161624044168538,False,False,False,False,"Baker, White and Brown",High,2025-04
+662,2025-06-04,27,218175,Payment,UPI,b40d6a03-9468-4396-8a8b-0fec9059b927,24,Approved,0.8049882339303475,False,False,False,False,Mcdonald LLC,Low,2025-06
+663,2025-06-23,25,110982,Payment,UPI,d93aede3-a20b-44ae-9788-e22ad32a4396,24,Approved,-0.4613169787284787,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-06
+664,2025-11-30,73,243483,Payment,RTGS,5e14de55-d9fe-43ff-a4dd-0d7fa615a73b,19,Pending,1.1039597369386556,False,True,False,True,"Mathews, Gutierrez and Miller",Low,2025-11
+665,2025-01-07,5,223306,Payment,UPI,31d0d4ed-39dc-4e71-b51c-11bd9f1b73be,16,Approved,0.8656023789412385,False,False,False,False,Williams-Jackson,Low,2025-01
+666,2025-10-12,35,197971,Invoice,NEFT,3b9e35dc-f26a-4512-9393-aa6b7b53c328,44,Approved,0.566311916292452,False,False,False,False,Collins-Salazar,Low,2025-10
+667,2025-11-26,34,234334,Invoice,RTGS,23e284ee-38bc-4206-83aa-c4c2011b96bb,20,Approved,0.9958796720965892,False,False,False,False,"Yu, Nelson and Martinez",High,2025-11
+668,2025-05-12,4,156638,Payment,UPI,8d522e0e-70bb-4982-87a7-8363d2e2e108,48,Approved,0.0780319600002756,False,False,False,False,Pierce PLC,Low,2025-05
+669,2025-08-07,89,271909,Invoice,RTGS,53a73968-d1da-44f8-b158-15895fa3bcef,21,Approved,1.4397651717621962,False,False,False,False,Lawson-Mccoy,Low,2025-08
+670,2025-10-28,49,82525,Invoice,RTGS,fb15d4fa-8199-41d1-a43e-a275ef8cd326,33,Approved,-0.7974886264725686,False,False,False,False,"Wilson, Hale and Allen",High,2025-10
+671,2025-01-11,15,70785,Payment,UPI,6c7de704-41a7-4d67-9327-5312d7d52fc6,46,Approved,-0.936177003480532,False,False,False,False,Williams-Green,High,2025-01
+672,2025-05-12,88,30464,Payment,NEFT,65decd60-4107-4ffc-a505-445426de127d,6,Pending,-1.4125018799147817,False,True,False,True,Moon and Sons,Low,2025-05
+673,2025-03-11,47,177502,Payment,UPI,154e806c-2a71-4d66-ae30-68d203b54f7c,18,Approved,0.3245050688498623,False,False,False,False,Wong and Sons,Medium,2025-03
+674,2025-08-15,99,211486,Payment,UPI,2b2a98af-127a-45da-9cac-b9be77b9512d,40,Approved,0.7259689363318579,False,False,False,False,Wheeler Inc,Medium,2025-08
+675,2025-08-14,89,143419,Invoice,UPI,b0565322-542f-412e-9326-98e8a9e7de5f,11,Pending,-0.0781283173138869,False,True,False,True,Lawson-Mccoy,Low,2025-08
+676,2025-08-20,5,248767,Invoice,NEFT,37dc2a94-54bb-4c7d-84eb-e2c3556b70d7,38,Approved,1.1663813199122568,False,False,False,False,Williams-Jackson,Low,2025-08
+677,2025-02-06,73,297410,Payment,RTGS,c625674b-5b68-4606-af62-066df60dd579,1,Approved,1.741016645533923,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-02
+678,2025-11-13,51,117669,Invoice,UPI,641de2a3-b281-41f6-a5f2-40adcd2abbe6,26,Approved,-0.3823213077700246,False,False,False,False,Moore-George,High,2025-11
+679,2025-02-24,72,126724,Payment,RTGS,32d5d060-b233-4cbc-8736-0b8854cb8f99,30,Approved,-0.2753516950096236,False,False,False,False,Baker-Maldonado,Low,2025-02
+680,2025-04-03,95,298561,Invoice,UPI,1d329837-11a2-4680-a4d8-ec3093121d8a,34,Approved,1.7546137768743122,False,False,False,False,Fox-Turner,High,2025-04
+681,2025-03-17,52,126688,Payment,NEFT,bb778ca7-50d4-4f2f-a96e-f0b5211dbc68,22,Approved,-0.2757769745302613,False,False,False,False,Williams PLC,Medium,2025-03
+682,2025-08-24,1,221896,Invoice,UPI,aef85e10-e60a-4ea5-bac0-bbe3d889cae2,42,Approved,0.8489455977162615,False,False,False,False,Clarke-Carlson,Medium,2025-08
+683,2025-03-26,21,272598,Invoice,RTGS,a896bcbf-b5c9-4087-a48f-b0e6c6e6e07b,38,Pending,1.4479045492544012,False,True,False,True,Marshall PLC,Low,2025-03
+684,2025-09-03,80,52111,Payment,UPI,78597a89-70d2-4ae5-91de-b659789558b7,17,Approved,-1.1567789414913248,False,False,False,False,Barker and Sons,Medium,2025-09
+685,2025-02-14,90,133652,Invoice,RTGS,7c34c869-72cf-4913-b914-2f2f11712688,17,Approved,-0.1935090139269004,False,False,False,False,"Solomon, Charles and Tyler",Low,2025-02
+686,2025-06-15,45,66602,Payment,RTGS,8f1abc64-a6af-44d9-850f-612a6a11ae01,47,Approved,-0.98559212111463,False,False,False,False,Maddox-Green,High,2025-06
+687,2025-06-07,15,70333,Invoice,UPI,4736138e-cc7e-4cec-80fa-7dfa88484a61,13,Approved,-0.9415166241285388,False,False,False,False,Williams-Green,High,2025-06
+688,2025-05-21,35,145347,Payment,NEFT,cbc40a01-98c6-4ebb-9d9a-d728d6e701fd,22,Approved,-0.0553522363197341,False,False,False,False,Collins-Salazar,Low,2025-05
+689,2025-06-12,23,289697,Invoice,NEFT,c2987d4d-6a4a-4ffa-aa0c-200cec2bf9ce,26,Approved,1.6499005082372944,False,False,False,False,Adams-Patel,Medium,2025-06
+690,2025-03-20,70,166215,Payment,RTGS,b9f15ebc-0da2-4dfc-8b9f-5b1f1e10b44d,4,Approved,0.1911681258099234,False,False,False,False,Gaines-Marshall,Low,2025-03
+691,2025-06-24,14,63829,Invoice,UPI,1cbed8eb-dc48-4609-83cf-9da0dd740de8,44,Approved,-1.0183504575237512,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-06
+692,2024-12-25,19,58822,Invoice,UPI,feab3670-30fd-494f-9914-7ee267b43292,44,Approved,-1.0774997508524455,False,False,False,False,Williams-Miller,Medium,2024-12
+693,2025-08-02,35,228122,Payment,UPI,45b61f52-94b6-4bc7-9468-3b712c8f6614,32,Pending,0.9224953281465494,False,True,False,True,Collins-Salazar,Low,2025-08
+694,2025-06-27,44,67780,Invoice,NEFT,4ca2c2b7-645e-4c8c-b7d4-87fbb9aef1f6,7,Approved,-0.9716760301337628,False,False,False,False,Dorsey Inc,Low,2025-06
+695,2025-05-20,65,105706,Payment,NEFT,cc54791b-f99e-4e0c-99f9-1944c4b3a736,6,Approved,-0.5236440551419383,False,False,False,False,Jones Group,Medium,2025-05
+696,2025-08-07,14,105260,Payment,UPI,e51e0a56-131d-41ea-81a9-bfea941e8445,47,Approved,-0.5289127958698387,False,False,False,False,"Fields, Calhoun and Robertson",High,2025-08
+697,2025-08-09,40,140899,Payment,RTGS,2a928219-1562-4173-b26e-039c53379d8a,4,Approved,-0.1078978837585264,False,False,False,False,"Wyatt, Hunt and Smith",Medium,2025-08
+698,2025-04-14,28,253044,Payment,UPI,d83b3b5e-3b01-4122-b16d-20b98a726cdf,3,Approved,1.21690688962802,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-04
+699,2025-04-08,24,205462,Invoice,UPI,dd8b4af1-b362-442f-8835-fcc55a0c6c79,9,Approved,0.6548054965451483,False,False,False,False,Cherry Ltd,Low,2025-04
+700,2025-04-09,66,191950,Payment,UPI,660e50db-9b63-4831-a068-3e34a167a10a,39,Approved,0.4951839164657955,False,False,False,False,Moore-Fitzgerald,Low,2025-04
+701,2025-05-17,57,241495,Invoice,RTGS,d4adb16d-b3fb-4b59-a1a4-7ea79030826f,10,Approved,1.08047485674344,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-05
+702,2025-03-10,69,152878,Payment,RTGS,73a15345-9107-4a5e-8695-20598c55aa95,43,Pending,0.0336138767336706,False,True,False,True,Bryant-Williams,Low,2025-03
+703,2025-02-13,23,193868,Payment,RTGS,8037f74a-708b-47f8-a10d-32b0797bbb17,46,Approved,0.5178418642597711,False,False,False,False,Adams-Patel,Medium,2025-02
+704,2025-07-28,93,98078,Payment,RTGS,91158c44-c4aa-47ef-99b8-1c5d286f264b,18,Approved,-0.6137560602370613,False,False,False,False,Parker-Singh,Low,2025-07
+705,2025-07-29,96,194651,Payment,UPI,2a7f3168-0c49-4938-b5ee-84f91842ef3f,3,Pending,0.5270916938336413,False,True,False,True,"Wilson, Garza and Miller",Low,2025-07
+706,2025-06-10,43,176103,Payment,UPI,5f69a482-7828-44c0-a590-e898128d2d16,4,Approved,0.3079782341450803,False,False,False,False,Stephenson-Collier,Low,2025-06
+707,2025-09-26,83,64807,Payment,RTGS,3c6225be-2e25-4272-9e90-724ecae25a56,35,Pending,-1.0067970305464269,False,True,False,True,Mcmahon Group,High,2025-09
+708,2025-02-06,84,220189,Payment,UPI,40ff0fc9-968e-498b-9bdc-83db2379724e,11,Approved,0.8287802604460236,False,False,False,False,Clark-Romero,Low,2025-02
+709,2025-10-08,3,280848,Payment,UPI,15fd4fbb-22d1-4784-ad73-836905c4efeb,14,Approved,1.5453644394005426,False,False,False,False,"Hale, Rush and Smith",Low,2025-10
+710,2024-12-26,73,137886,Payment,UPI,016a03f4-85dd-47a0-8ce6-c452d53f76f1,47,Approved,-0.1434914169718989,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2024-12
+711,2025-10-22,87,199840,Payment,RTGS,272b5a3f-ed44-48ee-882d-87e05d589807,45,Approved,0.5883910114055596,False,False,False,False,Owens Group,Low,2025-10
+712,2025-04-24,25,71253,Payment,NEFT,af8b97df-ca76-4f41-9651-9a3ecaace44f,46,Approved,-0.9306483697122416,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-04
+713,2025-01-04,41,104352,Payment,UPI,ecb92687-7cb6-4529-bcbf-3a6da86bd655,48,Approved,-0.5396392904459232,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-01
+714,2025-10-10,99,43346,Invoice,NEFT,fe0f266e-a5bb-4569-b5be-5586c7f92397,21,Pending,-1.2603226914465888,False,True,False,True,Wheeler Inc,Medium,2025-10
+715,2025-05-05,7,133447,Payment,RTGS,a50fa99b-5307-4eb5-8b12-5c6d1fa797be,12,Approved,-0.1959307445305317,False,False,False,False,Ferguson LLC,Low,2025-05
+716,2025-11-04,82,191098,Payment,UPI,30f2e67f-12ef-4ed7-af16-9ff21b8ad8e3,26,Pending,0.4851189678107031,False,True,False,True,"Baker, White and Brown",High,2025-11
+717,2025-04-28,57,84211,Invoice,UPI,76e2ccbb-73b2-42de-86d1-776aac6e9a56,47,Approved,-0.7775713689227026,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-04
+718,2025-03-07,76,232203,Invoice,RTGS,ae07055b-1c6a-42d2-baeb-0eec87233e26,2,Approved,0.9707054871388406,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-03
+719,2025-12-10,27,140758,Invoice,UPI,ac3b3de9-17a2-4ed8-a546-840436e756e7,47,Approved,-0.109563561881024,False,False,False,False,Mcdonald LLC,Low,2025-12
+720,2025-12-01,63,159599,Payment,NEFT,43e5407b-3e7e-4ffc-a6f8-038d7bca2d82,43,Pending,0.113011200572727,False,True,False,True,"Williams, Smith and Hardy",Medium,2025-12
+721,2025-08-07,81,25855,Payment,NEFT,7af83a87-9fbb-4bac-b050-0b8d0da1ff64,8,Pending,-1.466949471876426,False,True,False,True,"Parker, Pope and Dominguez",Low,2025-08
+722,2025-01-29,80,57003,Payment,RTGS,04187a91-d0f5-40c5-8811-b0f0fa1c8937,29,Approved,-1.0989881799646677,False,False,False,False,Barker and Sons,Medium,2025-01
+723,2025-09-22,30,290071,Payment,RTGS,6bf86407-e06f-4bf9-8c50-4a9cb0c0208d,7,Approved,1.6543186899239195,False,False,False,False,Owens LLC,High,2025-09
+724,2025-11-24,37,222282,Invoice,UPI,c8c9021b-20c3-4d02-8067-dd9ec91032f6,46,Approved,0.8535055392430992,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-11
+725,2025-05-06,77,58311,Invoice,UPI,b50a6f97-6cb0-400d-8a0f-2b24312f29ce,29,Approved,-1.0835363573814976,False,False,False,False,Franco-Singleton,Low,2025-05
+726,2025-09-27,70,9926,Payment,RTGS,d6869284-0fa8-4a97-b411-0350b0079268,22,Approved,-1.6551238464385936,False,False,False,False,Gaines-Marshall,Low,2025-09
+727,2025-09-03,18,175948,Payment,RTGS,e4f41018-7755-49ec-aa82-2c132a7000e6,45,Approved,0.3061471695423347,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-09
+728,2025-01-08,34,262450,Payment,RTGS,736f51ed-c001-45e5-97f1-70a99b9bf1f8,29,Approved,1.3280229777146386,False,False,False,False,"Yu, Nelson and Martinez",High,2025-01
+729,2025-02-28,52,262971,Invoice,NEFT,e4529cfc-565d-411e-bb8b-3860a8a05dd4,39,Approved,1.3341777174438678,False,False,False,False,Williams PLC,Medium,2025-02
+730,2025-07-28,38,232909,Payment,UPI,481d37ac-2bac-43f5-b58c-57c2207c7f51,15,Pending,0.9790456910713468,False,True,False,True,"Mason, Hopkins and May",Low,2025-07
+731,2025-04-21,9,219303,Payment,RTGS,9c2fad36-f597-4972-9eb8-40ff2f60e598,18,Approved,0.8183136589103289,False,False,False,False,Howell Inc,Low,2025-04
+732,2025-09-01,87,159237,Invoice,NEFT,f38cf018-cf6a-4f94-a79c-18f509fff0b7,22,Approved,0.1087347787263145,False,False,False,False,Owens Group,Low,2025-09
+733,2025-07-29,93,49331,Payment,NEFT,c61a45b1-86b2-4737-a057-4cb757f91833,42,Approved,-1.18961997114057,False,False,False,False,Parker-Singh,Low,2025-07
+734,2025-04-01,95,80910,Payment,UPI,9a2eebe8-5c25-4237-b534-7932a37527b0,42,Approved,-0.8165671383011768,False,False,False,False,Fox-Turner,High,2025-04
+735,2025-10-19,35,212288,Invoice,NEFT,f7b795f0-6de5-4127-93d1-af394a3de123,31,Approved,0.7354432189860646,False,False,False,False,Collins-Salazar,Low,2025-10
+736,2025-03-20,53,267431,Payment,UPI,3c496da2-8f80-4cb7-a9e7-91aa903e7623,10,Approved,1.3868651247228725,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-03
+737,2025-11-15,60,103064,Payment,RTGS,86f23b97-0585-4064-8d0e-c7b262a78051,39,Pending,-0.554854846628739,False,True,False,True,Thompson PLC,Low,2025-11
+738,2025-01-13,88,138248,Invoice,UPI,1654e5d0-4fc7-47df-acd1-bc92ba23a23f,21,Approved,-0.1392149951254864,False,False,False,False,Moon and Sons,Low,2025-01
+739,2025-10-06,26,180982,Payment,UPI,e38d3172-3399-4942-abc6-2bff35217cfc,17,Pending,0.3656154225115073,False,True,False,True,Brown-Salas,Low,2025-10
+740,2025-10-03,92,274279,Invoice,UPI,8a4c2760-7a61-4212-bbe4-45cdb7bc0f8f,28,Approved,1.4677627402041786,False,False,False,False,Jackson Group,Low,2025-10
+741,2025-03-04,71,231921,Payment,UPI,731ffb9b-6f3f-401a-aad2-64c188ccb296,26,Approved,0.9673741308938452,False,False,False,False,Jones Ltd,Medium,2025-03
+742,2025-06-14,50,51250,Invoice,NEFT,b15fe853-b4d7-4475-b72d-e8bb2b621c37,3,Approved,-1.1669502100265767,False,False,False,False,Hoffman Group,High,2025-06
+743,2025-06-05,27,20216,Payment,RTGS,a5ec44c9-730a-4a1d-b3a9-6a8c40c14d63,49,Approved,-1.5335647834563155,False,False,False,False,Mcdonald LLC,Low,2025-06
+744,2025-09-27,60,20029,Payment,RTGS,490b21cf-5fa8-4a95-8654-70be20cd032e,28,Approved,-1.535773874299628,False,False,False,False,Thompson PLC,Low,2025-09
+745,2025-09-25,10,247471,Invoice,NEFT,861f9209-e36f-4b23-91c6-fb493204a9cf,41,Approved,1.1510712571692994,False,False,False,False,Young LLC,Low,2025-09
+746,2025-04-21,47,34092,Payment,NEFT,32ea77a3-3671-4773-b686-f4b01c4fc729,22,Approved,-1.369643154890515,False,False,False,False,Wong and Sons,Medium,2025-04
+747,2025-06-05,27,92592,Payment,RTGS,ff75a59e-14b5-4b0f-af12-8e6e0c193959,32,Approved,-0.6785639338542409,False,False,False,False,Mcdonald LLC,Low,2025-06
+748,2025-11-01,66,272687,Invoice,RTGS,138bb60c-5629-4618-af1c-ccdf9cd7138b,9,Approved,1.4489559347359775,False,False,False,False,Moore-Fitzgerald,Low,2025-11
+749,2025-07-26,98,91803,Invoice,RTGS,5781d5aa-cc4a-4110-b96d-a870dba90a41,1,Approved,-0.6878846433482173,False,False,False,False,Pope-Cuevas,Low,2025-07
+750,2025-04-19,36,199549,Invoice,RTGS,4e9c9ed6-42db-47c1-abbd-8fb313e41762,31,Pending,0.5849533352804048,False,True,False,True,Evans-Todd,Low,2025-04
+751,2025-01-04,66,12452,Invoice,NEFT,54b82b1e-b87a-413a-a4a1-bdab19feae8e,28,Approved,-1.625283400073848,False,False,False,False,Moore-Fitzgerald,Low,2025-01
+752,2025-01-30,24,254737,Payment,RTGS,43303b49-bc20-4fb3-87b3-631c91dd2adc,37,Approved,1.23690684041801,False,False,False,False,Cherry Ltd,Low,2025-01
+753,2024-12-16,14,157225,Payment,RTGS,87c75887-382c-4c68-9729-9819ab9fc2f5,12,Approved,0.0849663788506737,False,False,False,False,"Fields, Calhoun and Robertson",High,2024-12
+754,2025-06-01,70,84267,Payment,RTGS,35ce2326-8117-4c5d-85d6-befda8251b0e,16,Rejected,-0.7769098230017106,False,True,False,True,Gaines-Marshall,Low,2025-06
+755,2025-11-22,56,112615,Invoice,NEFT,b8fd2cce-8226-41ec-9be3-4a6e6108ce1c,36,Approved,-0.4420258271395517,False,False,False,False,"Reynolds, Smith and Anderson",High,2025-11
+756,2025-07-17,38,209994,Invoice,NEFT,4f947ceb-d8fb-42ff-8220-64e44046f8a2,16,Approved,0.7083434628654285,False,False,False,False,"Mason, Hopkins and May",Low,2025-07
+757,2025-06-06,68,81436,Payment,UPI,adb02a60-ea6a-438a-92a3-a49c02ff208d,14,Approved,-0.8103533319718592,False,False,False,False,"Morris, Dennis and Ramirez",Low,2025-06
+758,2025-08-26,78,83533,Payment,NEFT,acd7d854-7878-4405-af7d-ac6bcc4f7864,45,Pending,-0.7855807998947127,False,True,False,True,Williams-Hopkins,Low,2025-08
+759,2025-04-07,61,221621,Payment,UPI,bdd38889-c78b-44a5-ac93-a05c2e26fe28,44,Pending,0.8456969347113902,False,True,False,True,Hartman LLC,Medium,2025-04
+760,2025-09-05,54,273782,Payment,RTGS,e8840e40-ab2d-4ad5-a157-95e9c6496a7c,5,Approved,1.4618915201553748,False,False,False,False,Bishop-Chambers,Low,2025-09
+761,2025-11-21,87,251375,Payment,UPI,3de666a1-67ac-4a89-9ecb-890082992185,14,Approved,1.1971904585184552,False,False,False,False,Owens Group,Low,2025-11
+762,2025-11-06,97,128664,Payment,UPI,6055f6cf-4f0f-48a9-9781-78b26d134c9f,46,Approved,-0.2524338541752582,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-11
+763,2025-06-28,87,249936,Invoice,RTGS,1fbeeb4a-a2cb-411e-9b01-9d555fa70284,25,Approved,1.1801910910129645,False,False,False,False,Owens Group,Low,2025-06
+764,2025-07-07,66,288460,Payment,UPI,5b467cd4-be25-4754-90f6-74f457c14d77,25,Approved,1.635287431375382,False,False,False,False,Moore-Fitzgerald,Low,2025-07
+765,2025-05-14,1,78290,Invoice,UPI,d442afad-b866-4618-9775-1b2367989ba4,24,Approved,-0.8475180367475877,False,False,False,False,Clarke-Carlson,Medium,2025-05
+766,2025-10-14,54,73111,Invoice,RTGS,beed9f27-01bc-4e5a-9b6a-aa6652643b80,3,Pending,-0.908699221119329,False,True,False,True,Bishop-Chambers,Low,2025-10
+767,2025-06-17,58,94524,Invoice,NEFT,88ff1cdd-7a22-46a5-b8ac-68197f662aec,17,Approved,-0.6557405995800172,False,False,False,False,Frye-Walker,Low,2025-06
+768,2025-12-12,84,274637,Payment,NEFT,4050f871-908d-4ccd-95b7-5f57a0dceab6,48,Approved,1.4719919087705202,False,False,False,False,Clark-Romero,Low,2025-12
+769,2025-03-17,3,133674,Invoice,UPI,33ab4d6d-0039-4261-aadb-20b6d7c5d2dd,44,Approved,-0.1932491208865107,False,False,False,False,"Hale, Rush and Smith",Low,2025-03
+770,2025-11-11,20,237520,Invoice,UPI,8d1fb1bd-4037-425d-a3b8-023a53c7c1a1,19,Approved,1.0335169096730266,False,False,False,False,"Miller, Torres and Mendez",Low,2025-11
+771,2025-07-30,45,240707,Invoice,RTGS,ee2d0c08-9c93-4442-a885-f63d357458e1,28,Approved,1.0711659605694812,False,False,False,False,Maddox-Green,High,2025-07
+772,2025-11-06,53,269179,Payment,RTGS,3c05e8d2-6569-47f9-8cd7-713532343ca1,26,Approved,1.407514808113837,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-11
+773,2025-07-04,26,61396,Payment,NEFT,db34c864-af59-4224-9a50-78279897b79c,20,Approved,-1.0470922651268495,False,False,False,False,Brown-Salas,Low,2025-07
+774,2025-04-19,39,44346,Payment,UPI,22253c00-820a-4dfe-9d7d-3a5785a509e1,31,Approved,-1.2485093714288746,False,False,False,False,Larson Inc,Low,2025-04
+775,2025-01-13,11,51121,Invoice,UPI,189c4f2e-e85c-415e-812a-81fd31ecafb4,38,Approved,-1.1684741283088618,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-01
+776,2025-10-28,19,140909,Invoice,RTGS,e51f52f8-80a2-47d3-9ff5-eb815be8e9de,28,Pending,-0.1077797505583492,False,True,False,True,Williams-Miller,Medium,2025-10
+777,2025-07-07,72,6466,Payment,RTGS,72e577c3-9db4-4cb5-b292-bea37b3a3046,47,Approved,-1.6959979336998845,False,False,False,False,Baker-Maldonado,Low,2025-07
+778,2025-01-08,11,93422,Invoice,NEFT,e2da836e-0f84-49be-940d-15572cb9e0d0,12,Approved,-0.6687588782395382,False,False,False,False,"Hughes, Gomez and Frank",Low,2025-01
+779,2025-03-30,12,213434,Invoice,NEFT,4c04637d-81ce-4b9c-b8e8-c36e7df3f125,46,Approved,0.748981283726365,False,False,False,False,Moreno-Le,Medium,2025-03
+780,2025-09-05,80,210400,Invoice,RTGS,5f6f7fae-ead7-4277-bca0-450a0fd4ab6a,4,Approved,0.7131396707926204,False,False,False,False,Barker and Sons,Medium,2025-09
+781,2025-03-14,49,212370,Payment,RTGS,b6ba4853-2f3f-4751-98c8-117994c9565d,41,Approved,0.7364119112275171,False,False,False,False,"Wilson, Hale and Allen",High,2025-03
+782,2025-05-21,23,87666,Invoice,NEFT,abc3928d-5a6a-4cea-8a09-688f60465fca,26,Pending,-0.7367563482615004,False,True,False,True,Adams-Patel,Medium,2025-05
+783,2025-07-09,29,274152,Payment,RTGS,5ca82fb5-43cb-4a4c-93c6-686492d7ab7d,14,Approved,1.4662624485619289,False,False,False,False,"Navarro, Lewis and Rogers",Medium,2025-07
+784,2025-02-08,92,65354,Payment,RTGS,665d154b-e960-4cba-ba8b-ec53dfc8425f,30,Pending,-1.0003351444967372,False,True,False,True,Jackson Group,Low,2025-02
+785,2025-03-18,45,150486,Payment,NEFT,79df96fe-9d41-491f-a806-2c2f3d5500c8,38,Approved,0.0053564152512985,False,False,False,False,Maddox-Green,High,2025-03
+786,2025-09-09,47,77255,Payment,RTGS,a88cd11c-8703-4790-9e06-9282d36c91a3,38,Approved,-0.8597448229659218,False,False,False,False,Wong and Sons,Medium,2025-09
+787,2025-03-06,89,106894,Payment,NEFT,47636ab7-b0b8-458c-ac00-b5c4a4267f24,18,Approved,-0.509609830960894,False,False,False,False,Lawson-Mccoy,Low,2025-03
+788,2025-05-18,74,88384,Invoice,NEFT,d04c74ab-b00a-477a-84c4-a849fcfa2b1c,50,Approved,-0.7282743844887817,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-05
+789,2025-09-26,52,273011,Invoice,RTGS,110205ac-48c6-4b37-acd7-c8bf8fbd2347,4,Approved,1.4527834504217172,False,False,False,False,Williams PLC,Medium,2025-09
+790,2025-01-07,43,68965,Payment,NEFT,b912ebd9-83ba-460c-a409-08e8f16da6ce,35,Approved,-0.9576772459127716,False,False,False,False,Stephenson-Collier,Low,2025-01
+791,2025-01-09,24,148314,Payment,RTGS,f7d1f971-ce3b-4d92-8651-98284e853a95,43,Approved,-0.0203021158271764,False,False,False,False,Cherry Ltd,Low,2025-01
+792,2025-05-15,78,197888,Payment,NEFT,c27213f0-179d-4132-b9d8-5582d493acae,16,Approved,0.5653314107309817,False,False,False,False,Williams-Hopkins,Low,2025-05
+793,2025-08-15,59,91436,Invoice,UPI,140a7c04-d882-4e1b-a653-7376776677e8,48,Approved,-0.6922201317947183,False,False,False,False,Gonzalez LLC,Low,2025-08
+794,2025-08-23,48,217456,Payment,RTGS,a13046da-93e6-4f4e-ac9c-7c9e504edbdd,30,Approved,0.796494456837611,False,False,False,False,"Mills, Gallegos and Ibarra",Low,2025-08
+795,2025-05-20,66,76947,Payment,RTGS,c4ecc197-c485-4f11-94ab-c9e2bf96ed5f,26,Approved,-0.8633833255313778,False,False,False,False,Moore-Fitzgerald,Low,2025-05
+796,2025-10-26,71,109700,Invoice,UPI,4f7dd66c-5bec-4bb8-9675-9b55ece22a57,26,Rejected,-0.4764616549911882,False,True,False,True,Jones Ltd,Medium,2025-10
+797,2025-12-03,6,91597,Payment,RTGS,f000df83-880a-4cca-b1b2-d5682683871e,19,Approved,-0.6903181872718663,False,False,False,False,Johnson Ltd,Low,2025-12
+798,2025-06-07,95,144005,Invoice,RTGS,caa0c5d5-c3b6-4725-9f98-697e8bbcdc8b,42,Approved,-0.0712057117835064,False,False,False,False,Fox-Turner,High,2025-06
+799,2025-01-18,12,55013,Invoice,UPI,21fd1f73-9d40-49f3-ad3d-b64a1b7843fa,9,Pending,-1.1224966867999189,False,True,False,True,Moreno-Le,Medium,2025-01
+800,2025-08-24,76,244350,Invoice,NEFT,6b6f3e1f-7240-4975-81b5-6b272a1046dd,43,Approved,1.1142018853940137,False,False,False,False,"Gordon, Hawkins and Schaefer",Low,2025-08
+801,2025-10-18,15,116361,Payment,UPI,f3a3b0be-ea50-4f33-b7bd-ebd6d391cf38,44,Approved,-0.3977731303531946,False,False,False,False,Williams-Green,High,2025-10
+802,2025-12-01,3,260658,Payment,RTGS,6df77a83-999a-457f-8f93-87b728c5f017,37,Pending,1.3068535082428951,False,True,False,True,"Hale, Rush and Smith",Low,2025-12
+803,2025-03-27,59,232705,Invoice,UPI,bb700c1a-ce46-40ae-a9b9-c6feccb8f332,18,Approved,0.9766357737877333,False,False,False,False,Gonzalez LLC,Low,2025-03
+804,2025-07-04,98,153929,Payment,UPI,c5555cd2-437a-44e0-ab31-3e694a13ad8d,6,Approved,0.0460296760722881,False,False,False,False,Pope-Cuevas,Low,2025-07
+805,2025-01-29,57,180188,Invoice,UPI,34ca4cfa-bc6a-4d1d-ab0d-f1b30338e387,16,Pending,0.3562356464174424,False,True,False,True,"Fox, Soto and Robertson",Medium,2025-01
+806,2025-03-02,39,128099,Invoice,UPI,a782f3e5-935c-41c2-bc1e-7adf99acef8d,49,Approved,-0.2591083799852667,False,False,False,False,Larson Inc,Low,2025-03
+807,2024-12-17,45,131613,Payment,NEFT,436d4583-4a2f-4a3d-bc95-a508d4c98c9e,23,Approved,-0.2175963734430194,False,False,False,False,Maddox-Green,High,2024-12
+808,2025-07-27,53,131202,Invoice,RTGS,555108ee-69db-4cc3-b033-35f9a1e00366,15,Approved,-0.2224516479702999,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-07
+809,2025-05-09,3,51418,Payment,NEFT,da65696b-cae8-4c0a-9ee1-dca04a72ed10,15,Approved,-1.1649655722636008,False,False,False,False,"Hale, Rush and Smith",Low,2025-05
+810,2025-09-29,12,102628,Invoice,UPI,4e7bbfd9-cfad-40eb-809e-6e32bebf7497,8,Approved,-0.5600054541564623,False,False,False,False,Moreno-Le,Medium,2025-09
+811,2025-06-01,84,47674,Invoice,UPI,ff8224ec-3a99-4bda-9cf7-5c3920645529,45,Approved,-1.2091946424099222,False,False,False,False,Clark-Romero,Low,2025-06
+812,2025-10-13,16,261008,Payment,RTGS,5700b845-e17c-4a2d-898b-a1331686dc6e,13,Approved,1.3109881702490949,False,False,False,False,Campbell LLC,Low,2025-10
+813,2025-08-30,71,236189,Payment,NEFT,d86b339e-d2ca-4d0d-9a55-a61b1cc17f40,37,Approved,1.017793380729449,False,False,False,False,Jones Ltd,Medium,2025-08
+814,2025-11-11,10,211314,Payment,RTGS,8cdabc63-3cdc-4398-a6e5-b5346bbb7ca3,8,Approved,0.7239370452888111,False,False,False,False,Young LLC,Low,2025-11
+815,2025-04-08,89,169145,Payment,NEFT,7930bd26-253a-46ab-8794-93d8b6755cb8,17,Approved,0.2257811534618257,False,False,False,False,Lawson-Mccoy,Low,2025-04
+816,2025-03-12,78,259371,Invoice,UPI,93304d5b-33b0-4747-bf97-165ce934e9a4,43,Approved,1.291649765380097,False,False,False,False,Williams-Hopkins,Low,2025-03
+817,2025-05-01,69,31026,Invoice,RTGS,e6baf0c6-a9d8-4afe-a6e5-ea15228bc1e6,13,Approved,-1.4058627940648265,False,False,False,False,Bryant-Williams,Low,2025-05
+818,2025-04-06,28,118978,Payment,UPI,fb2204ff-2181-45b2-8820-df7d0ac8b9bd,28,Approved,-0.3668576718668369,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-04
+819,2025-06-09,27,91126,Invoice,NEFT,96593981-66a7-4062-a186-4d9c82555302,4,Approved,-0.6958822610002097,False,False,False,False,Mcdonald LLC,Low,2025-06
+820,2025-10-06,98,203639,Invoice,RTGS,a7344147-1624-4ef1-9705-d2df5843bd72,8,Approved,0.6332698141528554,False,False,False,False,Pope-Cuevas,Low,2025-10
+821,2025-03-18,24,246071,Invoice,RTGS,554183fd-1f9a-4f3f-bbae-0ef1eb1f21ca,45,Approved,1.1345326091444996,False,False,False,False,Cherry Ltd,Low,2025-03
+822,2025-02-10,25,128246,Payment,RTGS,223f06d5-fd7f-4f42-893e-bf08ff7c28ec,10,Approved,-0.2573718219426627,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-02
+823,2025-10-08,47,75219,Invoice,NEFT,922d21eb-9aae-43bd-a00b-9db3eb820e2a,50,Approved,-0.8837967425219877,False,False,False,False,Wong and Sons,Medium,2025-10
+824,2025-08-17,55,26650,Invoice,UPI,90a325dd-6e4d-4dc0-9dd7-0982f6509c97,26,Pending,-1.4575578824623432,False,True,False,True,Strickland-Lam,Medium,2025-08
+825,2024-12-23,45,211251,Payment,NEFT,506ade8b-7199-4c47-9dd4-7688d6b057fc,1,Approved,0.7231928061276951,False,False,False,False,Maddox-Green,High,2024-12
+826,2025-12-13,86,191443,Invoice,UPI,b60bca57-8390-4867-9da5-4f08587a841c,33,Pending,0.4891945632168144,False,True,False,True,Hutchinson-Holland,Medium,2025-12
+827,2025-05-13,52,206904,Invoice,RTGS,33967c86-a317-4231-8eb1-8de1848204d9,35,Approved,0.671840304010692,False,False,False,False,Williams PLC,Medium,2025-05
+828,2025-10-22,99,219183,Payment,RTGS,d5560119-dba9-46d8-a216-942b9c81557d,13,Approved,0.8168960605082033,False,False,False,False,Wheeler Inc,Medium,2025-10
+829,2025-05-30,54,181111,Invoice,NEFT,2f58dfb4-4b41-4125-9884-ac35e5be4927,46,Approved,0.3671393407937925,False,False,False,False,Bishop-Chambers,Low,2025-05
+830,2025-08-16,55,238462,Payment,NEFT,49d2d6fc-c2a4-4a90-875b-ee62738e660a,26,Pending,1.0446450571297132,False,True,False,True,Strickland-Lam,Medium,2025-08
+831,2025-07-23,25,123248,Invoice,RTGS,8bbf5f54-12c8-4104-ac19-b937b926686c,23,Approved,-0.3164147953911977,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-07
+832,2025-08-25,87,167730,Invoice,UPI,b1864e18-65dd-42f5-824a-ff7d96509021,32,Approved,0.2090653056367603,False,False,False,False,Owens Group,Low,2025-08
+833,2025-03-23,18,142046,Invoice,NEFT,b9418849-b213-45d1-a588-d84d13de2b37,21,Approved,-0.0943480056982083,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-03
+834,2025-02-04,23,108889,Payment,UPI,3c1f5bb6-c7e6-4902-8723-4772d06d63fc,47,Approved,-0.4860422575255543,False,False,False,False,Adams-Patel,Medium,2025-02
+835,2025-07-23,42,26638,Payment,UPI,ce4018d4-38d2-456a-9419-0b82a1198f0d,6,Approved,-1.457699642302556,False,False,False,False,Dickerson-Reed,Low,2025-07
+836,2025-12-14,57,176097,Payment,NEFT,3eb50765-a5d9-4a48-abf3-9d513375400b,13,Approved,0.307907354224974,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-12
+837,2025-07-08,20,142844,Payment,NEFT,005e3cd3-5242-406f-9982-897a30e7077f,28,Approved,-0.0849209763240725,False,False,False,False,"Miller, Torres and Mendez",Low,2025-07
+838,2025-02-24,25,105485,Invoice,NEFT,718cda03-07ea-4aee-a523-82b2b5d6ec44,38,Approved,-0.5262547988658531,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-02
+839,2024-12-22,75,270025,Payment,UPI,0050afcb-374a-42b4-b101-b83a94e3f6ac,35,Approved,1.4175088768488229,False,False,False,False,"Bauer, Oconnell and Schmidt",High,2024-12
+840,2025-01-28,19,256839,Invoice,NEFT,ffef57bc-bf80-43ee-a607-f37a2be07c88,24,Approved,1.2617384390952449,False,False,False,False,Williams-Miller,Medium,2025-01
+841,2025-11-10,62,27499,Invoice,NEFT,a948bf3e-d63f-41a5-ac17-a987b5838fdd,49,Pending,-1.447528373767304,False,True,False,True,Velasquez-Bartlett,Medium,2025-11
+842,2025-03-03,98,148704,Payment,RTGS,7bfc40c6-5526-4855-ae7f-37923dfb27ff,29,Pending,-0.0156949210202679,False,True,False,True,Pope-Cuevas,Low,2025-03
+843,2025-10-18,83,32464,Invoice,RTGS,21ca35f5-3f83-41d0-bd26-79ec2bf21e75,19,Approved,-1.3888752398793536,False,False,False,False,Mcmahon Group,High,2025-10
+844,2025-10-25,80,160371,Payment,UPI,27f87736-508d-4512-b918-753e602c0792,18,Approved,0.1221310836264023,False,False,False,False,Barker and Sons,Medium,2025-10
+845,2025-11-19,45,236444,Payment,RTGS,7c0edef0-1651-439c-807e-8a3a8e2d46b3,32,Pending,1.020805777333966,False,True,False,True,Maddox-Green,High,2025-11
+846,2025-03-02,39,216230,Payment,RTGS,538be3cc-567f-409a-9246-263c2ce6d817,30,Approved,0.7820113264958936,False,False,False,False,Larson Inc,Low,2025-03
+847,2025-06-17,18,195195,Invoice,NEFT,86b5dcbd-74ef-493c-a6ef-f8cd330f7ec8,31,Approved,0.5335181399232777,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-06
+848,2025-07-19,63,233872,Invoice,NEFT,2875a9e8-bb89-4658-89ca-ffbe4cedf547,26,Pending,0.9904219182484056,False,True,False,True,"Williams, Smith and Hardy",Medium,2025-07
+849,2025-11-30,16,78870,Invoice,NEFT,4fa6a6c5-915c-4f69-bfe0-b90f0d0f786a,5,Approved,-0.8406663111373136,False,False,False,False,Campbell LLC,Low,2025-11
+850,2025-01-02,20,277017,Invoice,RTGS,4ec16595-59fb-4595-a88e-4736df8952dd,29,Pending,1.5001076104126798,False,True,False,True,"Miller, Torres and Mendez",Low,2025-01
+851,2025-08-01,42,282833,Invoice,UPI,8834dc03-623f-46e5-b651-1b984d088845,41,Pending,1.568813879635705,False,True,False,True,Dickerson-Reed,Low,2025-08
+852,2025-10-27,63,12533,Payment,NEFT,1b9684a7-ff14-42a5-896b-fd7ec8015684,30,Approved,-1.624326521152413,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-10
+853,2025-12-01,99,114028,Invoice,RTGS,b5b581cd-7435-48be-8f83-d8a71916a86e,13,Approved,-0.4253336059545216,False,False,False,False,Wheeler Inc,Medium,2025-12
+854,2024-12-18,13,21932,Payment,NEFT,c348f63c-0778-4044-a9b5-4f400d525bcd,7,Approved,-1.5132931263059184,False,False,False,False,"Cox, Perry and Garcia",Low,2024-12
+855,2025-06-28,56,251331,Invoice,UPI,07aa9d1e-7fe8-4e48-863d-06be2e436ea1,40,Pending,1.1966706724376757,False,True,False,True,"Reynolds, Smith and Anderson",High,2025-06
+856,2024-12-15,85,180309,Payment,UPI,bbce491d-d852-4a9d-81a7-df88ee8fa2bb,5,Approved,0.3576650581395858,False,False,False,False,"Williams, Malone and Villa",Low,2024-12
+857,2025-07-24,89,136870,Payment,UPI,50893821-c5d4-453b-acce-304a97aaeaae,17,Approved,-0.1554937501098964,False,False,False,False,Lawson-Mccoy,Low,2025-07
+858,2025-11-20,25,270228,Payment,UPI,26a68158-7be0-4ed9-bd2a-e39c5f35482f,28,Approved,1.419906980812419,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-11
+859,2025-07-01,70,82506,Payment,UPI,7cd41ec2-0e7a-4d78-b98e-c90780cd9829,18,Approved,-0.7977130795529052,False,False,False,False,Gaines-Marshall,Low,2025-07
+860,2025-04-17,84,206682,Payment,UPI,8c06ac78-10d8-4a80-9166-33446164d5af,19,Approved,0.6692177469667594,False,False,False,False,Clark-Romero,Low,2025-04
+861,2025-10-20,62,271383,Payment,NEFT,3dbba5a7-ac12-4c63-970d-44798fcc8221,4,Approved,1.4335513654328786,False,False,False,False,Velasquez-Bartlett,Medium,2025-10
+862,2025-03-01,55,250282,Invoice,RTGS,d6afc0e2-679f-4cd0-b136-41471097781d,49,Approved,1.1842784997390936,False,False,False,False,Strickland-Lam,Medium,2025-03
+863,2025-03-04,100,250277,Invoice,NEFT,b5543bf7-83fd-4e06-b32d-cf5e94f366a8,25,Pending,1.184219433139005,False,True,False,True,"Freeman, Washington and Gallegos",Low,2025-03
+864,2025-09-18,51,25039,Payment,UPI,4b18aeee-65ff-4bb1-bbad-c92793b35483,42,Approved,-1.476589141010881,False,False,False,False,Moore-George,High,2025-09
+865,2025-08-13,45,243540,Invoice,UPI,b6cd8a6b-f7af-444d-be84-433d9e871563,10,Approved,1.104633096179665,False,False,False,False,Maddox-Green,High,2025-08
+866,2025-10-06,25,70431,Payment,UPI,71fa6a08-dc2b-45a3-9cae-33068aa81f5a,6,Approved,-0.9403589187668028,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-10
+867,2024-12-26,25,268606,Invoice,RTGS,6ecc18d1-a254-4587-a09a-0a926df7c064,24,Approved,1.4007457757436863,False,False,False,False,"Lewis, Cook and Johnson",Medium,2024-12
+868,2025-06-19,98,124682,Invoice,RTGS,d9bdee85-cb56-44f8-92e9-3357b9399ca1,14,Approved,-0.2994744944857958,False,False,False,False,Pope-Cuevas,Low,2025-06
+869,2025-11-06,48,157117,Payment,UPI,49a8bcf1-ab93-4dc7-9aa0-c8603ad8d643,30,Pending,0.0836905402887606,False,True,False,True,"Mills, Gallegos and Ibarra",Low,2025-11
+870,2025-07-06,51,57335,Payment,RTGS,6b5f25ea-dd8f-4e71-a233-2a1f8cefea5d,7,Approved,-1.0950661577187863,False,False,False,False,Moore-George,High,2025-07
+871,2025-05-10,1,269860,Invoice,RTGS,8a2af585-993b-49f0-8755-714ff4206d9b,4,Approved,1.4155596790459,False,False,False,False,Clarke-Carlson,Medium,2025-05
+872,2025-10-11,3,156285,Invoice,UPI,0dd95a57-0790-4c75-a989-3a1f46f987b7,27,Rejected,0.0738618580340225,False,True,False,True,"Hale, Rush and Smith",Low,2025-10
+873,2025-05-30,80,79694,Payment,UPI,0c5a4c8a-3517-49af-83ea-cae47befa8a3,41,Pending,-0.8309321354427172,False,True,False,True,Barker and Sons,Medium,2025-05
+874,2025-06-28,42,267048,Payment,UPI,8b518ba0-d6fd-4793-b74c-4ff764801087,36,Approved,1.382340623156088,False,False,False,False,Dickerson-Reed,Low,2025-06
+875,2025-08-01,59,283910,Invoice,UPI,77468fd9-8edf-4396-94db-6294fc962553,48,Pending,1.581536825294783,False,True,False,True,Gonzalez LLC,Low,2025-08
+876,2025-01-12,96,169211,Invoice,RTGS,9c8d6df5-5bb7-411c-806d-255737ae6a24,35,Pending,0.2265608325829948,False,True,False,True,"Wilson, Garza and Miller",Low,2025-01
+877,2025-05-13,63,16516,Invoice,UPI,dc3b4e01-8396-4300-9762-8dd303ddea70,31,Pending,-1.5772740675218575,False,True,False,True,"Williams, Smith and Hardy",Medium,2025-05
+878,2025-01-29,24,183838,Payment,RTGS,569a4a71-ce79-4c1e-a423-96ae35c4117d,14,Approved,0.3993542644820988,False,False,False,False,Cherry Ltd,Low,2025-01
+879,2025-10-21,79,282530,Invoice,RTGS,b8450dc9-3fef-4436-bbde-00d403a3790b,36,Approved,1.5652344436703376,False,False,False,False,Williams LLC,High,2025-10
+880,2025-09-09,79,58634,Payment,UPI,94e376f4-f926-480d-b43d-6a5bdfafb237,13,Approved,-1.079720655015776,False,False,False,False,Williams LLC,High,2025-09
+881,2025-03-28,88,223599,Payment,NEFT,a640cddc-1572-48b8-9d84-adfe76f33297,32,Rejected,0.8690636817064287,False,True,False,True,Moon and Sons,Low,2025-03
+882,2025-02-25,13,46505,Payment,UPI,f7dd2719-1e32-4f86-a701-944ab9e17d03,44,Approved,-1.22300441351063,False,False,False,False,"Cox, Perry and Garcia",Low,2025-02
+883,2025-06-01,93,159721,Payment,RTGS,7427bdfe-e032-4226-8fe1-7de43991c1cf,7,Pending,0.1144524256148881,False,True,False,True,Parker-Singh,Low,2025-06
+884,2025-01-31,31,270919,Invoice,NEFT,107c9d50-2cc1-494e-8812-62cddf261364,38,Approved,1.4280699849446592,False,False,False,False,Baker-Murray,Low,2025-01
+885,2025-03-06,91,36105,Invoice,NEFT,15894e0c-b97a-4b88-8f34-467e4eff7e63,14,Pending,-1.3458629416948564,False,True,False,True,Davis PLC,High,2025-03
+886,2025-01-28,94,282948,Invoice,RTGS,542fece2-95ca-414f-a969-9b89c4309fe6,35,Pending,1.570172411437742,False,True,False,True,Taylor-Ware,Low,2025-01
+887,2025-08-14,50,286209,Payment,NEFT,5372acad-96ec-4435-9159-27ccca2da3c0,43,Approved,1.6086956480155077,False,False,False,False,Hoffman Group,High,2025-08
+888,2025-07-26,58,187774,Payment,NEFT,09d94bf0-848a-4626-a893-c231d50aeb5a,39,Approved,0.4458514920718214,False,False,False,False,Frye-Walker,Low,2025-07
+889,2025-01-17,6,212440,Invoice,NEFT,b83eb9bb-45a2-4a06-9617-5568e39d1d41,5,Approved,0.7372388436287571,False,False,False,False,Johnson Ltd,Low,2025-01
+890,2025-09-20,64,203159,Invoice,NEFT,1277a54f-bfe1-430e-9b46-bea79399a321,37,Approved,0.6275994205443527,False,False,False,False,English and Sons,Low,2025-09
+891,2025-09-30,69,71985,Invoice,RTGS,ab964ba9-976d-486f-90f4-85abc6a22b24,9,Approved,-0.922001019459275,False,False,False,False,Bryant-Williams,Low,2025-09
+892,2025-05-06,86,36551,Payment,RTGS,4bab4932-1c69-4923-aa9b-e096eef5fb8c,34,Approved,-1.340594200966956,False,False,False,False,Hutchinson-Holland,Medium,2025-05
+893,2025-08-30,38,134553,Invoice,NEFT,8141830b-f48a-46b2-b3c1-3b8fff33a80e,33,Approved,-0.18286521259094,False,False,False,False,"Mason, Hopkins and May",Low,2025-08
+894,2025-05-28,4,278667,Invoice,RTGS,bdc3a390-6e3e-4d20-a9c3-41ed13466c4b,27,Approved,1.519599588441908,False,False,False,False,Pierce PLC,Low,2025-05
+895,2025-10-30,32,277544,Payment,RTGS,48e050c5-62c2-4fc4-91f7-8a4324abb523,41,Approved,1.5063332300620151,False,False,False,False,Nelson Ltd,High,2025-10
+896,2025-02-28,60,295373,Payment,RTGS,9cf81dc8-ab73-46e2-b45e-01397499a346,23,Approved,1.7169529126578396,False,False,False,False,Thompson PLC,Low,2025-02
+897,2025-07-18,88,79807,Invoice,NEFT,a42a65cc-e4fc-401b-b846-69be5616d35c,18,Approved,-0.8295972302807154,False,False,False,False,Moon and Sons,Low,2025-07
+898,2025-05-19,43,218286,Invoice,RTGS,c3e59142-701d-4cda-9fa7-b05d122c30a4,17,Pending,0.8062995124523137,False,True,False,True,Stephenson-Collier,Low,2025-05
+899,2025-09-07,23,103802,Payment,RTGS,458d2cb3-c5b7-4665-9a7f-1e23321e10da,34,Approved,-0.5461366164556659,False,False,False,False,Adams-Patel,Medium,2025-09
+900,2025-09-24,67,201753,Payment,UPI,e08d9393-ff23-4074-9289-ac3bc9ac7a0c,40,Approved,0.6109898925994467,False,False,False,False,Hays-Wolf,Medium,2025-09
+901,2024-12-20,65,124875,Payment,NEFT,4fd5fc64-3fb9-4aab-9983-10bccd5bb3a2,50,Approved,-0.2971945237223769,False,False,False,False,Jones Group,Medium,2024-12
+902,2025-01-15,21,109186,Invoice,RTGS,d2490eb4-dc3d-4c22-81aa-e7b6951f82ec,6,Approved,-0.4825337014802933,False,False,False,False,Marshall PLC,Low,2025-01
+903,2025-06-21,88,198946,Payment,NEFT,7102af0a-2a03-43fe-b4d7-07f7cd35faa5,49,Approved,0.5778299033097233,False,False,False,False,Moon and Sons,Low,2025-06
+904,2025-03-24,47,239453,Invoice,NEFT,c2a27bcf-d5f1-44fc-849a-f565ea2981dd,35,Approved,1.0563520572672678,False,False,False,False,Wong and Sons,Medium,2025-03
+905,2025-05-14,93,221597,Invoice,RTGS,beb9952e-3c4e-420e-80d6-0b7da98e52c0,29,Approved,0.845413415030965,False,False,False,False,Parker-Singh,Low,2025-05
+906,2025-10-01,42,142152,Invoice,RTGS,2936e401-67dd-4193-b47a-418aaecc7e3e,48,Approved,-0.0930957937763306,False,False,False,False,Dickerson-Reed,Low,2025-10
+907,2025-01-28,17,235693,Payment,UPI,0da300da-bced-4cad-9548-dd913b9a8f2a,25,Pending,1.0119339740006628,False,True,False,True,Lewis-Sullivan,Medium,2025-01
+908,2025-06-21,56,268445,Invoice,UPI,247472c0-c8d9-461a-82de-224a33abb958,19,Approved,1.3988438312208349,False,False,False,False,"Reynolds, Smith and Anderson",High,2025-06
+909,2025-03-09,98,29354,Payment,NEFT,c50764f0-aa15-4d58-84e1-6a1204c022f8,1,Pending,-1.4256146651344443,False,True,False,True,Pope-Cuevas,Low,2025-03
+910,2025-05-02,93,40525,Invoice,NEFT,e9a612ca-8ac0-4277-8178-37ef57ad6928,1,Approved,-1.2936480672165602,False,False,False,False,Parker-Singh,Low,2025-05
+911,2025-11-27,53,37634,Invoice,RTGS,6deb5c96-1e02-4e81-a3d8-9958bf8be9e6,40,Approved,-1.3278003753877716,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-11
+912,2025-11-17,92,148424,Payment,RTGS,9048ebe0-ebbe-4d33-a857-3726359b0eba,43,Approved,-0.0190026506252278,False,False,False,False,Jackson Group,Low,2025-11
+913,2025-07-30,59,38302,Invoice,NEFT,806930e5-9e84-40eb-9412-71519bfef5d1,7,Approved,-1.3199090776159386,False,False,False,False,Gonzalez LLC,Low,2025-07
+914,2025-11-27,34,14196,Payment,RTGS,3935cbf8-83f5-4b87-b6b4-b4b8d819af9d,14,Approved,-1.6046809699629545,False,False,False,False,"Yu, Nelson and Martinez",High,2025-11
+915,2024-12-22,96,37769,Payment,RTGS,9409e02b-28b3-46fa-928d-87113a3907f8,17,Approved,-1.3262055771853802,False,False,False,False,"Wilson, Garza and Miller",Low,2024-12
+916,2025-04-15,70,272413,Payment,NEFT,1ddd47b2-8b5b-48ce-a931-6fd4a6056371,20,Approved,1.445719085051124,False,False,False,False,Gaines-Marshall,Low,2025-04
+917,2025-09-30,58,194637,Invoice,RTGS,1b988364-1294-41d3-ac0d-228ec090c14f,6,Approved,0.5269263073533933,False,False,False,False,Frye-Walker,Low,2025-09
+918,2025-10-29,23,60830,Payment,NEFT,3b9b9aa6-c510-4077-a962-c83f53a549be,7,Approved,-1.0537786042568758,False,False,False,False,Adams-Patel,Medium,2025-10
+919,2025-07-15,27,143009,Invoice,UPI,cc6c7694-f33e-47ce-98c6-05e47326e4eb,36,Approved,-0.0829717785211496,False,False,False,False,Mcdonald LLC,Low,2025-07
+920,2025-06-21,64,115776,Invoice,NEFT,3f98fa61-7038-411e-b683-1b9d9d33ce14,2,Approved,-0.4046839225635574,False,False,False,False,English and Sons,Low,2025-06
+921,2025-04-17,97,247262,Payment,UPI,50809f67-6eaf-4257-85e0-2e47c8dd49e0,16,Approved,1.1486022732855972,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-04
+922,2025-11-29,26,115114,Invoice,UPI,928e24c7-62fe-4a68-9d70-7018b4d9878e,23,Approved,-0.4125043404152841,False,False,False,False,Brown-Salas,Low,2025-11
+923,2025-03-24,97,197150,Invoice,UPI,aabc6b20-8770-4e68-8e48-56bc8cfa6326,32,Approved,0.5566131805579088,False,False,False,False,"Rodriguez, Mendez and Flowers",Low,2025-03
+924,2025-07-25,43,293646,Invoice,NEFT,06ca867b-fcea-4f80-8a8a-b4eb0de9fbd5,14,Approved,1.6965513089872473,False,False,False,False,Stephenson-Collier,Low,2025-07
+925,2025-07-06,6,8174,Payment,UPI,05590ddd-9fed-4e2d-bf3f-13ce718f4cc5,26,Approved,-1.6758207831096288,False,False,False,False,Johnson Ltd,Low,2025-07
+926,2025-08-03,100,247580,Payment,NEFT,423b99bd-8763-4247-a7e3-5e6e5764a542,33,Approved,1.1523589090512305,False,False,False,False,"Freeman, Washington and Gallegos",Low,2025-08
+927,2025-05-13,63,222070,Payment,UPI,92207031-e164-401d-b152-bc1f03f3b815,12,Approved,0.8510011153993439,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-05
+928,2025-08-13,41,148933,Invoice,NEFT,c401615c-5335-4a94-b75a-a1f2feeb8293,46,Approved,-0.0129896707362114,False,False,False,False,"Ellison, Kim and Reyes",Medium,2025-08
+929,2025-07-22,58,222726,Payment,RTGS,eecbc5cb-d57b-4b4d-a2ec-db70890c10d9,7,Approved,0.8587506533309642,False,False,False,False,Frye-Walker,Low,2025-07
+930,2025-06-16,89,143454,Payment,RTGS,92a14ca0-7741-476c-a3e5-605d3f9cd3d0,26,Approved,-0.0777148511132669,False,False,False,False,Lawson-Mccoy,Low,2025-06
+931,2025-05-17,74,294304,Invoice,UPI,4396402c-7104-41f9-8ab6-f751e449b919,38,Approved,1.7043244735589032,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-05
+932,2025-11-20,88,299311,Payment,NEFT,bc4e1917-7e44-4805-b643-a44152b4ff40,17,Approved,1.7634737668875975,False,False,False,False,Moon and Sons,Low,2025-11
+933,2025-02-21,57,286729,Payment,NEFT,5cc1ae5d-5d55-48b9-81aa-d031d2f01e50,24,Approved,1.6148385744247191,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-02
+934,2025-10-20,81,166040,Invoice,RTGS,61270f81-dd71-4419-8a69-a8dda566617b,48,Approved,0.1891007948068234,False,False,False,False,"Parker, Pope and Dominguez",Low,2025-10
+935,2025-11-08,58,204316,Payment,UPI,0b917382-f24c-4ebe-a103-2e4471e9d315,29,Approved,0.6412674318048479,False,False,False,False,Frye-Walker,Low,2025-11
+936,2025-10-01,17,105625,Payment,NEFT,ff01a4ef-c18e-4995-9367-3f1bf1dbed44,45,Approved,-0.5246009340633732,False,False,False,False,Lewis-Sullivan,Medium,2025-10
+937,2025-07-31,73,254264,Invoice,UPI,aaec6a53-4d42-4394-b699-3a99b62dbb55,4,Rejected,1.231319140049631,False,True,False,True,"Mathews, Gutierrez and Miller",Low,2025-07
+938,2025-11-15,20,78591,Invoice,UPI,75ceb2e9-667a-41f8-8a2e-f3061ea555e4,44,Approved,-0.8439622274222558,False,False,False,False,"Miller, Torres and Mendez",Low,2025-11
+939,2025-09-13,79,234530,Invoice,NEFT,babacd98-dcea-4158-9051-95c88ac6906e,19,Approved,0.9981950828200612,False,False,False,False,Williams LLC,High,2025-09
+940,2025-07-28,26,280160,Payment,RTGS,5a0b6341-bfb2-4386-99e2-30ce65c473f6,46,Rejected,1.5372368752283552,False,True,False,True,Brown-Salas,Low,2025-07
+941,2025-06-27,82,174439,Invoice,UPI,19fa39b7-0e00-44f4-bb88-4252932f2f23,2,Pending,0.2883208696356041,False,True,False,True,"Baker, White and Brown",High,2025-06
+942,2025-05-20,19,166771,Invoice,NEFT,316a14ec-bd43-4666-a62a-5cc9d2b09753,3,Approved,0.1977363317397724,False,False,False,False,Williams-Miller,Medium,2025-05
+943,2025-01-26,55,226849,Invoice,NEFT,f468a815-4487-4d58-b085-a4891c376410,7,Approved,0.9074569717639994,False,False,False,False,Strickland-Lam,Medium,2025-01
+944,2025-07-23,100,192279,Payment,NEFT,53554fd5-43bf-4f29-ba48-bb9084027c1c,1,Approved,0.4990704987516234,False,False,False,False,"Freeman, Washington and Gallegos",Low,2025-07
+945,2025-08-30,10,34813,Payment,RTGS,77f7b652-ffcd-4fcb-a171-15e6c5e3a88c,8,Approved,-1.361125751157743,False,False,False,False,Young LLC,Low,2025-08
+946,2025-04-26,92,278541,Payment,UPI,90857e38-21b4-4501-bb8d-d643383a2c9c,41,Approved,1.518111110119676,False,False,False,False,Jackson Group,Low,2025-04
+947,2025-01-09,26,181326,Invoice,RTGS,deeae749-b9c1-4a22-984b-b22e71045ff5,45,Approved,0.369679204597601,False,False,False,False,Brown-Salas,Low,2025-01
+948,2025-11-06,67,164484,Payment,UPI,807c91c8-538a-4ebd-9398-b84d37420e6d,2,Approved,0.1707192688592603,False,False,False,False,Hays-Wolf,Medium,2025-11
+949,2025-08-02,30,30739,Payment,NEFT,a1b1ca76-d61e-4b8e-9501-cab19272f38b,13,Approved,-1.4092532169099103,False,False,False,False,Owens LLC,High,2025-08
+950,2025-04-14,98,162977,Invoice,RTGS,f0f32bdf-5c58-4723-b84b-0e8279da4290,42,Rejected,0.1529165955925652,False,True,False,True,Pope-Cuevas,Low,2025-04
+951,2025-03-31,79,188500,Invoice,NEFT,14e19194-3927-41ea-a282-b5970fee8260,48,Approved,0.4544279624046819,False,False,False,False,Williams LLC,High,2025-03
+952,2025-05-07,84,137371,Invoice,RTGS,2b072aa6-d0e8-4670-9309-1d5431518aa5,3,Approved,-0.1495752767810217,False,False,False,False,Clark-Romero,Low,2025-05
+953,2025-04-03,40,299499,Payment,UPI,d2953d8d-31a9-4de6-858b-33ffe6c10dfe,34,Pending,1.7656946710509278,False,True,False,True,"Wyatt, Hunt and Smith",Medium,2025-04
+954,2025-08-14,6,269140,Payment,RTGS,08a8280c-0513-4ad3-b493-f79529a86fca,18,Approved,1.407054088633146,False,False,False,False,Johnson Ltd,Low,2025-08
+955,2025-10-28,94,86268,Invoice,UPI,e7fd63ac-d393-49c2-95bd-04c6f4502b80,32,Pending,-0.7532713696462647,False,True,False,True,Taylor-Ware,Low,2025-10
+956,2025-01-04,6,94242,Invoice,UPI,c58f2b2a-5cc6-4e79-9904-dfe5db7d80d9,37,Approved,-0.6590719558250125,False,False,False,False,Johnson Ltd,Low,2025-01
+957,2025-08-18,59,241042,Invoice,UPI,c3b3a1e4-5d79-4527-932e-d3a189f13acc,5,Approved,1.0751234227754154,False,False,False,False,Gonzalez LLC,Low,2025-08
+958,2025-11-30,37,194826,Invoice,RTGS,6f1acf63-cff6-4c4a-82f2-f2cfb368938c,17,Approved,0.5291590248367413,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-11
+959,2025-06-03,72,202780,Invoice,UPI,8635647b-5a89-4bf7-a542-0cf573f3fe9c,38,Pending,0.6231221722576391,False,True,False,True,Baker-Maldonado,Low,2025-06
+960,2025-08-25,88,291198,Payment,RTGS,0f7eef3a-1d42-4178-9e11-74ebea0a0580,12,Approved,1.6676323015838832,False,False,False,False,Moon and Sons,Low,2025-08
+961,2025-05-29,34,50689,Invoice,NEFT,15e9c24a-be6c-423a-8131-0a7db82b15ff,3,Approved,-1.1735774825565142,False,False,False,False,"Yu, Nelson and Martinez",High,2025-05
+962,2025-02-11,1,259822,Payment,RTGS,c4190110-4e19-4ead-b6a3-443139ff89d2,13,Approved,1.296977572708086,False,False,False,False,Clarke-Carlson,Medium,2025-02
+963,2025-03-30,85,33885,Invoice,RTGS,db82d92b-4d2c-46ce-8fa5-973e469f6729,5,Approved,-1.3720885121341817,False,False,False,False,"Williams, Malone and Villa",Low,2025-03
+964,2025-11-26,12,26584,Payment,RTGS,e3d4aac8-fc46-4fc1-aeee-0e4d6b9b85fc,6,Approved,-1.4583375615835124,False,False,False,False,Moreno-Le,Medium,2025-11
+965,2025-07-15,51,131218,Invoice,NEFT,2926fa3b-8bdd-4269-935f-02575c035440,12,Approved,-0.2222626348500165,False,False,False,False,Moore-George,High,2025-07
+966,2025-06-24,8,81411,Invoice,RTGS,f0f32a1e-24df-40b6-8677-90b05b6c0490,21,Pending,-0.810648664972302,False,True,False,True,Hammond-Turner,Low,2025-06
+967,2025-02-21,8,28331,Invoice,RTGS,65634ff7-f34a-4760-a2c4-926ef8fa6c02,12,Approved,-1.437699691512566,False,False,False,False,Hammond-Turner,Low,2025-02
+968,2025-01-26,54,94044,Payment,NEFT,e7f7bc18-0297-43b2-a20f-834107b3dd0d,44,Approved,-0.66141099318852,False,False,False,False,Bishop-Chambers,Low,2025-01
+969,2025-01-02,39,167007,Invoice,UPI,bdf8eeda-40e7-40b4-bb0e-150693ef3fe2,9,Approved,0.200524275263953,False,False,False,False,Larson Inc,Low,2025-01
+970,2025-11-24,38,275012,Payment,RTGS,a39a69d6-fd37-43ac-bbba-9f0259892bb9,44,Pending,1.476421903777163,False,True,False,True,"Mason, Hopkins and May",Low,2025-11
+971,2025-08-11,62,177409,Payment,NEFT,8246fb27-485f-4788-82db-36062d6feb7d,50,Approved,0.3234064300882149,False,False,False,False,Velasquez-Bartlett,Medium,2025-08
+972,2025-06-17,51,118783,Payment,NEFT,f7f5706e-5944-4063-a12a-33fe9044e34d,6,Approved,-0.3691612692702912,False,False,False,False,Moore-George,High,2025-06
+973,2025-12-04,39,194216,Invoice,RTGS,81c5992d-e113-47cc-879c-028c7faf9db3,28,Approved,0.5219528996259356,False,False,False,False,Larson Inc,Low,2025-12
+974,2025-08-24,96,56482,Payment,RTGS,84ebef0c-a92a-4076-b370-ab59547994a9,42,Approved,-1.1051429196938964,False,False,False,False,"Wilson, Garza and Miller",Low,2025-08
+975,2025-07-09,26,291744,Invoice,UPI,949444ba-e330-4712-9df7-347e92821d09,34,Approved,1.674082374313555,False,False,False,False,Brown-Salas,Low,2025-07
+976,2025-10-13,87,230756,Invoice,UPI,daa46d70-e207-4fcf-80a3-e3c9d56358dd,40,Pending,0.9536116130732084,False,True,False,True,Owens Group,Low,2025-10
+977,2025-03-29,2,28777,Payment,UPI,d8c55584-1b37-4c07-ad55-ef61c3b9eec5,50,Approved,-1.432430950784665,False,False,False,False,Adams Ltd,High,2025-03
+978,2024-12-18,18,130549,Payment,NEFT,e9e26f39-9cb7-4f93-8b18-17212db45267,30,Approved,-0.2301657459418672,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2024-12
+979,2025-04-09,10,292062,Payment,NEFT,646085db-f465-4fa8-bb10-024047750d3d,11,Pending,1.6778390100791882,False,True,False,True,Young LLC,Low,2025-04
+980,2025-08-27,90,116776,Invoice,NEFT,286e03bd-cc3d-4b26-b223-3acb6f5669f1,40,Approved,-0.3928706025458433,False,False,False,False,"Solomon, Charles and Tyler",Low,2025-08
+981,2025-04-12,42,147226,Payment,NEFT,e323fbb6-9bef-4b76-ad25-751ab344a063,30,Approved,-0.0331550080064493,False,False,False,False,Dickerson-Reed,Low,2025-04
+982,2025-07-08,23,254141,Payment,NEFT,378273ff-a28b-4421-ae8d-988fe955b7ae,12,Pending,1.2298661016874524,False,True,False,True,Adams-Patel,Medium,2025-07
+983,2025-04-05,53,83840,Payment,RTGS,da1e2861-95b3-4ea7-9102-f600ff7f6fef,48,Approved,-0.7819541106492746,False,False,False,False,"Lambert, Schwartz and Newman",Medium,2025-04
+984,2025-12-11,30,163901,Invoice,UPI,e9575ef1-b21a-454d-bd11-49308a78f68b,29,Approved,0.163832103288933,False,False,False,False,Owens LLC,High,2025-12
+985,2025-08-12,58,270470,Payment,RTGS,d5dff5a3-6169-4849-8715-53ab1ff621fb,11,Approved,1.4227658042567055,False,False,False,False,Frye-Walker,Low,2025-08
+986,2025-05-10,82,146900,Invoice,RTGS,e2967bbd-27aa-4bc1-bf75-64aa638b07b3,12,Approved,-0.0370061503322241,False,False,False,False,"Baker, White and Brown",High,2025-05
+987,2025-03-02,7,149587,Payment,UPI,c70b9f8c-884b-4dd6-974e-51cdbe7817b4,40,Approved,-0.0052637594446264,False,False,False,False,Ferguson LLC,Low,2025-03
+988,2025-01-02,73,196007,Invoice,NEFT,339788ed-a7c0-4ef9-8402-d6f7937c62cf,13,Approved,0.5431105557776615,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-01
+989,2025-06-16,74,288816,Invoice,RTGS,f8bf9dd2-5a00-437a-be97-0820e1b7f635,50,Pending,1.6394929733016883,False,True,False,True,"Johnson, Kirk and Allen",Low,2025-06
+990,2025-11-04,7,108463,Payment,UPI,4920528c-07b1-462e-bc22-5410375276cb,15,Approved,-0.4910747318531006,False,False,False,False,Ferguson LLC,Low,2025-11
+991,2025-11-07,85,163272,Payment,UPI,3e8a7a0e-544b-4811-90fe-1f1c4f59030d,44,Approved,0.1564015249977909,False,False,False,False,"Williams, Malone and Villa",Low,2025-11
+992,2025-01-29,37,123422,Invoice,NEFT,51ec6a86-bab2-4f73-b46e-40db125f2ee4,48,Approved,-0.3143592777081155,False,False,False,False,"Miller, Robinson and Curtis",Medium,2025-01
+993,2025-05-11,91,192535,Payment,NEFT,362848c2-0475-4098-ba18-a3d8965df6e5,4,Pending,0.5020947086761582,False,True,False,True,Davis PLC,High,2025-05
+994,2025-11-18,31,61116,Payment,NEFT,ab9391c3-4aed-492d-93fd-3da1c4f3c59f,44,Approved,-1.0503999947318094,False,False,False,False,Baker-Murray,Low,2025-11
+995,2025-08-19,97,162403,Invoice,NEFT,f702dbe7-e905-438d-a537-24cb14791af7,28,Pending,0.1461357499023973,False,True,False,True,"Rodriguez, Mendez and Flowers",Low,2025-08
+996,2025-12-05,69,163177,Payment,RTGS,ec89908c-dc8a-49cb-ab5d-16216ab921d6,13,Approved,0.155279259596108,False,False,False,False,Bryant-Williams,Low,2025-12
+997,2025-08-20,58,7637,Invoice,RTGS,ec269717-3abe-41af-a114-cdd02792af9f,38,Approved,-1.682164535959141,False,False,False,False,Frye-Walker,Low,2025-08
+998,2025-04-18,33,295886,Payment,NEFT,b7f7cfe5-3d38-4967-abbb-51e1e6550953,8,Pending,1.7230131458269269,False,True,False,True,"Robertson, Washington and Walker",Low,2025-04
+999,2025-06-06,51,109824,Invoice,RTGS,560a2ba4-16a6-4e31-9715-db60fc4d9d8c,15,Approved,-0.4749968033089917,False,False,False,False,Moore-George,High,2025-06
+1000,2025-04-02,83,222394,Payment,RTGS,f7818276-3fd8-42a2-aa14-7fd0930d4f32,4,Pending,0.8548286310850832,False,True,False,True,Mcmahon Group,High,2025-04
+1001,2025-05-17,80,111471,Payment,NEFT,caf68d6d-5b3b-4dff-b3ec-7216914b1d6e,23,Approved,-0.4555402652398165,False,False,False,False,Barker and Sons,Medium,2025-05
+1002,2025-03-22,36,120260,Invoice,RTGS,e4b05e8e-f0a4-4cf7-ab14-e9ccb7efd0a7,43,Pending,-0.3517129956041274,False,True,False,True,Evans-Todd,Low,2025-03
+1003,2025-03-31,63,100864,Invoice,RTGS,48005363-f0ca-4999-b190-74bc82b8471e,41,Approved,-0.5808441506677099,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-03
+1004,2025-03-06,93,250160,Invoice,NEFT,ebe7c14a-293d-4267-b5db-7fdb5b7542d2,50,Approved,1.1828372746969325,False,False,False,False,Parker-Singh,Low,2025-03
+1005,2025-01-16,42,176635,Invoice,RTGS,849977cd-594f-4a27-92f2-cc13200056bc,42,Approved,0.3142629203945042,False,False,False,False,Dickerson-Reed,Low,2025-01
+1006,2025-02-27,96,266849,Invoice,UPI,ba50d180-8f56-4562-8435-6b4697f5d3b3,27,Pending,1.379989772472563,False,True,False,True,"Wilson, Garza and Miller",Low,2025-02
+1007,2025-01-07,46,288817,Payment,UPI,a6f777b2-a65e-421b-b57b-b03e3625620a,26,Approved,1.639504786621706,False,False,False,False,"Moran, Wright and Tucker",Low,2025-01
+1008,2025-09-30,38,30494,Payment,NEFT,5be5b052-f96e-442b-8471-2d164e9f4c57,9,Approved,-1.4121474803142502,False,False,False,False,"Mason, Hopkins and May",Low,2025-09
+1009,2025-06-19,87,128777,Invoice,UPI,a40c4673-cfb7-4e11-88a6-b9e65881f8c7,31,Approved,-0.2510989490132566,False,False,False,False,Owens Group,Low,2025-06
+1010,2025-12-06,40,204215,Invoice,UPI,48c02b08-0971-4c87-a2aa-e7cc9c93d155,34,Pending,0.6400742864830588,False,True,False,True,"Wyatt, Hunt and Smith",Medium,2025-12
+1011,2025-01-10,49,171991,Invoice,UPI,c96d62ec-f457-4222-85df-50fb7348c1ce,13,Pending,0.25940186223224,False,True,False,True,"Wilson, Hale and Allen",High,2025-01
+1012,2024-12-18,68,151895,Payment,RTGS,2406c308-5149-4cae-b987-a5f27a56ccf3,44,Approved,0.0220013831562577,False,False,False,False,"Morris, Dennis and Ramirez",Low,2024-12
+1013,2025-04-05,67,102493,Invoice,RTGS,a1b06e30-97e5-427d-b7d4-53e876d4c61e,50,Pending,-0.5616002523588537,False,True,False,True,Hays-Wolf,Medium,2025-04
+1014,2025-08-28,49,292307,Invoice,NEFT,d76dda6a-f08b-40fe-8950-e5c942b1bac8,4,Pending,1.6807332734835283,False,True,False,True,"Wilson, Hale and Allen",High,2025-08
+1015,2025-09-04,31,45633,Invoice,RTGS,604168e8-7982-4cfe-846c-fedfb8abf2b0,20,Approved,-1.2333056285660766,False,False,False,False,Baker-Murray,Low,2025-09
+1016,2025-08-30,28,185388,Invoice,UPI,e990bb45-0801-4f11-aa09-d9b62fedefd2,17,Approved,0.4176649105095557,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-08
+1017,2025-07-24,77,217369,Payment,RTGS,109ee247-ae50-4f39-bbc5-db010512ff6d,36,Approved,0.7954666979960698,False,False,False,False,Franco-Singleton,Low,2025-07
+1018,2025-12-05,52,282510,Invoice,NEFT,829b5a65-40ff-4820-846d-100956e9de9d,4,Approved,1.5649981772699832,False,False,False,False,Williams PLC,Medium,2025-12
+1019,2025-07-26,66,44236,Invoice,RTGS,d0ae4543-4cbd-4e3f-b43c-9603640a6af7,32,Approved,-1.249808836630823,False,False,False,False,Moore-Fitzgerald,Low,2025-07
+1020,2025-01-14,77,120140,Payment,RTGS,564d079f-dae8-4ffa-9aa5-b6830f7c2d95,10,Approved,-0.3531305940062531,False,False,False,False,Franco-Singleton,Low,2025-01
+1021,2025-01-02,60,215047,Invoice,NEFT,dc10e45d-923b-4c01-a5f9-6ef2f077dbd0,8,Approved,0.7680361689149378,False,False,False,False,Thompson PLC,Low,2025-01
+1022,2025-07-28,78,242268,Invoice,NEFT,5aeac135-95c0-4cb7-ba0d-3c20d053b20f,17,Approved,1.089606553117133,False,False,False,False,Williams-Hopkins,Low,2025-07
+1023,2025-07-27,57,270660,Payment,RTGS,fb549d4c-2320-4055-8a2f-644348d361fb,43,Approved,1.4250103350600714,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-07
+1024,2025-12-08,100,200889,Invoice,NEFT,efa25afe-c95f-45c6-82cc-d6d651d5fa42,14,Approved,0.6007831841041418,False,False,False,False,"Freeman, Washington and Gallegos",Low,2025-12
+1025,2025-10-01,62,8626,Invoice,RTGS,c5a5d5b4-9b8b-4d42-a6b9-6ecddee0648c,44,Approved,-1.670481162461622,False,False,False,False,Velasquez-Bartlett,Medium,2025-10
+1026,2025-04-03,6,228032,Invoice,UPI,898c9785-6b00-40ca-a82d-9f9c5f2a65e2,27,Approved,0.9214321293449552,False,False,False,False,Johnson Ltd,Low,2025-04
+1027,2024-12-31,80,101055,Payment,UPI,c229edd1-0201-48f0-b3cf-dd7b9d8c6f39,20,Approved,-0.5785878065443265,False,False,False,False,Barker and Sons,Medium,2024-12
+1028,2025-10-11,25,46115,Invoice,NEFT,cc733618-5c6d-45ae-bd31-a23c54e06025,18,Approved,-1.2276116083175386,False,False,False,False,"Lewis, Cook and Johnson",Medium,2025-10
+1029,2025-06-28,57,164762,Payment,NEFT,aad117d0-e4f2-4356-b5c7-4a0bd1f78f40,1,Approved,0.1740033718241848,False,False,False,False,"Fox, Soto and Robertson",Medium,2025-06
+1030,2025-09-18,42,222364,Invoice,NEFT,3af7edbe-0f1a-4593-9344-1ac773c1e37c,40,Approved,0.8544742314845517,False,False,False,False,Dickerson-Reed,Low,2025-09
+1031,2025-10-24,55,223547,Payment,NEFT,00fa53f1-a3a9-4774-8486-56debd90465a,34,Approved,0.8684493890655075,False,False,False,False,Strickland-Lam,Medium,2025-10
+1032,2025-12-03,55,27486,Payment,UPI,1d704370-b1c0-4f52-bb4f-e061c42c21bb,13,Approved,-1.4476819469275342,False,False,False,False,Strickland-Lam,Medium,2025-12
+1033,2025-08-04,73,67785,Invoice,UPI,a3bde9af-d675-4afa-83da-bf3ea679da30,7,Approved,-0.9716169635336742,False,False,False,False,"Mathews, Gutierrez and Miller",Low,2025-08
+1034,2025-06-25,42,232369,Invoice,NEFT,257e03d1-b5c3-4003-8f24-8951604267b7,17,Approved,0.9726664982617812,False,False,False,False,Dickerson-Reed,Low,2025-06
+1035,2025-05-11,2,167403,Invoice,NEFT,7a95bb7a-f1df-495f-80a7-e89105aa87b8,5,Rejected,0.2052023499909678,False,True,False,True,Adams Ltd,High,2025-05
+1036,2025-05-04,71,207278,Payment,NEFT,abfa224e-e730-4219-a253-436af80ad874,4,Rejected,0.6762584856973171,False,True,False,True,Jones Ltd,Medium,2025-05
+1037,2025-08-12,69,12837,Payment,NEFT,14e6cee4-c9e9-4020-aec3-88fe072312fa,9,Approved,-1.6207352718670278,False,False,False,False,Bryant-Williams,Low,2025-08
+1038,2025-10-20,24,107413,Invoice,RTGS,41ce9e6b-2b86-4c54-b4d8-8e54a9f38d32,42,Rejected,-0.5034787178717004,False,True,False,True,Cherry Ltd,Low,2025-10
+1039,2025-11-29,12,116825,Invoice,RTGS,21a56794-d4c6-4563-8dd8-c450044e8894,24,Pending,-0.3922917498649753,False,True,False,True,Moreno-Le,Medium,2025-11
+1040,2025-07-04,23,155862,Payment,NEFT,680e04c7-5b20-4c75-8fcb-1cd4088dd616,15,Approved,0.0688648236665294,False,False,False,False,Adams-Patel,Medium,2025-07
+1041,2025-03-23,60,65186,Invoice,NEFT,0def57b2-9136-49ab-b4e1-6eb37b0adf19,12,Approved,-1.0023197822597132,False,False,False,False,Thompson PLC,Low,2025-03
+1042,2025-10-03,85,81208,Invoice,NEFT,d06e7d55-a201-48d5-94cb-0aaa3c780eea,10,Approved,-0.813046768935898,False,False,False,False,"Williams, Malone and Villa",Low,2025-10
+1043,2025-06-17,59,246766,Payment,RTGS,8aadaf81-8c16-4fcb-a616-525450afff1e,18,Pending,1.142742866556811,False,True,False,True,Gonzalez LLC,Low,2025-06
+1044,2025-01-19,32,143266,Payment,RTGS,d39d0b1c-8de5-4c22-b87d-0396a4a38b59,39,Pending,-0.0799357552765971,False,True,False,True,Nelson Ltd,High,2025-01
+1045,2025-10-26,82,261427,Payment,RTGS,fb1e8aa1-a431-4dbb-a33b-d4d4e98eda98,31,Approved,1.3159379513365173,False,False,False,False,"Baker, White and Brown",High,2025-10
+1046,2025-04-22,71,186649,Payment,RTGS,6c145133-b1cc-450d-a5a1-ae0a5826fe28,9,Pending,0.4325615070518931,False,True,False,True,Jones Ltd,Medium,2025-04
+1047,2025-04-25,72,260230,Invoice,UPI,a6d68f86-068d-4e77-a78d-7292d8aed855,18,Approved,1.3017974072753131,False,False,False,False,Baker-Maldonado,Low,2025-04
+1048,2025-08-06,92,261157,Payment,UPI,30046f2f-20ae-44d1-b7bd-cc1f80544e7d,20,Approved,1.3127483549317345,False,False,False,False,Jackson Group,Low,2025-08
+1049,2025-03-21,28,220757,Payment,UPI,6fd6bb84-6f30-4827-9a61-84dc28dfa5ab,23,Approved,0.8354902262160853,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-03
+1050,2025-03-16,38,250847,Invoice,NEFT,176b1fb2-aa53-4719-a359-1e8f10c70fe9,7,Approved,1.190953025549102,False,False,False,False,"Mason, Hopkins and May",Low,2025-03
+1051,2025-10-01,12,151025,Invoice,RTGS,3443d689-a6b9-4089-b3f3-9da04e3db25c,42,Approved,0.0117237947408464,False,False,False,False,Moreno-Le,Medium,2025-10
+1052,2025-08-03,12,193262,Payment,RTGS,ef0aa67b-28bf-41cf-8394-8b0aeb25a8fe,10,Approved,0.5106829923290364,False,False,False,False,Moreno-Le,Medium,2025-08
+1053,2025-05-09,17,108619,Invoice,RTGS,2e7604fa-3137-485c-8536-2d666cb1904a,41,Approved,-0.4892318539303371,False,False,False,False,Lewis-Sullivan,Medium,2025-05
+1054,2025-06-09,34,38477,Payment,RTGS,442bee2a-d5e7-4c01-bddd-1155d2586ae4,45,Approved,-1.3178417466128387,False,False,False,False,"Yu, Nelson and Martinez",High,2025-06
+1055,2025-10-19,34,246422,Payment,RTGS,8f7e53ce-f805-49cf-a84d-059df1b1c0b0,50,Approved,1.1386790844707173,False,False,False,False,"Yu, Nelson and Martinez",High,2025-10
+1056,2025-02-28,32,256842,Invoice,RTGS,0559bdde-2871-4234-a29c-1c84017331e3,22,Rejected,1.261773879055298,False,True,False,True,Nelson Ltd,High,2025-02
+1057,2025-12-10,67,131044,Payment,NEFT,dff8cfe0-f35f-4eee-ae37-d57a3cafa8dc,7,Approved,-0.2243181525330987,False,False,False,False,Hays-Wolf,Medium,2025-12
+1058,2025-11-02,66,147339,Payment,UPI,a4c28ee2-05d4-456a-98dc-b6a23bc6c579,24,Approved,-0.0318201028444476,False,False,False,False,Moore-Fitzgerald,Low,2025-11
+1059,2025-07-21,6,54476,Payment,RTGS,df68893c-d76f-4797-8f80-2f1dbbaddaab,9,Approved,-1.128840439649431,False,False,False,False,Johnson Ltd,Low,2025-07
+1060,2025-09-07,83,165020,Payment,RTGS,b86cf8bd-b425-4285-9258-6194e5612cd4,4,Pending,0.1770512083887551,False,True,False,True,Mcmahon Group,High,2025-09
+1061,2025-09-09,99,261323,Invoice,NEFT,4f8fc951-8021-490e-a7c5-167dda6ac8bb,40,Approved,1.314709366054675,False,False,False,False,Wheeler Inc,Medium,2025-09
+1062,2024-12-15,35,290291,Invoice,NEFT,30628e4d-74f8-4d20-ba23-69472272c11e,4,Approved,1.6569176203278166,False,False,False,False,Collins-Salazar,Low,2024-12
+1063,2025-01-24,13,247330,Payment,NEFT,0b6e9239-3363-4f3b-a069-17d3bc70d0b8,36,Approved,1.1494055790468016,False,False,False,False,"Cox, Perry and Garcia",Low,2025-01
+1064,2025-05-19,99,56024,Invoice,RTGS,61b30fbe-385f-415f-8411-77fc955d44ae,13,Approved,-1.1105534202620095,False,False,False,False,Wheeler Inc,Medium,2025-05
+1065,2025-03-16,52,82994,Invoice,RTGS,211ba351-c3aa-4682-82b8-bcbb40ac6da3,22,Approved,-0.7919481793842607,False,False,False,False,Williams PLC,Medium,2025-03
+1066,2025-09-07,55,128714,Invoice,RTGS,ffc546d4-d16b-4081-abf0-5cf7a79ef8ef,12,Approved,-0.2518431881743725,False,False,False,False,Strickland-Lam,Medium,2025-09
+1067,2025-08-14,84,278958,Invoice,NEFT,05ee6097-0a13-440b-b204-90e528ee212b,45,Approved,1.523037264567063,False,False,False,False,Clark-Romero,Low,2025-08
+1068,2025-01-20,74,266176,Payment,RTGS,b639ef42-4171-47d5-b9de-3c0cc272bd67,16,Approved,1.3720394081006413,False,False,False,False,"Johnson, Kirk and Allen",Low,2025-01
+1069,2025-06-16,35,161164,Payment,UPI,60ecebd2-3c9b-44e7-b8ba-28cbebf57194,7,Approved,0.1314990464004496,False,False,False,False,Collins-Salazar,Low,2025-06
+1070,2025-11-22,10,41713,Payment,RTGS,bf9680d8-f494-44d2-8181-ee905f37f80a,3,Approved,-1.279613843035516,False,False,False,False,Young LLC,Low,2025-11
+1071,2025-10-04,75,217204,Invoice,NEFT,3aaee3a2-a819-4bd0-acb6-076d327a951d,2,Pending,0.793517500193147,False,True,False,True,"Bauer, Oconnell and Schmidt",High,2025-10
+1072,2025-04-25,63,48539,Invoice,RTGS,38849c3e-1f08-4143-9a13-d947905447a2,50,Approved,-1.1989761205945997,False,False,False,False,"Williams, Smith and Hardy",Medium,2025-04
+1073,2025-10-17,12,53784,Invoice,UPI,70627446-e6f4-4740-a4a0-76e21f8d8b6e,6,Approved,-1.1370152571016892,False,False,False,False,Moreno-Le,Medium,2025-10
+1074,2025-06-01,91,58997,Payment,RTGS,682f1537-f44c-4c22-ac63-ad266793cff1,2,Pending,-1.0754324198493457,False,True,False,True,Davis PLC,High,2025-06
+1075,2025-06-05,84,221398,Payment,NEFT,e2475588-f554-42ba-9be9-e1e43d771b3a,29,Approved,0.84306256434744,False,False,False,False,Clark-Romero,Low,2025-06
+1076,2025-02-09,49,198587,Invoice,RTGS,9c6388c8-0998-4526-94c1-eea09e300e9d,50,Approved,0.5735889214233639,False,False,False,False,"Wilson, Hale and Allen",High,2025-02
+1077,2025-11-14,18,206893,Payment,NEFT,aa8cdfe6-8491-484a-9680-92d3fd246e62,37,Approved,0.6717103574904971,False,False,False,False,"Gonzalez, Maynard and Pham",Medium,2025-11
+1078,2025-05-29,95,128711,Payment,UPI,3dc425db-0518-425c-8e83-7c53b9c78ff3,42,Approved,-0.2518786281344257,False,False,False,False,Fox-Turner,High,2025-05
+1079,2024-12-22,44,109672,Payment,RTGS,f091a2da-c9f7-4d21-bb8b-fc5bb9df87a0,38,Approved,-0.4767924279516842,False,False,False,False,Dorsey Inc,Low,2024-12
+1080,2025-09-06,28,118153,Payment,NEFT,a7debf58-c3c4-403f-8290-27ebea864df4,41,Approved,-0.376603660881451,False,False,False,False,"Williamson, Mendez and Morgan",Low,2025-09
+1081,2025-07-17,69,90366,Payment,NEFT,95c25861-4529-43d1-9bff-f9426422ca72,39,Pending,-0.7048603842136724,False,True,False,True,Bryant-Williams,Low,2025-07
+1082,2025-04-21,24,168004,Invoice,RTGS,828d92ef-9530-42e8-a334-38269fdff7ab,45,Approved,0.2123021553216139,False,False,False,False,Cherry Ltd,Low,2025-04
+1083,2025-03-15,7,182577,Invoice,NEFT,0caaaf5f-279e-4db7-8465-81f5a038815e,38,Approved,0.3844576679397613,False,False,False,False,Ferguson LLC,Low,2025-03
+1084,2025-11-18,92,110185,Invoice,UPI,6981b8c5-a32f-4112-b688-47acfb202753,32,Approved,-0.4707321947825968,False,False,False,False,Jackson Group,Low,2025-11
+1085,2025-01-28,95,127002,Invoice,NEFT,7a747913-adcb-4ea8-aee7-4aa2b0c0366f,39,Rejected,-0.2720675920446991,False,True,False,True,Fox-Turner,High,2025-01
+1086,2025-08-09,3,149375,Payment,NEFT,23c75287-342b-4338-9cd6-2c725054e6d0,11,Approved,-0.0077681832883817,False,False,False,False,"Hale, Rush and Smith",Low,2025-08
+1087,2025-08-25,58,43090,Invoice,NEFT,ab18ad9b-6f72-497d-bdda-387c5b17105d,21,Approved,-1.2633469013711236,False,False,False,False,Frye-Walker,Low,2025-08
+1088,2025-03-24,46,173001,Invoice,UPI,a710667a-b761-418a-9c3c-7b858b61d510,47,Approved,0.2713333154501312,False,False,False,False,"Moran, Wright and Tucker",Low,2025-03
+1089,2025-09-24,65,292166,Invoice,UPI,340c542e-3e43-4ef7-8dc6-1f815044d73d,31,Approved,1.6790675953610306,False,False,False,False,Jones Group,Medium,2025-09
+1090,2025-10-17,1,192877,Payment,UPI,6e03b30e-9391-4a6d-b581-b1f5361f9fe8,2,Pending,0.5061348641222164,False,True,False,True,Clarke-Carlson,Medium,2025-10
+1091,2025-03-27,64,210380,Invoice,RTGS,d17b6741-261a-4143-81e7-952eac13d5a4,34,Approved,0.7129034043922662,False,False,False,False,English and Sons,Low,2025-03
+1092,2025-11-28,61,106489,Payment,RTGS,9fefc078-1a44-48b1-8b31-7773a068b935,21,Approved,-0.5143942255680681,False,False,False,False,Hartman LLC,Medium,2025-11
+1093,2025-10-17,70,253815,Invoice,UPI,ded7d688-5e0c-44a0-9f4f-a1104b4c2f10,10,Approved,1.2260149593616776,False,False,False,False,Gaines-Marshall,Low,2025-10
+1094,2025-04-09,90,76356,Invoice,NEFT,8914365a-d91e-4ac7-99de-78b434f0a173,26,Approved,-0.8703649976618467,False,False,False,False,"Solomon, Charles and Tyler",Low,2025-04
+1095,2025-08-25,26,151692,Payment,UPI,faa21d24-091f-4b4e-a3d5-32558c677beb,16,Approved,0.0196032791926617,False,False,False,False,Brown-Salas,Low,2025-08
+1096,2025-12-06,37,193674,Payment,UPI,5f9f0bcc-982c-4000-af1b-cc321a1e6f0e,31,Rejected,0.5155500801763346,False,True,False,True,"Miller, Robinson and Curtis",Medium,2025-12
+1097,2025-08-10,80,283676,Payment,RTGS,2f9b829a-099f-46ca-a940-a571cdda8c84,27,Pending,1.578772508410638,False,True,False,True,Barker and Sons,Medium,2025-08
+1098,2025-09-15,58,33477,Invoice,RTGS,a8022e4d-097b-4d6d-bb4c-78e85bf8307b,46,Pending,-1.3769083467014092,False,True,False,True,Frye-Walker,Low,2025-09
+1099,2025-06-11,72,73359,Invoice,NEFT,8284969f-26b3-42f2-a752-0d8ca7394237,7,Approved,-0.905769517754936,False,False,False,False,Baker-Maldonado,Low,2025-06
+1100,2025-09-07,21,296829,Invoice,NEFT,61941e15-76cd-4bd9-a8c1-a3b3b185f095,20,Approved,1.734153106603631,False,False,False,False,Marshall PLC,Low,2025-09
+1101,,10,50000,Payment,NEFT,DUPLICATE_TXN,46,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1102,,10,50000,Payment,NEFT,DUPLICATE_TXN,31,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1103,,10,50000,Payment,NEFT,DUPLICATE_TXN,50,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1104,,10,50000,Payment,NEFT,DUPLICATE_TXN,29,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1105,,10,50000,Payment,NEFT,DUPLICATE_TXN,48,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1106,,10,50000,Payment,NEFT,DUPLICATE_TXN,9,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1107,,10,50000,Payment,NEFT,DUPLICATE_TXN,15,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1108,,10,50000,Payment,NEFT,DUPLICATE_TXN,30,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1109,,10,50000,Payment,NEFT,DUPLICATE_TXN,26,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1110,,10,50000,Payment,NEFT,DUPLICATE_TXN,10,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1111,,10,50000,Payment,NEFT,DUPLICATE_TXN,29,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1112,,10,50000,Payment,NEFT,DUPLICATE_TXN,16,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1113,,10,50000,Payment,NEFT,DUPLICATE_TXN,36,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1114,,10,50000,Payment,NEFT,DUPLICATE_TXN,20,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1115,,10,50000,Payment,NEFT,DUPLICATE_TXN,45,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1116,,10,50000,Payment,NEFT,DUPLICATE_TXN,37,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1117,,10,50000,Payment,NEFT,DUPLICATE_TXN,22,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1118,,10,50000,Payment,NEFT,DUPLICATE_TXN,7,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1119,,10,50000,Payment,NEFT,DUPLICATE_TXN,23,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1120,,10,50000,Payment,NEFT,DUPLICATE_TXN,41,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1121,,10,50000,Payment,NEFT,DUPLICATE_TXN,40,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1122,,10,50000,Payment,NEFT,DUPLICATE_TXN,29,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1123,,10,50000,Payment,NEFT,DUPLICATE_TXN,16,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1124,,10,50000,Payment,NEFT,DUPLICATE_TXN,38,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1125,,10,50000,Payment,NEFT,DUPLICATE_TXN,28,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1126,,10,50000,Payment,NEFT,DUPLICATE_TXN,48,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1127,,10,50000,Payment,NEFT,DUPLICATE_TXN,38,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1128,,10,50000,Payment,NEFT,DUPLICATE_TXN,31,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1129,,10,50000,Payment,NEFT,DUPLICATE_TXN,14,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1130,,10,50000,Payment,NEFT,DUPLICATE_TXN,33,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1131,,10,50000,Payment,NEFT,DUPLICATE_TXN,9,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1132,,10,50000,Payment,NEFT,DUPLICATE_TXN,27,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1133,,10,50000,Payment,NEFT,DUPLICATE_TXN,24,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1134,,10,50000,Payment,NEFT,DUPLICATE_TXN,13,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1135,,10,50000,Payment,NEFT,DUPLICATE_TXN,26,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1136,,10,50000,Payment,NEFT,DUPLICATE_TXN,29,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1137,,10,50000,Payment,NEFT,DUPLICATE_TXN,49,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1138,,10,50000,Payment,NEFT,DUPLICATE_TXN,43,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1139,,10,50000,Payment,NEFT,DUPLICATE_TXN,28,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1140,,10,50000,Payment,NEFT,DUPLICATE_TXN,28,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1141,,10,50000,Payment,NEFT,DUPLICATE_TXN,8,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1142,,10,50000,Payment,NEFT,DUPLICATE_TXN,23,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1143,,10,50000,Payment,NEFT,DUPLICATE_TXN,29,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1144,,10,50000,Payment,NEFT,DUPLICATE_TXN,5,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1145,,10,50000,Payment,NEFT,DUPLICATE_TXN,42,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1146,,10,50000,Payment,NEFT,DUPLICATE_TXN,7,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1147,,10,50000,Payment,NEFT,DUPLICATE_TXN,42,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1148,,10,50000,Payment,NEFT,DUPLICATE_TXN,36,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1149,,10,50000,Payment,NEFT,DUPLICATE_TXN,41,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1150,,10,50000,Payment,NEFT,DUPLICATE_TXN,27,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1151,,10,50000,Payment,NEFT,DUPLICATE_TXN,46,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1152,,10,50000,Payment,NEFT,DUPLICATE_TXN,2,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1153,,10,50000,Payment,NEFT,DUPLICATE_TXN,25,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1154,,10,50000,Payment,NEFT,DUPLICATE_TXN,9,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1155,,10,50000,Payment,NEFT,DUPLICATE_TXN,27,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1156,,10,50000,Payment,NEFT,DUPLICATE_TXN,1,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1157,,10,50000,Payment,NEFT,DUPLICATE_TXN,23,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1158,,10,50000,Payment,NEFT,DUPLICATE_TXN,10,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1159,,10,50000,Payment,NEFT,DUPLICATE_TXN,42,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1160,,10,50000,Payment,NEFT,DUPLICATE_TXN,25,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1161,,10,50000,Payment,NEFT,DUPLICATE_TXN,3,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1162,,10,50000,Payment,NEFT,DUPLICATE_TXN,6,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1163,,10,50000,Payment,NEFT,DUPLICATE_TXN,6,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1164,,10,50000,Payment,NEFT,DUPLICATE_TXN,2,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1165,,10,50000,Payment,NEFT,DUPLICATE_TXN,18,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1166,,10,50000,Payment,NEFT,DUPLICATE_TXN,23,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1167,,10,50000,Payment,NEFT,DUPLICATE_TXN,2,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1168,,10,50000,Payment,NEFT,DUPLICATE_TXN,12,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1169,,10,50000,Payment,NEFT,DUPLICATE_TXN,22,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1170,,10,50000,Payment,NEFT,DUPLICATE_TXN,37,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1171,,10,50000,Payment,NEFT,DUPLICATE_TXN,20,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1172,,10,50000,Payment,NEFT,DUPLICATE_TXN,39,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1173,,10,50000,Payment,NEFT,DUPLICATE_TXN,24,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1174,,10,50000,Payment,NEFT,DUPLICATE_TXN,48,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1175,,10,50000,Payment,NEFT,DUPLICATE_TXN,20,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1176,,10,50000,Payment,NEFT,DUPLICATE_TXN,1,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1177,,10,50000,Payment,NEFT,DUPLICATE_TXN,1,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1178,,10,50000,Payment,NEFT,DUPLICATE_TXN,17,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1179,,10,50000,Payment,NEFT,DUPLICATE_TXN,1,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1180,,10,50000,Payment,NEFT,DUPLICATE_TXN,45,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1181,,10,50000,Payment,NEFT,DUPLICATE_TXN,30,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1182,,10,50000,Payment,NEFT,DUPLICATE_TXN,41,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1183,,10,50000,Payment,NEFT,DUPLICATE_TXN,47,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1184,,10,50000,Payment,NEFT,DUPLICATE_TXN,3,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1185,,10,50000,Payment,NEFT,DUPLICATE_TXN,46,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1186,,10,50000,Payment,NEFT,DUPLICATE_TXN,11,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1187,,10,50000,Payment,NEFT,DUPLICATE_TXN,24,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1188,,10,50000,Payment,NEFT,DUPLICATE_TXN,22,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1189,,10,50000,Payment,NEFT,DUPLICATE_TXN,44,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1190,,10,50000,Payment,NEFT,DUPLICATE_TXN,45,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1191,,10,50000,Payment,NEFT,DUPLICATE_TXN,26,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1192,,10,50000,Payment,NEFT,DUPLICATE_TXN,13,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1193,,10,50000,Payment,NEFT,DUPLICATE_TXN,1,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1194,,10,50000,Payment,NEFT,DUPLICATE_TXN,24,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1195,,10,50000,Payment,NEFT,DUPLICATE_TXN,10,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1196,,10,50000,Payment,NEFT,DUPLICATE_TXN,35,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1197,,10,50000,Payment,NEFT,DUPLICATE_TXN,24,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1198,,10,50000,Payment,NEFT,DUPLICATE_TXN,28,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1199,,10,50000,Payment,NEFT,DUPLICATE_TXN,36,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
+1200,,10,50000,Payment,NEFT,DUPLICATE_TXN,16,Approved,-1.1817168600487191,True,False,False,True,Young LLC,Low,NaT
