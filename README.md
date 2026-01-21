@@ -86,6 +86,9 @@ Dashboard Auto-Refresh
 Looker Studio dashboards update automatically when data changes
 
 📁 Repository Structure
+
+
+
 Auditdata_Appscript_automation/
 │
 ├── appscript/
@@ -101,14 +104,15 @@ Auditdata_Appscript_automation/
 │   │   └── error_monitoring_dashboard.png
 │   │
 │   └── tableau/
-│       ├── audit_risk_dashboard.png
+│       └── audit_risk_dashboard.png
 │
 ├── data/
 │   └── sample/
 │       └── sample_audit_transactions.csv
 │
-├── .gitignore
-└── README.md
+├── README.md
+└── .gitignore
+
 
 
 📊 Dashboards
