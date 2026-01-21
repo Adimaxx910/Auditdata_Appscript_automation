@@ -101,7 +101,7 @@ Auditdata_Appscript_automation/
 │   │   └── error_monitoring_dashboard.png
 │   │
 │   └── tableau/
-│       ├── audit_risk_dashboard.png 
+│       ├── audit_risk_dashboard.png
 │
 ├── data/
 │   └── sample/
@@ -109,6 +109,7 @@ Auditdata_Appscript_automation/
 │
 ├── .gitignore
 └── README.md
+
 
 📊 Dashboards
 🔹 Looker Studio
