@@ -1,152 +1,116 @@
-🔍 Audit Data Apps Script Automation & BI Dashboards
-📌 Project Overview
+# Audit Data Apps Script Automation & BI Dashboards
 
-This project demonstrates an end-to-end automated audit analytics system built using Google Apps Script, Google Sheets, and BI dashboards (Looker Studio & Tableau).
+## Project Overview
 
-The system ingests audit transaction data received as CSV files, applies audit validation and risk logic, triggers automated alerts, logs executions and failures, and visualizes insights through interactive dashboards — all with zero manual intervention.
+This project is an end-to-end automated audit analytics system built using Google Apps Script, Google Sheets, and BI dashboards (Looker Studio and Tableau).
 
-🎯 Business Objective
+The system ingests audit transaction data from CSV files, validates and analyzes risk conditions, sends automated alerts, logs executions and failures, and visualizes insights through dashboards with zero manual intervention.
 
-Traditional audit processes are often manual and reactive.
-This project aims to make audit analytics proactive, automated, and transparent by:
+---
 
-Detecting risky transactions early
+## Business Objective
 
-Alerting stakeholders automatically
+Traditional audit processes are manual and reactive.  
+This project makes audit analytics proactive by:
 
-Maintaining a full audit trail
+- Detecting risky transactions early
+- Triggering automated alerts
+- Maintaining audit and error logs
+- Providing management-ready dashboards
 
-Providing management-ready dashboards
+---
 
-🏗️ Architecture Overview
-CSV Audit Data (Email / Drive)
-        ↓
-Google Apps Script (Automation Layer)
-  - Data ingestion
-  - Validation checks
-  - Risk detection
-  - Email alerts
-  - Execution & failure logging
-        ↓
-Google Sheets (Staging & Audit Layer)
-  - Raw_Data
-  - Audit_Alerts
-  - Error_Log
-        ↓
-BI Dashboards
-  - Looker Studio
-  - Tableau
+## Architecture Overview
 
-⚙️ Tech Stack
+CSV Audit Data  
+↓  
+Google Apps Script (Automation Layer)  
+↓  
+Google Sheets (Staging & Logs)  
+↓  
+Looker Studio / Tableau Dashboards  
 
-Google Apps Script – ETL, automation, alerting
+---
 
-Google Sheets – Staging, audit trail, logs
+## Tech Stack
 
-Looker Studio – Automated dashboards
+- Google Apps Script – Automation, ETL, alerts
+- Google Sheets – Staging layer and audit logs
+- Looker Studio – Automated dashboards
+- Tableau – Visual analytics
+- CSV Files – Source data
+- GitHub – Version control
 
-Tableau – Advanced visual analytics
+---
 
-CSV Files – Source data
+## Automated Workflow
 
-GitHub – Version control & documentation
+1. Load audit CSV data into Google Sheets
+2. Validate data quality and schema
+3. Detect audit risks (duplicates, policy violations, thresholds)
+4. Send automated email alerts
+5. Log executions and failures
+6. Auto-refresh dashboards
 
-🔁 Automated Workflow
+---
 
-Data Ingestion
-
-Loads latest audit CSV file into Google Sheets (Raw_Data)
-
-Data Validation
-
-Schema checks
-
-Missing or invalid data handling
-
-Audit Risk Detection
-
-Duplicate payments
-
-Weekend transactions
-
-Threshold-based risk evaluation
-
-Automated Alerts
-
-Email alerts triggered when risk exceeds threshold
-
-Execution Logging
-
-Every run logged to Audit_Alerts
-
-Failures logged to Error_Log
-
-Dashboard Auto-Refresh
-
-Looker Studio dashboards update automatically when data changes
-
-📁 Repository Structure
-
-
+## Repository Structure
 
 Auditdata_Appscript_automation/
-│
 ├── appscript/
-│   ├── loadAuditCSV.gs
-│   ├── validateAuditData.gs
-│   ├── sendAuditAlert.gs
-│   └── logError.gs
+│ ├── loadAuditCSV.gs
+│ ├── validateAuditData.gs
+│ ├── sendAuditAlert.gs
+│ └── logError.gs
 │
 ├── dashboards/
-│   ├── looker/
-│   │   ├── audit_risk_dashboard.png
-│   │   ├── alert_history_dashboard.png
-│   │   └── error_monitoring_dashboard.png
-│   │
-│   └── tableau/
-│       └── audit_risk_dashboard.png
+│ ├── looker/
+│ │ ├── audit_risk_dashboard.png
+│ │ ├── alert_history_dashboard.png
+│ │ └── error_monitoring_dashboard.png
+│ │
+│ └── tableau/
+│ └── audit_risk_dashboard.png
 │
 ├── data/
-│   └── sample/
-│       └── sample_audit_transactions.csv
+│ └── sample/
+│ └── sample_audit_transactions.csv
 │
-├── README.md
-└── .gitignore
+├── .gitignore
+└── README.md
 
 
 
-📊 Dashboards
-🔹 Looker Studio
+---
 
-Audit Risk KPIs
+## Dashboards
 
-Monthly risk trends
+### Looker Studio
+- Audit Risk KPIs
+- Monthly risk trends
+- Vendor and employee risk analysis
+- Alert history monitoring
+- Automation health tracking
 
-Vendor & employee risk analysis
+### Tableau
+- Risk KPIs
+- Monthly trends
+- Duplicate payment analysis
+- Interactive filters
 
-Alert history monitoring
+Dashboards are shared via screenshots for security reasons.
 
-Error & automation health tracking
-
-
-
-(Dashboards are showcased via screenshots for security reasons.)
-
-
-👤 Author
-
-Adithya G
-Data Analyst | BI & Automation Enthusiast
+---
 
 
-🚀 Future Enhancements
+Adithya G  
+Data Analyst | BI & Automation
 
-Machine-learning-based risk scoring
+---
 
-BigQuery / PostgreSQL backend
+## Future Enhancements
 
-Slack / Teams alerts
-
-Incremental data loads
-
-Role-based dashboard access
+- Machine learning based risk scoring
+- BigQuery or PostgreSQL backend
+- Slack or Teams alerts
+- Incremental data processing
