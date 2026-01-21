@@ -39,6 +39,7 @@ Auto-refresh dashboards
 
 ## Repository Structure
 
+
 Auditdata_Appscript_automation/
 ├── appscript/
 │ ├── loadAuditCSV.gs
@@ -62,8 +63,7 @@ Auditdata_Appscript_automation/
 ├── .gitignore
 └── README.md
 
-Copy code
-⚠️ Very important:
+
 
 
 
