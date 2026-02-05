@@ -84,6 +84,9 @@ Auditdata_Appscript_automation/
 ## Dashboards
 
 ### Looker Studio
+
+<img width="735" height="473" alt="alert_history_dashboard" src="https://github.com/user-attachments/assets/e3d99525-2165-4724-b226-9e125953f144" />
+
 - Audit Risk KPIs
 - Monthly risk trends
 - Vendor and employee risk analysis
@@ -124,7 +127,7 @@ If the threshold is not breached, the execution is logged without sending an ale
 
 ---
 
-## Interview Summary
+##  Summary
 
 I built an automated audit analytics system using Google Apps Script and BI dashboards that performs daily risk checks, sends alerts, logs executions and failures, and refreshes dashboards automatically.
 
