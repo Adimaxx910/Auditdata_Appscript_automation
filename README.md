@@ -84,6 +84,9 @@ Auditdata_Appscript_automation/
 ---
 
 ## Dashboards
+<img width="802" height="566" alt="Looker_studio_Dashboard" src="https://github.com/user-attachments/assets/16a4fe89-ee35-428a-b0cb-12c2f0a3ed8b" />
+<img width="735" height="473" alt="alert_history_dashboard" src="https://github.com/user-attachments/assets/402cd632-c3e0-4c35-b87e-bdf24b21fd11" />
+
 
 ### Looker Studio
 
