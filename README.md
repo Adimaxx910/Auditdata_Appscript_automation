@@ -85,6 +85,10 @@ Auditdata_Appscript_automation/
 
 ### Looker Studio
 
+
+<img width="802" height="566" alt="Looker_studio_Dashboard" src="https://github.com/user-attachments/assets/c293d6ec-4962-4bb6-a900-2fe727723205" />
+
+
 <img width="735" height="473" alt="alert_history_dashboard" src="https://github.com/user-attachments/assets/e3d99525-2165-4724-b226-9e125953f144" />
 
 - Audit Risk KPIs
