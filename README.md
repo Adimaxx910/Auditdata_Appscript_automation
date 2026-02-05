@@ -55,6 +55,8 @@ Looker Studio / Tableau Dashboards
 ---
 
 ## Repository Structure
+```text
+
 
 Auditdata_Appscript_automation/
 ├── appscript/
@@ -78,9 +80,8 @@ Auditdata_Appscript_automation/
 │
 ├── .gitignore
 └── README.md
-
----
 ```
+---
 
 ## Dashboards
 
